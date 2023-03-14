@@ -2843,3 +2843,209 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.14-11.16.49:700][  6]PIE: Server logged in
 [2023.03.14-11.16.49:702][  6]PIE: Play in editor total start time 0.164 seconds.
 [2023.03.14-11.16.49:740][  6]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2023.03.14-11.52.09:299][401]LogDerivedDataCache: C:/Users/jrhod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.098 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.14-12.52.09:398][124]LogDerivedDataCache: C:/Users/jrhod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.063 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.14-13.20.23:627][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.14-13.20.23:627][227]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.14-13.20.23:630][227]LogSlate: Window 'Group6JellyGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.14-13.20.23:637][227]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.14-13.20.23:638][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-13.20.23:651][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.14-13.20.23:656][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-13.20.23:686][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.14-13.20.23:687][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.14-13.20.23:689][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.14-13.20.23:702][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.14-13.20.23:930][228]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.03.14-13.20.27:379][288]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.03.14-13.20.27:381][288]LogSavePackage: Moving 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/BP_ThirdPersonCharacterB868E2C14B4F497D1391AFBDFCE1DBBE.tmp' to 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.14-13.20.27:392][288]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.14-13.20.27:392][288]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.14-13.20.44:262][264]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.14-13.21.13:793][974]Running D:/Program Files/Unreal/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" -game -rocket -progress
+[2023.03.14-13.21.14:837][974]Log file: C:\Users\jrhod\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.03.14-13.21.14:837][974]
+[2023.03.14-13.21.14:837][974]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.03.14-13.21.14:837][974]See the log file for detailed information
+[2023.03.14-13.21.14:837][974]
+[2023.03.14-13.21.14:837][974]Discovering modules, targets and source code for project...
+[2023.03.14-13.21.36:852][974]Binding IntelliSense data...
+[2023.03.14-13.21.42:413][974]Binding IntelliSense data... 100%
+[2023.03.14-13.21.42:413][974]Writing project files...
+[2023.03.14-13.21.59:623][974]Writing project files... 33%
+[2023.03.14-13.21.59:624][974]Writing project files... 100%
+[2023.03.14-13.22.01:314][974]Candidate modules for hot reload:
+[2023.03.14-13.22.01:314][974]  Group6JellyGame
+[2023.03.14-13.22.01:340][974]Launching UnrealBuildTool... [D:/Program Files/Unreal/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=Group6JellyGame,1281 Group6JellyGameEditor Win64 Development -Project="C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" "C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject"  -IgnoreJunk]
+[2023.03.14-13.24.21:914][974]CompilerResultsLog: New page: Compilation - 14 Mar 2023, 13:24:21
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Log file: C:\Users\jrhod\AppData\Local\UnrealBuildTool\Log.txt
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game).
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Creating makefile for Group6JellyGameEditor (no existing makefile)
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Parsing headers for Group6JellyGameEditor
+[2023.03.14-13.24.22:030][974]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Group6JellyGame.uproject" "C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Intermediate\Build\Win64\Group6JellyGameEditor\Development\Group6JellyGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\jrhod\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Reflection code generated for Group6JellyGameEditor in 46.4579847 seconds
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Building Group6JellyGameEditor...
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2023.03.14-13.24.22:030][974]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2023.03.14-13.24.22:030][974]CompilerResultsLog:   Requested 1.5 GB free memory per action, 3.01 GB available: limiting max parallel actions to 2
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: Building 13 actions with 2 processes...
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [1/13] Resource Default.rc2
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [2/13] Compile SharedPCH.Engine.ShadowErrors.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [3/13] Compile Group6JellyGame.init.gen.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [4/13] Compile jelly.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [5/13] Compile Group6JellyGameCharacter.gen.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [6/13] Compile Group6JellyGameGameMode.gen.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [7/13] Compile jelly.gen.cpp
+[2023.03.14-13.24.22:030][974]CompilerResultsLog: [8/13] Compile Group6JellyGameGameMode.cpp
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: [9/13] Compile Group6JellyGame.cpp
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: [10/13] Compile Group6JellyGameCharacter.cpp
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: [11/13] Link UnrealEditor-Group6JellyGame-1281.lib
+[2023.03.14-13.24.22:031][974]CompilerResultsLog:    Creating library C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Intermediate\Build\Win64\UnrealEditor\Development\Group6JellyGame\UnrealEditor-Group6JellyGame-1281.lib and object C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Intermediate\Build\Win64\UnrealEditor\Development\Group6JellyGame\UnrealEditor-Group6JellyGame-1281.exp
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: [12/13] Link UnrealEditor-Group6JellyGame-1281.dll
+[2023.03.14-13.24.22:031][974]CompilerResultsLog:    Creating library C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Intermediate\Build\Win64\UnrealEditor\Development\Group6JellyGame\UnrealEditor-Group6JellyGame-1281.suppressed.lib and object C:\Users\jrhod\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Intermediate\Build\Win64\UnrealEditor\Development\Group6JellyGame\UnrealEditor-Group6JellyGame-1281.suppressed.exp
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: [13/13] WriteMetadata Group6JellyGameEditor.target
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: Total time in Parallel executor: 52.87 seconds
+[2023.03.14-13.24.22:031][974]CompilerResultsLog: Total execution time: 140.16 seconds
+[2023.03.14-13.24.22:122][974]LogMainFrame: MainFrame: Module compiling took 141.449 seconds
+[2023.03.14-13.24.22:996][974]LogClass: /Script/Group6JellyGame Reload.
+[2023.03.14-13.24.23:082][974]LogClass: Could not find existing class jelly in package /Script/Group6JellyGame for reload, assuming new or modified class
+[2023.03.14-13.24.26:256][974]Display: HotReload took 145.8s.
+[2023.03.14-13.24.26:444][974]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
+[2023.03.14-13.24.26:481][974]Warning: HotReload operation took 146.0s.
+[2023.03.14-13.24.26:693][974]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.03.14-13.24.30:713][974]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Source/Group6JellyGame/jelly.h'.
+[2023.03.14-13.24.30:713][974]LogVSAccessor: Warning: Couldn't open file 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Source/Group6JellyGame/jelly.cpp'.
+[2023.03.14-13.24.30:907][974]LogHotReload: New module detected: UnrealEditor-Group6JellyGame-1281.dll
+[2023.03.14-13.24.31:747][975]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.14-13.24.31:889][975]Display: HotReload took  0.1s.
+[2023.03.14-13.24.31:889][975]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.03.14-13.32.18:557][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly
+[2023.03.14-13.32.19:654][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.14-13.32.41:147][351]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.03.14-13.32.41:147][351]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [19361ms] waiting for h/w. InstanceID=1
+[2023.03.14-13.32.41:147][351]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.000000s
+[2023.03.14-13.32.46:035][351]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004754s (5.063717s overbudget)
+[2023.03.14-13.32.46:036][351]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.03.14-13.32.47:276][351]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21816
+[2023.03.14-13.32.47:276][351]LogViewport: Scene viewport resized to 1139x825, mode Windowed.
+[2023.03.14-13.32.47:887][352]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1cdbc6e7-70eb-4f18-a94f-cd2fac98236a}, Name=Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=247.52
+[2023.03.14-13.32.47:895][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.14-13.32.48:103][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.14-13.33.48:643][857]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.14-13.33.51:480][954]LogSlate: Took 0.075201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.14-13.34.26:359][672]BlueprintLog: New page: Compile Myjelly
+[2023.03.14-13.34.27:443][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.03.14-13.35.09:810][ 43]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Myjelly
+[2023.03.14-13.35.09:810][ 43]LogSavePackage: Moving 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Myjelly13348020452036E78C803DA7335A58F1.tmp' to 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/Myjelly.uasset'
+[2023.03.14-13.35.09:839][ 43]AssetCheck: New page: Asset Save: Myjelly
+[2023.03.14-13.35.09:839][ 43]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly
+[2023.03.14-13.35.11:083][111]BlueprintLog: New page: Compile Myjelly
+[2023.03.14-13.35.11:472][111]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2023.03.14-13.35.13:102][198]LogViewport: Scene viewport resized to 724x445, mode Windowed.
+[2023.03.14-13.35.15:109][297]LogViewport: Scene viewport resized to 1139x825, mode Windowed.
+[2023.03.14-13.35.18:818][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Myjelly.Myjelly_C
+[2023.03.14-13.35.18:819][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Myjelly.Myjelly_C
+[2023.03.14-13.35.18:960][438]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly as actor: Myjelly_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Myjelly_C_0
+[2023.03.14-13.35.18:961][438]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly as actor: Myjelly_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Myjelly_C_0
+[2023.03.14-13.35.20:854][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Myjelly.Myjelly_C
+[2023.03.14-13.35.20:854][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Myjelly.Myjelly_C
+[2023.03.14-13.35.21:582][547]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly as actor: Myjelly_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Myjelly_C_UAID_089798A69A1F4E6F01_1250886103
+[2023.03.14-13.35.21:583][547]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Myjelly.Myjelly as actor: Myjelly_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Myjelly_C_UAID_089798A69A1F4E6F01_1250886103
+[2023.03.14-13.35.27:225][738]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0X/DK8T8MJ9M6LUK9ZPOPFR5Y
+[2023.03.14-13.35.27:226][738]LogSavePackage: Moving 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/DK8T8MJ9M6LUK9ZPOPFR5Y9F769D664361ED181C7D8BB6710CCCF1.tmp' to 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0X/DK8T8MJ9M6LUK9ZPOPFR5Y.uasset'
+[2023.03.14-13.35.27:285][738]AssetCheck: New page: Asset Save: Myjelly_C_UAID_089798A69A1F4E6F01_1250886103
+[2023.03.14-13.35.27:285][738]LogContentValidation: Display: Validating Myjelly_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Myjelly_C_UAID_089798A69A1F4E6F01_1250886103
+[2023.03.14-13.35.28:411][795]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.14-13.35.29:276][795]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.14-13.35.29:286][795]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.14-13.35.29:286][795]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.14-13.35.29:292][795]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.14-13.35.29:292][795]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.14-13.35.29:292][795]LogWorldPartition: Display: GetPartitionedActors took 6 ms
+[2023.03.14-13.35.29:293][795]LogWorldPartition: Display: GenerateStreaming took 16 ms
+[2023.03.14-13.35.29:375][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.14-13.35.29:375][795]PIE: New page: PIE session: ThirdPersonMap (14 Mar 2023, 13:35:29)
+[2023.03.14-13.35.29:418][795]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.14-13.35.29:669][795]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.14-13.35.29:690][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.271327s)
+[2023.03.14-13.35.29:690][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.278702s)
+[2023.03.14-13.35.29:800][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.14-13.35.29:859][795]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.14-13.35.29:909][795]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.14-13.35.29:909][795]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.14-13.35.29:923][795]LogWorldPartition: Display: WorldPartition initialize took 13 ms
+[2023.03.14-13.35.29:937][795]LogPlayLevel: PIE: World Init took: (0.246531s)
+[2023.03.14-13.35.30:008][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.03.14-13.35.30:057][795]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.03.14-13.35.30:076][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.14-13.35.30:076][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.14-13.35.30:077][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.14-13.35.30:077][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.14-13.35.30:077][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.14-13.35.30:077][795]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.14-13.35.30:077][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.14-13.35.30:078][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.14-13.35.30:117][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.14-13.35.30:117][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.14-13.35.30:117][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.14-13.35.30:139][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.14-13.35.30:290][795]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.03.14-13.35.30:305][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.14-13.35.30:305][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.14-13.35.30:306][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.14-13.35.30:311][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.03.14-13.35.30:311][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.03.14-13.35.30:313][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.03.14-13.35.30:313][795]LogInit: FAudioDevice initialized.
+[2023.03.14-13.35.30:313][795]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2023.03.14-13.35.30:438][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.03.14-13.35.30:506][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.14-13.35.30:559][795]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.03.14-13.35.30:654][795]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.03.14-13.35.30
+[2023.03.14-13.35.30:787][795]LogWorld: Bringing up level for play took: 0.227744
+[2023.03.14-13.35.30:974][795]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.14-13.35.31:599][795]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.03.14-13.35.31:599][795]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.14-13.35.31:713][795]PIE: Server logged in
+[2023.03.14-13.35.31:716][795]PIE: Play in editor total start time 2.504 seconds.
+[2023.03.14-13.35.32:102][795]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2023.03.14-13.35.40:127][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.14-13.35.40:127][194]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.14-13.35.40:127][194]LogSlate: Window 'Group6JellyGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.14-13.35.40:168][194]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.14-13.35.40:168][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-13.35.40:182][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.14-13.35.40:190][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.14-13.35.40:282][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.14-13.35.40:285][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.14-13.35.40:347][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.03.14-13.35.40:408][195]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.14-13.35.59:305][815]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.14-13.35.59:313][815]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.14-13.35.59:349][816]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.14-13.36.01:785][951]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2023.03.14-13.36.01:939][951]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.14-13.36.12:752][531]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2023.03.14-13.36.12:758][531]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2023.03.14-13.36.12:799][533]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2023.03.14-13.36.24:085][203]LogContentBrowser: Attempting asset rename: NewBlackboardData -> jellyai
+[2023.03.14-13.36.24:138][203]LogContentBrowser: End creating deferred item NewBlackboardData
+[2023.03.14-13.36.25:989][273]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ThirdPerson/Blueprints/AI/jellyai.jellyai
+[2023.03.14-13.36.32:357][627]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AI/jellyai
+[2023.03.14-13.36.32:357][627]LogSavePackage: Moving 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/jellyai0E33138847B2159F910C37B3E815DFCC.tmp' to 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/AI/jellyai.uasset'
+[2023.03.14-13.36.32:375][627]AssetCheck: New page: Asset Save: jellyai
+[2023.03.14-13.36.32:375][627]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/Blueprints/AI/jellyai.jellyai
+[2023.03.14-13.36.38:219][957]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2023.03.14-13.36.38:224][957]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2023.03.14-13.36.38:238][958]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2023.03.14-13.36.50:468][666]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> jellypai
+[2023.03.14-13.36.50:469][666]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2023.03.14-13.36.51:734][742]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/Blueprints/AI/jellypai.jellypai
+[2023.03.14-13.36.54:015][742]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.03.14-13.36.54:016][742]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002946s (0.281592s overbudget)
+[2023.03.14-13.36.59:333][995]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AI/jellypai
+[2023.03.14-13.36.59:335][995]LogSavePackage: Moving 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/jellypai27894B0548311BFBD1E2599EE831E36E.tmp' to 'C:/Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/AI/jellypai.uasset'
+[2023.03.14-13.36.59:351][995]AssetCheck: New page: Asset Save: jellypai
+[2023.03.14-13.36.59:351][995]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/Blueprints/AI/jellypai.jellypai
+[2023.03.14-13.52.09:549][256]LogDerivedDataCache: C:/Users/jrhod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.245 and deleted 0 file(s) with total size 0 MiB.
