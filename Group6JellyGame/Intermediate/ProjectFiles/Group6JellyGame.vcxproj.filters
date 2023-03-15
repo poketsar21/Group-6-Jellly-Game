@@ -59,5 +59,11 @@
     <ClInclude Include="..\..\Source\Group6JellyGame\jelly.h">
       <Filter>Source\Group6JellyGame</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Group6JellyGame\Vent.cpp">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group6JellyGame\Vent.h">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
