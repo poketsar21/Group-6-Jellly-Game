@@ -2001,3 +2001,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.15-11.47.27:753][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2023.03.15-11.47.27:764][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
 [2023.03.15-11.47.27:819][257]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.15-12.17.59:159][989]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/MyVent
+[2023.03.15-12.17.59:162][989]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MyVent5399F3C74FAC9CDEC72083B0E6EB5BF3.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/MyVent.uasset'
+[2023.03.15-12.17.59:192][989]AssetCheck: New page: Asset Save: MyVent
+[2023.03.15-12.17.59:192][989]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/MyVent.MyVent
+[2023.03.15-12.19.32:627][761]LogDerivedDataCache: C:/Users/2001151/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
