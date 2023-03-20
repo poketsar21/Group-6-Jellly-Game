@@ -17,6 +17,11 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	//default ViewToggle as false
 	ViewToggle = false;
 
+	//scale control
+	FVector currentScale = GetActorScale3D();
+	CrouchSize = 0.2;
+	NormalSize = 1;
+
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
@@ -114,10 +119,12 @@ void AGroup6JellyGameCharacter::ChangeView()
 	if (ViewToggle)
 	{
 		//SetViewTargetWithBlend();
+		SetActorScale3D(FVector(NormalSize, NormalSize, NormalSize));
 		ViewToggle = false;
 	}
-	if (!ViewToggle)
+	else
 	{
+		SetActorScale3D(FVector(CrouchSize, CrouchSize, CrouchSize));
 		ViewToggle = true;
 	}
 }

@@ -55,6 +55,14 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 #endif
 		static void NewProp_ViewToggle_SetBit(void* Obj);
 		static const UECodeGen_Private::FBoolPropertyParams NewProp_ViewToggle;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_NormalSize_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_NormalSize;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_CrouchSize_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_CrouchSize;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -132,6 +140,20 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		((AGroup6JellyGameCharacter*)Obj)->ViewToggle = 1;
 	}
 	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_ViewToggle = { "ViewToggle", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AGroup6JellyGameCharacter), &Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_ViewToggle_SetBit, METADATA_PARAMS(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_ViewToggle_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_ViewToggle_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_NormalSize_MetaData[] = {
+		{ "Category", "Size" },
+		{ "ModuleRelativePath", "Group6JellyGameCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_NormalSize = { "NormalSize", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGroup6JellyGameCharacter, NormalSize), METADATA_PARAMS(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_NormalSize_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_NormalSize_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CrouchSize_MetaData[] = {
+		{ "Category", "Size" },
+		{ "ModuleRelativePath", "Group6JellyGameCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CrouchSize = { "CrouchSize", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGroup6JellyGameCharacter, CrouchSize), METADATA_PARAMS(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CrouchSize_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CrouchSize_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CameraBoom,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CameraBoom2,
@@ -139,6 +161,8 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_FirstCamera,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_TurnRateGamepad,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_ViewToggle,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_NormalSize,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CrouchSize,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AGroup6JellyGameCharacter>::IsAbstract,
@@ -176,9 +200,9 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AGroup6JellyGameCharacter, AGroup6JellyGameCharacter::StaticClass, TEXT("AGroup6JellyGameCharacter"), &Z_Registration_Info_UClass_AGroup6JellyGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGroup6JellyGameCharacter), 104598060U) },
+		{ Z_Construct_UClass_AGroup6JellyGameCharacter, AGroup6JellyGameCharacter::StaticClass, TEXT("AGroup6JellyGameCharacter"), &Z_Registration_Info_UClass_AGroup6JellyGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGroup6JellyGameCharacter), 2006642863U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_752439771(TEXT("/Script/Group6JellyGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_1277376460(TEXT("/Script/Group6JellyGame"),
 		Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

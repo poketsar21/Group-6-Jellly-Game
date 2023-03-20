@@ -34,6 +34,12 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Camera)
 	bool ViewToggle;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
+	float NormalSize;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
+	float CrouchSize;
+
 protected:
 
 	/** Called for forwards/backward input */
