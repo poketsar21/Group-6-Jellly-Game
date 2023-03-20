@@ -13,6 +13,10 @@
 
 AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 {
+
+	//default ViewToggle as false
+	ViewToggle = false;
+
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
@@ -43,10 +47,21 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	CameraBoom->TargetArmLength = 400.0f; // The camera follows at this distance behind the character	
 	CameraBoom->bUsePawnControlRotation = true; // Rotate the arm based on the controller
 
+	// Create a camera boom (pulls in towards the player if there is a collision)
+	CameraBoom2 = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom2"));
+	CameraBoom2->SetupAttachment(RootComponent);
+	CameraBoom2->TargetArmLength = 10.0f; // The camera follows at this distance behind the character	
+	CameraBoom2->bUsePawnControlRotation = true; // Rotate the arm based on the controller
+
 	// Create a follow camera
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
+
+	// Create a follow camera
+	FirstCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FrontCamera"));
+	FirstCamera->SetupAttachment(CameraBoom2); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
+	FirstCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
@@ -67,6 +82,9 @@ void AGroup6JellyGameCharacter::SetupPlayerInputComponent(class UInputComponent*
 
 	PlayerInputComponent->BindAxis("Move Forward / Backward", this, &AGroup6JellyGameCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("Move Right / Left", this, &AGroup6JellyGameCharacter::MoveRight);
+
+	//set up camera change
+	PlayerInputComponent->BindAction("SwitchCamera", IE_Pressed, this, &AGroup6JellyGameCharacter::ChangeView);
 
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
@@ -89,6 +107,19 @@ void AGroup6JellyGameCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVec
 void AGroup6JellyGameCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
 	StopJumping();
+}
+
+void AGroup6JellyGameCharacter::ChangeView()
+{
+	if (ViewToggle)
+	{
+		//SetViewTargetWithBlend();
+		ViewToggle = false;
+	}
+	if (!ViewToggle)
+	{
+		ViewToggle = true;
+	}
 }
 
 void AGroup6JellyGameCharacter::TurnAtRate(float Rate)
