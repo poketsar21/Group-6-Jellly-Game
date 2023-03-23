@@ -40,6 +40,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
 	float CrouchSize;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
+	bool IsCrouching;
+
 protected:
 
 	/** Called for forwards/backward input */
@@ -68,6 +71,9 @@ protected:
 
 	/* called to change the players height for the vents*/
 	void ChangeView();
+
+	/* called to change the players height for the vents*/
+	void ToggleCrouch();
 
 protected:
 	// APawn interface

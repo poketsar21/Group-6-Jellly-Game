@@ -90,6 +90,8 @@ void AGroup6JellyGameCharacter::SetupPlayerInputComponent(class UInputComponent*
 
 	//set up camera change
 	PlayerInputComponent->BindAction("SwitchCamera", IE_Pressed, this, &AGroup6JellyGameCharacter::ChangeView);
+	PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &AGroup6JellyGameCharacter::ToggleCrouch);
+
 
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
@@ -129,6 +131,22 @@ void AGroup6JellyGameCharacter::ChangeView()
 		SetActorScale3D(FVector(CrouchSize, CrouchSize, CrouchSize));
 		ViewToggle = true;
 	}
+}
+
+void AGroup6JellyGameCharacter::ToggleCrouch()
+{
+	if (IsCrouching) {
+		UnCrouch();
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Not Crouching"));
+		IsCrouching = false;
+	}
+	else
+	{
+		Crouch();
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Crouching"));
+		IsCrouching = true;
+	}
+
 }
 
 void AGroup6JellyGameCharacter::TurnAtRate(float Rate)
