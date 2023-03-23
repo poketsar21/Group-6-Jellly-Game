@@ -119,11 +119,13 @@ void AGroup6JellyGameCharacter::ChangeView()
 	if (ViewToggle)
 	{
 		//SetViewTargetWithBlend();
+		GetCharacterMovement()->MaxWalkSpeed = 500.f;
 		SetActorScale3D(FVector(NormalSize, NormalSize, NormalSize));
 		ViewToggle = false;
 	}
 	else
 	{
+		GetCharacterMovement()->MaxWalkSpeed = 300.f;
 		SetActorScale3D(FVector(CrouchSize, CrouchSize, CrouchSize));
 		ViewToggle = true;
 	}
