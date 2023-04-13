@@ -1134,3 +1134,7 @@ Recommended: 30.0.101.1340
 [2023.04.13-19.13.53:524][274]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_A3BCA2AA.Box_A3BCA2AA
 [2023.04.13-19.13.53:524][274]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D27801_1395228891
 [2023.04.13-19.13.53:524][274]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D27801_1423297892
+[2023.04.13-19.14.17:023][358]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1728806689 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PG/K0LFTV23SVTWKFL03D9MZ2.PackageMetaData in its package
+[2023.04.13-19.14.17:027][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.13-19.14.17:029][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2023.04.13-19.14.17:295][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
