@@ -21,6 +21,7 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	FVector currentScale = GetActorScale3D();
 	CrouchSize = 0.2;
 	NormalSize = 1;
+	PlayerHealth = 5;
 
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);

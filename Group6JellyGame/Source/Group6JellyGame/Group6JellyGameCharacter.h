@@ -43,6 +43,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
 	bool IsCrouching;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
+	float PlayerHealth;
+
 protected:
 
 	/** Called for forwards/backward input */
