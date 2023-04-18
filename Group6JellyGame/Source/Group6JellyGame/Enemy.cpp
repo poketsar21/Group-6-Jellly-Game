@@ -2,20 +2,18 @@
 
 
 #include "Enemy.h"
-#include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
-#include "Components/InputComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
 
 // Sets default values
 AEnemy::AEnemy()
 {
+ 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	PrimaryActorTick.bCanEverTick = true;
+
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
-
-	// set our turn rate for input
-	TurnRateGamepad = 50.f;
 
 	// Don't rotate when the controller rotates. Let that just affect the camera.
 	bUseControllerRotationPitch = false;
@@ -34,13 +32,14 @@ AEnemy::AEnemy()
 	GetCharacterMovement()->MinAnalogWalkSpeed = 20.f;
 	GetCharacterMovement()->BrakingDecelerationWalking = 2000.f;
 
-	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
-	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
-
 }
 
 // Called when the game starts or when spawned
-
+void AEnemy::BeginPlay()
+{
+	Super::BeginPlay();
+	
+}
 
 // Called every frame
 void AEnemy::Tick(float DeltaTime)

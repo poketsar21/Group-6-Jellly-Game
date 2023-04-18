@@ -29,6 +29,12 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\Group6JellyGame">
       <UniqueIdentifier>{D8D61EE0-C7E2-3D59-9188-A6B807C2BF58}</UniqueIdentifier>
     </Filter>
@@ -57,12 +63,6 @@
       <Filter>Source\Group6JellyGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Group6JellyGame\Group6JellyGameGameMode.h">
-      <Filter>Source\Group6JellyGame</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Group6JellyGame\jelly.cpp">
-      <Filter>Source\Group6JellyGame</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Group6JellyGame\jelly.h">
       <Filter>Source\Group6JellyGame</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Group6JellyGame\MyGroup6JellyGameCharacter.cpp">

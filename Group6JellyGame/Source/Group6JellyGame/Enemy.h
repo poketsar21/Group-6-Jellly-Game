@@ -14,34 +14,10 @@ class GROUP6JELLYGAME_API AEnemy : public ACharacter
 public:
 	// Sets default values for this character's properties
 	AEnemy();
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Input)
-		float TurnRateGamepad;
 
 protected:
 	// Called when the game starts or when spawned
-	/** Called for forwards/backward input */
-	void MoveForward(float Value);
-
-	/** Called for side to side input */
-	void MoveRight(float Value);
-
-	/**
-	 * Called via input to turn at a given rate.
-	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
-	 */
-	void TurnAtRate(float Rate);
-
-	/**
-	 * Called via input to turn look up/down at a given rate.
-	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
-	 */
-	void LookUpAtRate(float Rate);
-
-	/** Handler for when a touch input begins. */
-	void TouchStarted(ETouchIndex::Type FingerIndex, FVector Location);
-
-	/** Handler for when a touch input stops. */
-	void TouchStopped(ETouchIndex::Type FingerIndex, FVector Location);
+	virtual void BeginPlay() override;
 
 public:	
 	// Called every frame

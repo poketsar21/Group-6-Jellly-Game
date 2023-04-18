@@ -28,11 +28,6 @@ void EmptyLinkFunctionForGeneratedCodeEnemy() {}
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_TurnRateGamepad_MetaData[];
-#endif
-		static const UECodeGen_Private::FFloatPropertyParams NewProp_TurnRateGamepad;
-		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -47,16 +42,6 @@ void EmptyLinkFunctionForGeneratedCodeEnemy() {}
 		{ "ModuleRelativePath", "Enemy.h" },
 	};
 #endif
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemy_Statics::NewProp_TurnRateGamepad_MetaData[] = {
-		{ "Category", "Input" },
-		{ "ModuleRelativePath", "Enemy.h" },
-	};
-#endif
-	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_TurnRateGamepad = { "TurnRateGamepad", nullptr, (EPropertyFlags)0x0010000000020015, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEnemy, TurnRateGamepad), METADATA_PARAMS(Z_Construct_UClass_AEnemy_Statics::NewProp_TurnRateGamepad_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemy_Statics::NewProp_TurnRateGamepad_MetaData)) };
-	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemy_Statics::PropPointers[] = {
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_TurnRateGamepad,
-	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AEnemy_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AEnemy>::IsAbstract,
 	};
@@ -66,11 +51,11 @@ void EmptyLinkFunctionForGeneratedCodeEnemy() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		Z_Construct_UClass_AEnemy_Statics::PropPointers,
+		nullptr,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		UE_ARRAY_COUNT(Z_Construct_UClass_AEnemy_Statics::PropPointers),
+		0,
 		0,
 		0x009000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_AEnemy_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemy_Statics::Class_MetaDataParams))
@@ -93,9 +78,9 @@ void EmptyLinkFunctionForGeneratedCodeEnemy() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Enemy_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemy, AEnemy::StaticClass, TEXT("AEnemy"), &Z_Registration_Info_UClass_AEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemy), 1061432890U) },
+		{ Z_Construct_UClass_AEnemy, AEnemy::StaticClass, TEXT("AEnemy"), &Z_Registration_Info_UClass_AEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemy), 1841993931U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Enemy_h_2279799681(TEXT("/Script/Group6JellyGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Enemy_h_3313842546(TEXT("/Script/Group6JellyGame"),
 		Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Enemy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Enemy_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

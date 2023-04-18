@@ -21,6 +21,7 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	FVector currentScale = GetActorScale3D();
 	CrouchSize = 0.2;
 	NormalSize = 1;
+	PlayerHealth = 5;
 
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
@@ -90,6 +91,8 @@ void AGroup6JellyGameCharacter::SetupPlayerInputComponent(class UInputComponent*
 
 	//set up camera change
 	PlayerInputComponent->BindAction("SwitchCamera", IE_Pressed, this, &AGroup6JellyGameCharacter::ChangeView);
+	PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &AGroup6JellyGameCharacter::ToggleCrouch);
+
 
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
@@ -119,14 +122,32 @@ void AGroup6JellyGameCharacter::ChangeView()
 	if (ViewToggle)
 	{
 		//SetViewTargetWithBlend();
+		GetCharacterMovement()->MaxWalkSpeed = 500.f;
 		SetActorScale3D(FVector(NormalSize, NormalSize, NormalSize));
 		ViewToggle = false;
 	}
 	else
 	{
+		GetCharacterMovement()->MaxWalkSpeed = 300.f;
 		SetActorScale3D(FVector(CrouchSize, CrouchSize, CrouchSize));
 		ViewToggle = true;
 	}
+}
+
+void AGroup6JellyGameCharacter::ToggleCrouch()
+{
+	if (IsCrouching) {
+		UnCrouch();
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Not Crouching"));
+		IsCrouching = false;
+	}
+	else
+	{
+		Crouch();
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Crouching"));
+		IsCrouching = true;
+	}
+
 }
 
 void AGroup6JellyGameCharacter::TurnAtRate(float Rate)
