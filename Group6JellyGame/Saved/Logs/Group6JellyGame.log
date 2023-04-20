@@ -3065,3 +3065,4 @@ Recommended: 30.0.101.1340
 [2023.04.20-13.31.33:768][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.647ms to complete.
 [2023.04.20-13.31.33:768][240]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.487
 [2023.04.20-13.32.09:033][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.20-13.35.49:119][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
