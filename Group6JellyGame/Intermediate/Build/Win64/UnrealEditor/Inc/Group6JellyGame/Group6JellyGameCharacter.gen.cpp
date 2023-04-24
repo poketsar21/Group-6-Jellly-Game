@@ -82,6 +82,10 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_PlayerHealth_MetaData[];
 #endif
 		static const UECodeGen_Private::FFloatPropertyParams NewProp_PlayerHealth;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Size_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_Size;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -213,6 +217,13 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 	};
 #endif
 	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_PlayerHealth = { "PlayerHealth", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGroup6JellyGameCharacter, PlayerHealth), METADATA_PARAMS(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_PlayerHealth_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_PlayerHealth_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Size_MetaData[] = {
+		{ "Category", "Size" },
+		{ "ModuleRelativePath", "Group6JellyGameCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Size = { "Size", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGroup6JellyGameCharacter, Size), METADATA_PARAMS(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Size_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Size_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CameraBoom,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_CameraBoom2,
@@ -226,6 +237,7 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Changing,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Changing2,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_PlayerHealth,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::NewProp_Size,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AGroup6JellyGameCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AGroup6JellyGameCharacter>::IsAbstract,
@@ -263,9 +275,9 @@ void EmptyLinkFunctionForGeneratedCodeGroup6JellyGameCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AGroup6JellyGameCharacter, AGroup6JellyGameCharacter::StaticClass, TEXT("AGroup6JellyGameCharacter"), &Z_Registration_Info_UClass_AGroup6JellyGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGroup6JellyGameCharacter), 2187166833U) },
+		{ Z_Construct_UClass_AGroup6JellyGameCharacter, AGroup6JellyGameCharacter::StaticClass, TEXT("AGroup6JellyGameCharacter"), &Z_Registration_Info_UClass_AGroup6JellyGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGroup6JellyGameCharacter), 3325749857U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_1270912454(TEXT("/Script/Group6JellyGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_1343574672(TEXT("/Script/Group6JellyGame"),
 		Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

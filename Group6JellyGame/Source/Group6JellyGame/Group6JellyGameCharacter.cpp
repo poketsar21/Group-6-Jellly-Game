@@ -24,6 +24,7 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	PlayerHealth = 5;
 	Changing = true;
 	Changing2 = false;
+	Size = 0;
 
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
