@@ -43,7 +43,13 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
 	bool IsCrouching;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
+	bool Changing;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
+	bool Changing2;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
 	float PlayerHealth;
 
 protected:

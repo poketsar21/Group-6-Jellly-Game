@@ -22,6 +22,8 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	CrouchSize = 0.2;
 	NormalSize = 1;
 	PlayerHealth = 5;
+	Changing = true;
+	Changing2 = false;
 
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
@@ -138,12 +140,14 @@ void AGroup6JellyGameCharacter::ToggleCrouch()
 {
 	if (IsCrouching) {
 		UnCrouch();
+		GetCapsuleComponent()->SetCapsuleSize(42.0f, 96.0f);
 		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Not Crouching"));
 		IsCrouching = false;
 	}
 	else
 	{
 		Crouch();
+		GetCapsuleComponent()->SetCapsuleSize(42.0f, 48.0f);
 		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Crouching"));
 		IsCrouching = true;
 	}
