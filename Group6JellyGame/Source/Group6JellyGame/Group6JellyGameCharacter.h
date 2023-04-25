@@ -52,6 +52,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
 	float PlayerHealth;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
+	float Size;
+
 protected:
 
 	/** Called for forwards/backward input */
