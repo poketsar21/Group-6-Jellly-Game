@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Group6JellyGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\MCO_Mocap_Basics.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -42,6 +43,12 @@
       <Filter>Source\Group6JellyGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Group6JellyGame\Enemy.h">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Group6JellyGame\FanDetect.cpp">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group6JellyGame\FanDetect.h">
       <Filter>Source\Group6JellyGame</Filter>
     </ClInclude>
     <None Include="..\..\Source\Group6JellyGame\Group6JellyGame.Build.cs">
