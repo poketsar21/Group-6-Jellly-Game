@@ -2932,12 +2932,3 @@ Adapter->CreateCommittedResource(Desc, GetGPUMask(), HeapProps, InCreateState, I
 
 
 
-[2023.04.25-13.54.29:874][ 79]LogRHI: Error: Breadcrumbs 'RHIThread'
-
-[2023.04.25-13.54.29:874][ 79]LogWindows: FPlatformMisc::RequestExit(0)
-[2023.04.25-13.54.29:874][ 79]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
-[2023.04.25-13.54.29:874][ 79]LogCore: Engine exit requested (reason: Win RequestExit)
-[2023.04.25-13.54.29:874][ 79]LogWindows: FPlatformMisc::RequestExit(1)
-[2023.04.25-13.54.29:874][ 79]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
-[2023.04.25-13.54.29:874][ 79]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2023.04.25-13.54.29:883][ 79]Log file closed, 04/25/23 14:54:29
