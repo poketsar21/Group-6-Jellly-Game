@@ -1,17 +1,17 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "c:\\github\\gamejam2\\group-6-jellly-game\\group6jellygame\\source\\group6jellygame\\fandetect.cpp",
+        "Source": "c:\\users\\jrhod\\onedrive - norwich university of the arts\\year 2\\unit 2\\group-6-jellly-game\\group6jellygame\\source\\group6jellygame\\fandetect.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\github\\gamejam2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\group6jellygameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\jrhod\\onedrive - norwich university of the arts\\year 2\\unit 2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\group6jellygameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\github\\gamejam2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\unrealeditor\\development\\group6jellygame\\definitions.group6jellygame.h",
-            "c:\\github\\gamejam2\\group-6-jellly-game\\group6jellygame\\source\\group6jellygame\\fandetect.h",
+            "c:\\users\\jrhod\\onedrive - norwich university of the arts\\year 2\\unit 2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\unrealeditor\\development\\group6jellygame\\definitions.group6jellygame.h",
+            "c:\\users\\jrhod\\onedrive - norwich university of the arts\\year 2\\unit 2\\group-6-jellly-game\\group6jellygame\\source\\group6jellygame\\fandetect.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
-            "c:\\github\\gamejam2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\unrealeditor\\inc\\group6jellygame\\fandetect.generated.h"
+            "c:\\users\\jrhod\\onedrive - norwich university of the arts\\year 2\\unit 2\\group-6-jellly-game\\group6jellygame\\intermediate\\build\\win64\\unrealeditor\\inc\\group6jellygame\\fandetect.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
