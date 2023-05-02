@@ -1483,12 +1483,3 @@ pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed
 
 
 
-[2023.05.02-19.51.33:879][419]LogRHI: Error: Breadcrumbs 'RHIThread'
-
-[2023.05.02-19.51.33:879][419]LogWindows: FPlatformMisc::RequestExit(0)
-[2023.05.02-19.51.33:879][419]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
-[2023.05.02-19.51.33:879][419]LogCore: Engine exit requested (reason: Win RequestExit)
-[2023.05.02-19.51.33:879][419]LogWindows: FPlatformMisc::RequestExit(1)
-[2023.05.02-19.51.33:879][419]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
-[2023.05.02-19.51.33:879][419]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2023.05.02-19.51.33:892][419]Log file closed, 05/02/23 20:51:33
