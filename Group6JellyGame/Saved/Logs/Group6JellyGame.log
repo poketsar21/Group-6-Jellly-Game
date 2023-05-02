@@ -849,3 +849,334 @@ Recommended: 30.0.101.1340
 [2023.05.01-23.48.16:672][521]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98FA7C01_1081146110
 [2023.05.01-23.48.16:672][521]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98837E01_1235195303
 [2023.05.01-23.48.16:673][521]LogContentValidation: Display: Validating Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_UAID_00FFEC6BEB98F17A01_1536902411
+[2023.05.01-23.49.27:199][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small
+[2023.05.01-23.49.27:199][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small
+[2023.05.01-23.49.27:201][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1974533230
+[2023.05.01-23.49.29:049][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small
+[2023.05.01-23.49.29:049][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small
+[2023.05.01-23.49.29:050][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/lab_control_interface_small.lab_control_interface_small as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_1305966505
+[2023.05.01-23.54.53:662][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.01-23.54.53:668][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4M/96SHXHKHG0D38RJJHWMXW2_Auto2
+[2023.05.01-23.54.53:668][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/96SHXHKHG0D38RJJHWMXW2_Auto25957CDE441EF4629F6850391ED03C0A3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4M/96SHXHKHG0D38RJJHWMXW2_Auto2.uasset'
+[2023.05.01-23.54.53:677][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YV/WBUSGO05RODA0VQ4HU7RPV_Auto2
+[2023.05.01-23.54.53:677][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WBUSGO05RODA0VQ4HU7RPV_Auto2D11E0018438E5F9200C9FD8457DBC078.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YV/WBUSGO05RODA0VQ4HU7RPV_Auto2.uasset'
+[2023.05.01-23.54.53:680][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/J89LIIYIVFPJ76PL4PP1I5_Auto2
+[2023.05.01-23.54.53:680][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/J89LIIYIVFPJ76PL4PP1I5_Auto2A3654F5543553F0440668790EA0E4D6B.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/J89LIIYIVFPJ76PL4PP1I5_Auto2.uasset'
+[2023.05.01-23.54.53:684][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V2/QSL276V4P38WXK26DOEA6D_Auto2
+[2023.05.01-23.54.53:684][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/QSL276V4P38WXK26DOEA6D_Auto28875E5894BDFD10E116E45B98CE0F16F.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V2/QSL276V4P38WXK26DOEA6D_Auto2.uasset'
+[2023.05.01-23.54.53:687][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UQ/O99AT8I7SB9IBA4XIG2PHJ_Auto2
+[2023.05.01-23.54.53:687][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/O99AT8I7SB9IBA4XIG2PHJ_Auto2304029FE41B8C25B71FD5B90687A36AC.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UQ/O99AT8I7SB9IBA4XIG2PHJ_Auto2.uasset'
+[2023.05.01-23.54.53:690][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O9/H29F9VS1T085ISJVKE253H_Auto2
+[2023.05.01-23.54.53:690][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/H29F9VS1T085ISJVKE253H_Auto2E2ABB11E4B22A41C6E56999C296824D3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O9/H29F9VS1T085ISJVKE253H_Auto2.uasset'
+[2023.05.01-23.54.53:693][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GU/4VZJSG7HCHM5VMHQ7FO4A7_Auto2
+[2023.05.01-23.54.53:693][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/4VZJSG7HCHM5VMHQ7FO4A7_Auto2EBC52DB64CEFAE049FA73298D705C5F3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GU/4VZJSG7HCHM5VMHQ7FO4A7_Auto2.uasset'
+[2023.05.01-23.54.53:698][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EG/RJCGV4HFO1YERJ0TVFEGRD_Auto2
+[2023.05.01-23.54.53:698][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/RJCGV4HFO1YERJ0TVFEGRD_Auto206E6BD9C45F3532F6FBA8DB34A581756.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EG/RJCGV4HFO1YERJ0TVFEGRD_Auto2.uasset'
+[2023.05.01-23.54.53:701][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/G1F0DLUQAEE5T7OTQF7X9O_Auto2
+[2023.05.01-23.54.53:701][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/G1F0DLUQAEE5T7OTQF7X9O_Auto208FAA7A94F5AC4C793B20784C5374B2D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/G1F0DLUQAEE5T7OTQF7X9O_Auto2.uasset'
+[2023.05.01-23.54.53:705][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3K/F2MROA4NC0LKL2IT249C40_Auto2
+[2023.05.01-23.54.53:705][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/F2MROA4NC0LKL2IT249C40_Auto24CD4DC9D4BA7C2A641DB66B50B0D4F50.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3K/F2MROA4NC0LKL2IT249C40_Auto2.uasset'
+[2023.05.01-23.54.53:707][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/UB5O5JEMEGTD2PZ4UX5IM0_Auto2
+[2023.05.01-23.54.53:708][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/UB5O5JEMEGTD2PZ4UX5IM0_Auto24CFBF6384FC19E3A0C6ACBAA7D10E4B3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/UB5O5JEMEGTD2PZ4UX5IM0_Auto2.uasset'
+[2023.05.01-23.54.53:712][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/29/6OIUMZ4DIMY9QNPVPRF7KO_Auto2
+[2023.05.01-23.54.53:712][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/6OIUMZ4DIMY9QNPVPRF7KO_Auto2FB5F285248423911B11335BC3599D967.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/29/6OIUMZ4DIMY9QNPVPRF7KO_Auto2.uasset'
+[2023.05.01-23.54.53:714][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FP/XBXNLRZWU1BLSE582ZSAMW_Auto2
+[2023.05.01-23.54.53:714][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XBXNLRZWU1BLSE582ZSAMW_Auto2CE7638074D21BBAE1F33C5A0CD06B3A7.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FP/XBXNLRZWU1BLSE582ZSAMW_Auto2.uasset'
+[2023.05.01-23.54.53:718][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GN/09R1OW7XFV7J4B28ZQBXPM_Auto2
+[2023.05.01-23.54.53:718][597]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/09R1OW7XFV7J4B28ZQBXPM_Auto2D5ADA3EB4948682449228B95D7BF9EE1.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GN/09R1OW7XFV7J4B28ZQBXPM_Auto2.uasset'
+[2023.05.01-23.54.53:719][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.071
+[2023.05.01-23.54.53:719][597]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.05.01-23.57.46:467][635]LogViewport: Scene viewport resized to 1039x801, mode Windowed.
+[2023.05.01-23.57.49:874][739]LogStaticMesh: Display: Building static mesh Box_283BA542...
+[2023.05.01-23.57.49:874][739]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_283BA542.Box_283BA542
+[2023.05.01-23.57.52:581][828]LogViewport: Scene viewport resized to 1478x801, mode Windowed.
+[2023.05.01-23.58.44:980][945]Cmd: TRANSACTION UNDO
+[2023.05.01-23.58.44:980][945]LogEditorTransaction: Undo Scale Elements
+[2023.05.01-23.59.05:097][361]Cmd: DUPLICATE
+[2023.05.01-23.59.05:097][361]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.00.27:505][155]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.00.27:506][155]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.00.49:109][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.02-00.00.49:109][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.05.02-00.00.51:133][619]Cmd: DELETE
+[2023.05.02-00.00.51:133][619]Cmd: ACTOR DELETE
+[2023.05.02-00.00.51:149][619]LogEditorActor: Deleted Actor: SpotLight
+[2023.05.02-00.00.51:189][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.02-00.00.51:192][619]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.05.02-00.00.55:579][705]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.00.55:580][705]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.01.22:347][240]Cmd: TRANSACTION UNDO
+[2023.05.02-00.01.22:347][240]LogEditorTransaction: Undo Scale Elements
+[2023.05.02-00.01.37:786][570]Cmd: DUPLICATE
+[2023.05.02-00.01.37:786][570]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.02.11:820][337]Cmd: DUPLICATE
+[2023.05.02-00.02.11:820][337]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.03.01:883][436]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.03.01:884][436]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.02-00.03.10:999][601]Cmd: DUPLICATE
+[2023.05.02-00.03.10:999][601]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.03.22:383][807]Cmd: DUPLICATE
+[2023.05.02-00.03.22:383][807]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.03.32:684][989]Cmd: DUPLICATE
+[2023.05.02-00.03.32:684][989]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.03.43:576][184]Cmd: DUPLICATE
+[2023.05.02-00.03.43:576][184]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.04.03:837][539]Cmd: DUPLICATE
+[2023.05.02-00.04.03:837][539]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.04.30:894][983]Cmd: DUPLICATE
+[2023.05.02-00.04.30:895][983]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.04.43:639][206]Cmd: DUPLICATE
+[2023.05.02-00.04.43:639][206]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.04.49:831][323]Cmd: DUPLICATE
+[2023.05.02-00.04.49:831][323]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.04.53:702][395]Cmd: DUPLICATE
+[2023.05.02-00.04.53:702][395]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.05.18:900][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.02-00.05.18:996][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2Q/JJGRPVKHFIXC0M53L5SVH1
+[2023.05.02-00.05.18:998][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/JJGRPVKHFIXC0M53L5SVH19143CE0D4407F06EA99787BA5C85D287.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2Q/JJGRPVKHFIXC0M53L5SVH1.uasset'
+[2023.05.02-00.05.19:004][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/96/PKB0FYPU98VE2IKHF2T98T
+[2023.05.02-00.05.19:005][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/PKB0FYPU98VE2IKHF2T98TFA08DD7A447E255893A246B12AD81CB0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/96/PKB0FYPU98VE2IKHF2T98T.uasset'
+[2023.05.02-00.05.19:011][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9J/I9FGADVWAJLDVUHDIM9Q8T
+[2023.05.02-00.05.19:012][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/I9FGADVWAJLDVUHDIM9Q8T5B19BA724AC779A854D02F8910A70F43.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9J/I9FGADVWAJLDVUHDIM9Q8T.uasset'
+[2023.05.02-00.05.19:017][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TT/0X1I0S6QUOMCLZOTBDNSPV
+[2023.05.02-00.05.19:019][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/0X1I0S6QUOMCLZOTBDNSPVCF8D05A24AC7E2A326A79283423CDF32.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TT/0X1I0S6QUOMCLZOTBDNSPV.uasset'
+[2023.05.02-00.05.19:023][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4M/96SHXHKHG0D38RJJHWMXW2
+[2023.05.02-00.05.19:024][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/96SHXHKHG0D38RJJHWMXW20777FC0E4A32279F436BCA80A069D98E.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4M/96SHXHKHG0D38RJJHWMXW2.uasset'
+[2023.05.02-00.05.19:030][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MI/BU7Y1S6TCNWRWHNKFK496H
+[2023.05.02-00.05.19:031][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BU7Y1S6TCNWRWHNKFK496HE9A720E445EDF4FB68CC489CF2D8F45A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MI/BU7Y1S6TCNWRWHNKFK496H.uasset'
+[2023.05.02-00.05.19:036][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YV/WBUSGO05RODA0VQ4HU7RPV
+[2023.05.02-00.05.19:038][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WBUSGO05RODA0VQ4HU7RPV6375935643C9676BC44052986E7122E1.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YV/WBUSGO05RODA0VQ4HU7RPV.uasset'
+[2023.05.02-00.05.19:043][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/J89LIIYIVFPJ76PL4PP1I5
+[2023.05.02-00.05.19:045][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/J89LIIYIVFPJ76PL4PP1I5F915082E4EDE78EFF9D873BDBE43BB71.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/J89LIIYIVFPJ76PL4PP1I5.uasset'
+[2023.05.02-00.05.19:049][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4Y/DWLJYHSZ2UALQPE8R5Y83P
+[2023.05.02-00.05.19:051][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/DWLJYHSZ2UALQPE8R5Y83PD550C59D4A6D64CDB26F428C4AB09C24.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4Y/DWLJYHSZ2UALQPE8R5Y83P.uasset'
+[2023.05.02-00.05.19:055][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V2/QSL276V4P38WXK26DOEA6D
+[2023.05.02-00.05.19:056][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/QSL276V4P38WXK26DOEA6D25B306BB4AC159599122E3A28D54D40B.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V2/QSL276V4P38WXK26DOEA6D.uasset'
+[2023.05.02-00.05.19:061][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UQ/O99AT8I7SB9IBA4XIG2PHJ
+[2023.05.02-00.05.19:062][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/O99AT8I7SB9IBA4XIG2PHJA881DA0149FE862EACAF2BB6CD17EE30.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UQ/O99AT8I7SB9IBA4XIG2PHJ.uasset'
+[2023.05.02-00.05.19:067][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O9/H29F9VS1T085ISJVKE253H
+[2023.05.02-00.05.19:069][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/H29F9VS1T085ISJVKE253HD917FFA2444DC7FAAE20268060F95A22.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O9/H29F9VS1T085ISJVKE253H.uasset'
+[2023.05.02-00.05.19:074][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/B0/V58PIL7ZJQF9GS970F13LX
+[2023.05.02-00.05.19:075][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/V58PIL7ZJQF9GS970F13LXF1EA669C4FF7F23695F8199BDEDBB9B3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/B0/V58PIL7ZJQF9GS970F13LX.uasset'
+[2023.05.02-00.05.19:079][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GU/4VZJSG7HCHM5VMHQ7FO4A7
+[2023.05.02-00.05.19:080][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/4VZJSG7HCHM5VMHQ7FO4A78379B8C948E8F4106BA19B949F83CB0D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GU/4VZJSG7HCHM5VMHQ7FO4A7.uasset'
+[2023.05.02-00.05.19:084][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7V/JWH8CGQUM0YZXKKXR8Y23M
+[2023.05.02-00.05.19:086][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/JWH8CGQUM0YZXKKXR8Y23MF1D467B24F8FA9871CD9CDAF5C4E6DC0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7V/JWH8CGQUM0YZXKKXR8Y23M.uasset'
+[2023.05.02-00.05.19:092][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2P/K3CDM72YNB9SZAH7LS5U4Y
+[2023.05.02-00.05.19:093][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/K3CDM72YNB9SZAH7LS5U4YAAA9256D4D47C78203A8BF9328E972CA.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2P/K3CDM72YNB9SZAH7LS5U4Y.uasset'
+[2023.05.02-00.05.19:096][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EG/RJCGV4HFO1YERJ0TVFEGRD
+[2023.05.02-00.05.19:097][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/RJCGV4HFO1YERJ0TVFEGRDB67F83444DD105D9FA58ABA7D664B597.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EG/RJCGV4HFO1YERJ0TVFEGRD.uasset'
+[2023.05.02-00.05.19:103][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/G1F0DLUQAEE5T7OTQF7X9O
+[2023.05.02-00.05.19:104][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/G1F0DLUQAEE5T7OTQF7X9O57005E064C54167B493DBE9EB7C57DC2.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/G1F0DLUQAEE5T7OTQF7X9O.uasset'
+[2023.05.02-00.05.19:108][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/2O/051W77NXPUK5AERSWQSNPW
+[2023.05.02-00.05.19:109][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/051W77NXPUK5AERSWQSNPW3678E1664FF8BBF9886CD6BB0FB25310.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/2O/051W77NXPUK5AERSWQSNPW.uasset'
+[2023.05.02-00.05.19:113][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3K/F2MROA4NC0LKL2IT249C40
+[2023.05.02-00.05.19:114][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/F2MROA4NC0LKL2IT249C40AF9EEB1D4ACE7C569E5FC393CF43FEBC.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3K/F2MROA4NC0LKL2IT249C40.uasset'
+[2023.05.02-00.05.19:118][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JQ/TWDJA2UNBZ4Z2P4M3ACZ35
+[2023.05.02-00.05.19:119][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/TWDJA2UNBZ4Z2P4M3ACZ357EBED9FB446DD4FB3E70D6A00B972C1B.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JQ/TWDJA2UNBZ4Z2P4M3ACZ35.uasset'
+[2023.05.02-00.05.19:123][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/UB5O5JEMEGTD2PZ4UX5IM0
+[2023.05.02-00.05.19:124][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/UB5O5JEMEGTD2PZ4UX5IM08CB9345F42CCE51C3A38108E80681202.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/UB5O5JEMEGTD2PZ4UX5IM0.uasset'
+[2023.05.02-00.05.19:129][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/29/6OIUMZ4DIMY9QNPVPRF7KO
+[2023.05.02-00.05.19:130][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/6OIUMZ4DIMY9QNPVPRF7KOFB2B5E6D44872E6EBF19B2ABA272E7A0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/29/6OIUMZ4DIMY9QNPVPRF7KO.uasset'
+[2023.05.02-00.05.19:134][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FP/XBXNLRZWU1BLSE582ZSAMW
+[2023.05.02-00.05.19:135][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XBXNLRZWU1BLSE582ZSAMW9275A21544E9EA8C698F92BA3AD72CD5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FP/XBXNLRZWU1BLSE582ZSAMW.uasset'
+[2023.05.02-00.05.19:139][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y9/RY0IFVBZE8DPBL73SK80LY
+[2023.05.02-00.05.19:140][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/RY0IFVBZE8DPBL73SK80LY725564C446EFD4522BB0CAAE3DD6E40C.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y9/RY0IFVBZE8DPBL73SK80LY.uasset'
+[2023.05.02-00.05.19:143][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GN/09R1OW7XFV7J4B28ZQBXPM
+[2023.05.02-00.05.19:144][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/09R1OW7XFV7J4B28ZQBXPM417EE5DD46A437D51E3D638781C2BCB5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GN/09R1OW7XFV7J4B28ZQBXPM.uasset'
+[2023.05.02-00.05.19:147][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WV/A9VUJ8GH9HNM9QO2W2K010
+[2023.05.02-00.05.19:148][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/A9VUJ8GH9HNM9QO2W2K010BCFEABF54CF2C33129CDD9BC98E72E82.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WV/A9VUJ8GH9HNM9QO2W2K010.uasset'
+[2023.05.02-00.05.19:152][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XD/GNA9QJ9BY33PML90CFZRTL
+[2023.05.02-00.05.19:152][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/GNA9QJ9BY33PML90CFZRTLB2F1CCCC48C262AD14EC50859F791CD0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XD/GNA9QJ9BY33PML90CFZRTL.uasset'
+[2023.05.02-00.05.19:156][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6Z/2TPP4LCIGCB0OVQG8B7ISH
+[2023.05.02-00.05.19:156][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/2TPP4LCIGCB0OVQG8B7ISH4230C26E46BADBA201F25895E1779E8E.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6Z/2TPP4LCIGCB0OVQG8B7ISH.uasset'
+[2023.05.02-00.05.19:159][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K8/460FL74IKYK54I3PTWMH8T
+[2023.05.02-00.05.19:159][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/460FL74IKYK54I3PTWMH8T0771F79C47B4F33B9D925E975CBEF84B.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K8/460FL74IKYK54I3PTWMH8T.uasset'
+[2023.05.02-00.05.19:163][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DK/3II6IMKUY0W51XLHN312FQ
+[2023.05.02-00.05.19:163][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/3II6IMKUY0W51XLHN312FQ14905FAD4576AF71A909EF87EC255321.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DK/3II6IMKUY0W51XLHN312FQ.uasset'
+[2023.05.02-00.05.19:166][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z9/J0MEQKMVINBYM02EMJ7ZO8
+[2023.05.02-00.05.19:166][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/J0MEQKMVINBYM02EMJ7ZO8517B6D394DCEF8E8F545B490A81AEF73.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z9/J0MEQKMVINBYM02EMJ7ZO8.uasset'
+[2023.05.02-00.05.19:170][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9R/4KBNRA1UV7XVVLTVA5P9SZ
+[2023.05.02-00.05.19:170][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/4KBNRA1UV7XVVLTVA5P9SZB685AC144E2BBF6E6150DA8AC3D8529A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9R/4KBNRA1UV7XVVLTVA5P9SZ.uasset'
+[2023.05.02-00.05.19:173][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N1/X6U3MLMNT5DS7ZZGKNIQ15
+[2023.05.02-00.05.19:173][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/X6U3MLMNT5DS7ZZGKNIQ15BFC25D1F4E0E24BC42C6DABB7528200A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N1/X6U3MLMNT5DS7ZZGKNIQ15.uasset'
+[2023.05.02-00.05.19:183][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V8/YI1GRXHJ7S2UG0NJV5K2UR
+[2023.05.02-00.05.19:183][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/YI1GRXHJ7S2UG0NJV5K2UR1DC87F5646986EEE9D84FC9A7E47BF32.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V8/YI1GRXHJ7S2UG0NJV5K2UR.uasset'
+[2023.05.02-00.05.19:186][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JC/8QX3NF8OVXAWWE18JXAS4S
+[2023.05.02-00.05.19:186][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/8QX3NF8OVXAWWE18JXAS4S1423F6A3483AC775629F768E875D25A2.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JC/8QX3NF8OVXAWWE18JXAS4S.uasset'
+[2023.05.02-00.05.19:190][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/E5O9MWOAHG880U7GW9YTNG
+[2023.05.02-00.05.19:190][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/E5O9MWOAHG880U7GW9YTNG7A0E69004925A99C3C7243840EF94F6E.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/E5O9MWOAHG880U7GW9YTNG.uasset'
+[2023.05.02-00.05.19:194][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5J/EGXKQVTQ2JQ7FGKLXMBJD1
+[2023.05.02-00.05.19:194][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/EGXKQVTQ2JQ7FGKLXMBJD152119C0C4191D5F4A4095F82F4FF311D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5J/EGXKQVTQ2JQ7FGKLXMBJD1.uasset'
+[2023.05.02-00.05.19:197][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IQ/KST9YQJJY0M40V2L3A4FYJ
+[2023.05.02-00.05.19:197][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/KST9YQJJY0M40V2L3A4FYJ5E6426AC4ED2E82B01D90CAD00F001AF.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IQ/KST9YQJJY0M40V2L3A4FYJ.uasset'
+[2023.05.02-00.05.19:201][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P7/OKRHUN21VUEN4C30DOWYW2
+[2023.05.02-00.05.19:202][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/OKRHUN21VUEN4C30DOWYW2260EC7644C93382E2D80149847993CE1.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P7/OKRHUN21VUEN4C30DOWYW2.uasset'
+[2023.05.02-00.05.19:204][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC
+[2023.05.02-00.05.19:204][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WKQXC5V6SDBJQ2D12F1UDCC4E207D640BDF64AE27636B891C79346.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC.uasset'
+[2023.05.02-00.05.19:208][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3C/XGGOU21SPLO8CC7MGX4XZM
+[2023.05.02-00.05.19:208][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XGGOU21SPLO8CC7MGX4XZMDC3047534EDFE4E8A554A2B7E005CEEB.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3C/XGGOU21SPLO8CC7MGX4XZM.uasset'
+[2023.05.02-00.05.19:267][828]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_283BA542
+[2023.05.02-00.05.19:267][828]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Box_283BA54288A4D09B40843B0A2556CEB91BA820F5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Maps/_GENERATED/sophi/Box_283BA542.uasset'
+[2023.05.02-00.05.19:300][828]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1383687495
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1570212687
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_2139302515
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_2127919514
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_1305966505
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_2118801513
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_2013176503
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1338298494
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D27801_1309750888
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1599053941
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1555941937
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1537338497
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1596715498
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1719949499
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1585179938
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1958961502
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1444043496
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D27801_1296551887
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1247634683
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1593913940
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1156926681
+[2023.05.02-00.05.19:300][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1219510682
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1664658688
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1517847686
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1864473501
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1786135500
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1588834939
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D17801_1393017685
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_2110721504
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1156879698
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1153009697
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1146815696
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1134071695
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1107014694
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1086752693
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_2068739512
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1075860692
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_2034704511
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_1964423508
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_1992497510
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_1882016507
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_1806714506
+[2023.05.02-00.05.19:301][828]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_283BA542.Box_283BA542
+[2023.05.02-00.05.41:635][196]Cmd: DUPLICATE
+[2023.05.02-00.05.41:635][196]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.06.10:838][688]Cmd: DUPLICATE
+[2023.05.02-00.06.10:839][688]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.06.28:719][971]Cmd: DUPLICATE
+[2023.05.02-00.06.28:719][971]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.07.08:104][642]Cmd: DUPLICATE
+[2023.05.02-00.07.08:105][642]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.07.26:562][970]Cmd: DUPLICATE
+[2023.05.02-00.07.26:562][970]Cmd: ACTOR DUPLICATE
+[2023.05.02-00.07.42:741][243]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpotLight_UAID_00FFEC6BEB988A7E01_1986026509 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3F/4Y4MIBAKR143P9EBS9GG1O.PackageMetaData in its package
+[2023.05.02-00.07.42:751][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.02-00.07.42:832][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4Y/DWLJYHSZ2UALQPE8R5Y83P
+[2023.05.02-00.07.42:833][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/DWLJYHSZ2UALQPE8R5Y83P89BFC8154ED699AE4D256E88A09F4EE9.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4Y/DWLJYHSZ2UALQPE8R5Y83P.uasset'
+[2023.05.02-00.07.42:837][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/1Z/0HPGLZNOHKS7JYTS145WAS
+[2023.05.02-00.07.42:837][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/0HPGLZNOHKS7JYTS145WASD15C8C8F4272F9CE83BA339A7038352E.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/1Z/0HPGLZNOHKS7JYTS145WAS.uasset'
+[2023.05.02-00.07.42:840][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WV/A9VUJ8GH9HNM9QO2W2K010
+[2023.05.02-00.07.42:841][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/A9VUJ8GH9HNM9QO2W2K010C3FA92F9487131F724462FBF0C7132D3.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WV/A9VUJ8GH9HNM9QO2W2K010.uasset'
+[2023.05.02-00.07.42:845][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1Y/R4F0GQVHO9T3BLUQJDCRSC
+[2023.05.02-00.07.42:845][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/R4F0GQVHO9T3BLUQJDCRSCDDFBFC5D4AF9454C346276856A1FBAF8.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1Y/R4F0GQVHO9T3BLUQJDCRSC.uasset'
+[2023.05.02-00.07.42:848][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W1/3C6BRNCJYE7KLY3JS4LOW8
+[2023.05.02-00.07.42:848][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/3C6BRNCJYE7KLY3JS4LOW872069E0B48A101110B2B6CBDD2718E44.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W1/3C6BRNCJYE7KLY3JS4LOW8.uasset'
+[2023.05.02-00.07.42:851][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/64/I8Z8IUR15LZS05WC2K614W
+[2023.05.02-00.07.42:851][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/I8Z8IUR15LZS05WC2K614WFAB8919841FC06F00C9F8D9AEE4B2731.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/64/I8Z8IUR15LZS05WC2K614W.uasset'
+[2023.05.02-00.07.42:854][243]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GI/WVA5S422HSZHEBSQTZ930L
+[2023.05.02-00.07.42:854][243]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WVA5S422HSZHEBSQTZ930L8DFEF4F4447246052A2B068F10720062.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GI/WVA5S422HSZHEBSQTZ930L.uasset'
+[2023.05.02-00.07.42:879][243]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98D07801_1537338497
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1309739703
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1291281702
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1251895701
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1234016700
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1204811699
+[2023.05.02-00.07.42:879][243]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988A7E01_1806714506
+[2023.05.02-00.07.42:889][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.02-00.09.01:844][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.02-00.09.01:951][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N1/X6U3MLMNT5DS7ZZGKNIQ15
+[2023.05.02-00.09.01:953][376]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/X6U3MLMNT5DS7ZZGKNIQ155F00099C49A25506F67417A471B61C95.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N1/X6U3MLMNT5DS7ZZGKNIQ15.uasset'
+[2023.05.02-00.09.01:957][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V8/YI1GRXHJ7S2UG0NJV5K2UR
+[2023.05.02-00.09.01:958][376]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/YI1GRXHJ7S2UG0NJV5K2URE0A0B40748DDCC60CF6AD68930A8AC13.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V8/YI1GRXHJ7S2UG0NJV5K2UR.uasset'
+[2023.05.02-00.09.01:962][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/E5O9MWOAHG880U7GW9YTNG
+[2023.05.02-00.09.01:964][376]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/E5O9MWOAHG880U7GW9YTNGF3E4032B48CB46A56D5089A27996E04F.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/E5O9MWOAHG880U7GW9YTNG.uasset'
+[2023.05.02-00.09.01:991][376]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-00.09.01:991][376]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_2139302515
+[2023.05.02-00.09.01:991][376]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988A7E01_2127919514
+[2023.05.02-00.09.01:991][376]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1086752693
+[2023.05.02-00.09.03:363][400]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.02-00.09.03:382][400]LogWorldPartition: Display: GetPartitionedActors took 104 us
+[2023.05.02-00.09.03:384][400]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.05.02-00.09.03:385][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-00.09.03:386][400]PIE: New page: PIE session: ThirdPersonMap (2 May 2023, 02:09:03)
+[2023.05.02-00.09.03:386][400]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-00.09.03:422][400]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.02-00.09.03:422][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035751s)
+[2023.05.02-00.09.03:422][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.035839s)
+[2023.05.02-00.09.03:423][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-00.09.03:424][400]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.02-00.09.03:424][400]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.02-00.09.03:424][400]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.02-00.09.03:431][400]LogWorldPartition: Display: WorldPartition initialize took 7 ms
+[2023.05.02-00.09.03:431][400]LogPlayLevel: PIE: World Init took: (0.009441s)
+[2023.05.02-00.09.03:441][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.02-00.09.03:442][400]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-00.09.03:442][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-00.09.03:442][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-00.09.03:443][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-00.09.03:443][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-00.09.03:443][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-00.09.03:448][400]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-00.09.03:546][400]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.02-00.09.03:546][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-00.09.03:546][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-00.09.03:546][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-00.09.03:548][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.02-00.09.03:548][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.02-00.09.03:550][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.02-00.09.03:550][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.02-00.09.03:550][400]LogInit: FAudioDevice initialized.
+[2023.05.02-00.09.03:550][400]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.05.02-00.09.03:564][400]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.02-00.09.03:581][400]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.02-01.09.03
+[2023.05.02-00.09.03:582][400]LogWorld: Bringing up level for play took: 0.018050
+[2023.05.02-00.09.03:585][400]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.05.02-00.09.03:589][400]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-49.807 Y=-5861.333 Z=163.742
+[2023.05.02-00.09.03:589][400]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.02-00.09.03:589][400]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.02-00.09.03:589][400]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.02-00.09.03:589][400]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.02-00.09.03:590][400]PIE: Server logged in
+[2023.05.02-00.09.03:591][400]PIE: Play in editor total start time 0.216 seconds.
+[2023.05.02-00.09.44:862][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-00.09.44:862][981]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-00.09.44:864][981]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-00.09.44:868][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-00.09.44:964][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-00.09.44:966][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-00.09.44:986][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-00.09.44:988][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.02-00.09.44:991][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.02-00.09.45:024][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.02-00.09.45:072][982]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.05.02-00.10.30:499][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cctv_1.cctv_1
+[2023.05.02-00.10.30:499][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cctv_1.cctv_1
+[2023.05.02-00.10.30:500][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cctv_1.cctv_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1974533231
+[2023.05.02-00.10.32:064][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cctv_1.cctv_1
+[2023.05.02-00.10.32:064][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cctv_1.cctv_1
+[2023.05.02-00.10.32:066][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cctv_1.cctv_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB988B7E01_1495239704
