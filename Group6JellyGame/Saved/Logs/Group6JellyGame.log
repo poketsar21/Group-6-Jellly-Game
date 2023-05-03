@@ -2720,3 +2720,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.03-11.22.46:338][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.03-11.22.46:348][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
 [2023.05.03-11.22.46:399][975]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.05.03-11.23.59:976][651]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-11.23.59:980][651]LogSlate: Window 'Message Log' being destroyed
