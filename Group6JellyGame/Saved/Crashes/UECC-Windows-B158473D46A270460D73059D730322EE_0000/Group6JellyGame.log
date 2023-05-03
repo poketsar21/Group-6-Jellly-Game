@@ -1,0 +1,1058 @@
+﻿Log file open, 05/03/23 09:33:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16376)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Group6JellyGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Group6JellyGame.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Xeon(R) W-2133 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b749d5604e411aed3657d991707383ca"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.246383
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B158473D46A270460D73059D730322EE
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.10 seconds
+LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2846] (), CPU: Intel(R) Xeon(R) W-2133 CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.03-08.33.31:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.03-08.33.31:088][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.03-08.33.31:088][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.03-08.33.31:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.03-08.33.31:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.03-08.33.31:089][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.03-08.33.31:093][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.03-08.33.31:094][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.03-08.33.31:313][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.03-08.33.31:313][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.03-08.33.31:756][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.03-08.33.31:756][  0]LogD3D12RHI: Adapter has 8001MB of dedicated video memory, 0MB of dedicated system memory, and 16224MB of shared system memory, 1 output[s]
+[2023.05.03-08.33.31:773][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.03-08.33.31:773][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16224MB of shared system memory, 0 output[s]
+[2023.05.03-08.33.31:773][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.03-08.33.31:774][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.03-08.33.31:774][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.03-08.33.31:774][  0]LogHAL: Display: Platform has ~ 32 GB [34025152512 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.03-08.33.31:774][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.03-08.33.31:774][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.03-08.33.31:774][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.03-08.33.31:777][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.03-08.33.31:777][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.03-08.33.31:777][  0]LogInit: Computer: C-03074
+[2023.05.03-08.33.31:777][  0]LogInit: User: 2001151
+[2023.05.03-08.33.31:777][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.03-08.33.31:777][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.03-08.33.31:777][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.05.03-08.33.31:777][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.03-08.33.31:777][  0]LogMemory: Process Physical Memory: 272.77 MB used, 282.43 MB peak
+[2023.05.03-08.33.31:777][  0]LogMemory: Process Virtual Memory: 233.73 MB used, 233.73 MB peak
+[2023.05.03-08.33.31:777][  0]LogMemory: Physical Memory: 12192.97 MB used,  20255.95 MB free, 32448.91 MB total
+[2023.05.03-08.33.31:777][  0]LogMemory: Virtual Memory: 14245.09 MB used,  23067.82 MB free, 37312.91 MB total
+[2023.05.03-08.33.31:777][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.03-08.33.31:825][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.03-08.33.32:022][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.03-08.33.32:024][  0]LogInit: Using OS detected language (en-GB).
+[2023.05.03-08.33.32:024][  0]LogInit: Using OS detected locale (en-GB).
+[2023.05.03-08.33.32:034][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.05.03-08.33.32:293][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.03-08.33.32:337][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.03-08.33.32:337][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.05.03-08.33.32:337][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.05.03-08.33.32:337][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.05.03-08.33.32:399][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.03-08.33.32:399][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.03-08.33.35:808][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.03-08.33.35:819][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.05.03-08.33.35:819][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.05.03-08.33.35:989][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.05.03-08.33.36:041][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.03-08.33.36:048][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.03-08.33.36:062][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.03-08.33.36:081][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.03-08.33.36:081][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.03-08.33.36:272][  0]LogD3D12RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.03-08.33.36:272][  0]LogWindows: Attached monitors:
+[2023.05.03-08.33.36:272][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.03-08.33.36:272][  0]LogWindows: Found 1 attached monitors.
+[2023.05.03-08.33.36:272][  0]LogWindows: EnumDisplayDevices:
+[2023.05.03-08.33.36:272][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.03-08.33.36:272][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.03-08.33.36:273][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.03-08.33.36:273][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.03-08.33.36:273][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.03-08.33.36:273][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2023.05.03-08.33.36:273][  0]LogD3D12RHI:   Driver Version: 526.47 (internal:31.0.15.2647, unified:526.47)
+[2023.05.03-08.33.36:273][  0]LogD3D12RHI:      Driver Date: 10-25-2022
+[2023.05.03-08.33.36:274][  0]LogRHI: Texture pool is 4556 MB (70% of 6509 MB)
+[2023.05.03-08.33.36:274][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.03-08.33.36:274][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.03-08.33.36:299][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.05.03-08.33.36:387][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject"  -platform=all'
+[2023.05.03-08.33.36:387][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject"  -platform=all" ]
+[2023.05.03-08.33.36:616][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.03-08.33.36:750][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.03-08.33.36:750][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.03-08.33.36:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.03-08.33.36:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.03-08.33.36:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.03-08.33.36:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.03-08.33.36:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.03-08.33.36:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.03-08.33.36:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.03-08.33.36:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.03-08.33.36:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.03-08.33.36:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.03-08.33.36:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.03-08.33.36:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.03-08.33.36:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.03-08.33.36:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.03-08.33.37:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.03-08.33.37:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.03-08.33.37:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.03-08.33.37:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.03-08.33.37:035][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.03-08.33.37:183][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.03-08.33.37:213][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.03-08.33.37:213][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.03-08.33.37:213][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.03-08.33.37:213][  0]LogTargetPlatformManager:   PCM
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager:   BINKA
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager:   OGG
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.03-08.33.37:236][  0]LogTargetPlatformManager:   OPUS
+[2023.05.03-08.33.37:926][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.03-08.33.37:977][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.03-08.33.37:978][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.03-08.33.38:023][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.03-08.33.38:023][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.03-08.33.38:023][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.03-08.33.38:024][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.03-08.33.38:025][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.03-08.33.38:026][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.03-08.33.38:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.03-08.33.38:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.03-08.33.38:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.03-08.33.38:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.03-08.33.38:055][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.03-08.33.38:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.03-08.33.38:055][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.03-08.33.38:107][  0]LogDerivedDataCache: Speed tests for C:/Users/2001151/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.05.03-08.33.38:107][  0]LogDerivedDataCache: Display: Performance to C:/Users/2001151/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=25.62MBs, RandomWriteSpeed=66.55MBs. Assigned SpeedClass 'Local'
+[2023.05.03-08.33.38:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/2001151/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.03-08.33.38:108][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.03-08.33.38:108][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.03-08.33.38:119][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.03-08.33.38:119][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.03-08.33.38:120][  0]LogShaderCompilers: Guid format shader working directory is -76 characters bigger than the processId version (../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/Shaders/WorkingDirectory/13144/).
+[2023.05.03-08.33.38:120][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/2001151/AppData/Local/Temp/UnrealShaderWorkingDir/2DDE56F94D420C44773F0A87358BE57C/'.
+[2023.05.03-08.33.38:121][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.03-08.33.38:121][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.05.03-08.33.42:096][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.03-08.33.42:096][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.03-08.33.42:106][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.03-08.33.42:240][  0]LogAssetRegistry: FAssetRegistry took 0.0189 seconds to start up
+[2023.05.03-08.33.42:250][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.03-08.33.42:582][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.03-08.33.42:584][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.03-08.33.43:434][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.03-08.33.43:434][  0]LogDeviceProfileManager: Active device profile: [00000B7BE8E31A40][00000B7BDF842800 50] WindowsEditor
+[2023.05.03-08.33.43:434][  0]LogDeviceProfileManager: Profiles: [00000B7BE8E31F80][00000B7BC7F25000 50] Windows, [00000B7BE8E31A40][00000B7BDF842800 50] WindowsEditor, [00000B7BE8E332C0][00000B7BDC7FA000 50] WindowsServer, [00000B7BE8E31180][00000B7BE8E40000 50] WindowsClient, [00000B7BE8E30700][00000B7BE8E45000 50] IOS, [00000B7BE8E31500][00000B7BE8E47800 50] iPadAir2, [00000B7BE8E36900][00000B7BE8E4C800 50] IPadPro, [00000B7BE8E37A80][00000B7BE8E4A000 50] iPadAir3, [00000B7BE8E35940][00000B7BDA5E2800 50] iPadAir4, [00000B7BE8E355C0][00000B7BE8E50000 50] iPadMini4, [00000B7BE8E30380][00000B7BE8E55000 50] iPadMini5, [00000B7BE8E38880][00000B7BE8E57800 50] iPadMini6, [00000B7BE894C080][00000B7BE8E42800 50] iPhone6S, [00000B7BE894F340][00000B7BE8E5C800 50] iPhone7, [00000B7BE894F6C0][00000B7BE8E5A000 50] iPodTouch7, [00000B7BE894EC40][00000B7BE8E10000 50] iPhone6SPlus, [00000B7BE894EE00][00000B7BE8E15000 50] iPhone7Plus, [00000B7BE894AB80][00000B7BE8E17800 50] iPhoneSE, [00000B7BE8E37700][00000B7BE8E1A000 50] iPhone8, [00000B7BE8E3BD00][00000B7BE8E1C800 50] iPhone8Plus, [00000B7BE8E347C0][00000B7BE8E52800 50] iPhoneX, [00000B7BE8E32D80][00000B7BE8E60000 50] iPhoneXS, [00000B7BE8E3FC00][00000B7BE8E65000 50] iPhoneXSMax, [00000B7BE8E3C080][00000B7BE8E67800 50] iPhoneXR, [00000B7BE8E3C240][00000B7BE8E6A000 50] iPhone11, [00000B7BE8E39A00][00000B7BE8E6C800 50] iPhone11Pro, [00000B7BE8E3D900][00000B7BE8E12800 50] iPhone11ProMax, [00000B7BE8E3EA80][00000B7BE8EC0000 50] iPhoneSE2, [00000B7BE8E34600][00000B7BE8EC5000 50] iPhone12Mini, [00000B7BE8E37000][00000B7BE8EC7800 50] iPhone12, [00000B7BE8E38A40][00000B7BE8ECA000 50] iPhone12Pro, [00000B7BE8E33100][00000B7BE8ECC800 50] iPhone12ProMax, [00000B7BE8E36040][00000B7BE8E62800 50] iPhone13Mini, [00000B7BE8E3E8C0][00000B7BE8ED0000 50] iPhone13, [00000B7BE8E3B7C0][00000B7BE8ED5000 50] iPhone13Pro, [00000B7BE8E35E80][00000B7BE8ED7800 50] iPhone13ProMax, [00000B7BE8E3DAC0][00000B7BE8EDA000 50] iPadPro105, [00000B7BE8E3A480][00000B7BE8EDC800 50] iPadPro129, [00000B7BE8E3DC80][00000B7BE8EC2800 50] iPadPro97, [00000B7BE8E39840][00000B7BE8E80000 50] iPadPro2_129, [00000B7BE8E3FA40][00000B7BE8E85000 50] iPad5, [00000B7BE8E3C5C0][00000B7BE8E87800 50] iPad6, [00000B7BE8E3D580][00000B7BE8E8A000 50] iPad7, [00000B7BE8E31C00][00000B7BE8E8C800 50] iPad8, [00000B7BE8E3CE80][00000B7BE8ED2800 50] iPad9, [00000B7BE8E3BB40][00000B7BE8E90000 50] iPadPro11, [00000B7BE8E3E380][00000B7BE8E95000 50] iPadPro2_11, [00000B7BE8E34EC0][00000B7BE8E97800 50] iPadPro3_11, [00000B7BE8E3E540][00000B7BE8E9A000 50] iPadPro3_129, [00000B7BE8E38340][00000B7BE8E9C800 50] iPadPro4_129, [00000B7BE8E32840][00000B7BE8E82800 50] iPadPro5_129, [00000B7BE8E36580][00000B7BE8EA0000 50] AppleTV, [00000B7BE8E3B440][00000B7BE8EA5000 50] AppleTV4K, [00000B7BE8E36740][00000B7BE8EA7800 50] TVOS, [00000B7BE8E33480][00000B7BE8EAC800 50] Mac, [00000B7BE8E3F880][00000B7BE8EAA000 50] MacEditor, [00000B7BE8E378C0][00000B7BE8E92800 50] MacClient, [00000B7BE8E30E00][00000B7BE8F00000 50] MacServer, [00000B7BE8949680][00000B7BE8F07800 50] Linux, [00000B7BE894D200][00000B7BE8F05000 50] LinuxEditor, [00000B7BE8E34980][00000B7BE8F0A000 50] LinuxArm64Editor, [00000B7BE8E3B600][00000B7BE8F0C800 50] LinuxArm64, [00000B7BE8E39D80][00000B7BE8EA2800 50] LinuxClient, [00000B7BE8E371C0][00000B7BE8F10000 50] LinuxArm64Client, [00000B7BE8E3A800][00000B7BE8F15000 50] LinuxServer, [00000B7BE8E3D040][00000B7BE8F17800 50] LinuxArm64Server, [00000B7BE8E34B40][00000B7BE8F1A000 50] Android, [00000B7BE8E3F500][00000B7BE8F1C800 50] Android_Preview_OpenGL, [00000B7BE8E36200][00000B7BE8F02800 50] Android_Preview_Vulkan, [00000B7BE8E35B00][00000B7BE8F20000 50] Android_Low, [00000B7BE8E34D00][00000B7BE8F25000 50] Android_Mid, [00000B7BE8E35240][00000B7BE8F27800 50] Android_High, [00000B7BE8E31880][00000B7BE8F2A000 50] Android_Default, [00000B7BE8E37C40][00000B7BE8F2C800 50] Android_Adreno4xx, [00000B7BE8E3A9C0][00000B7BE8F12800 50] Android_Adreno5xx_Low, [00000B7BE8E3C780][00000B7BE8F30000 50] Android_Adreno5xx, [00000B7BE8E340C0][00000B7BE8F35000 50] Android_Adreno6xx, [00000B7BE8E30FC0][00000B7BE8F37800 50] Android_Adreno6xx_Vulkan, [00000B7BE8E394C0][00000B7BE8F3A000 50] Android_Adreno7xx, [00000B7BE8E3D3C0][00000B7BE8F3C800 50] Android_Adreno7xx_Vulkan, [00000B7BE8E37FC0][00000B7BE8F22800 50] Android_Mali_T6xx, [00000B7BE8E316C0][00000B7BE8F40000 50] Android_Mali_T7xx, [00000B7BE8E39BC0][00000B7BE8F45000 50] Android_Mali_T8xx, [00000B7BE8E363C0][00000B7BE8F47800 50] Android_Mali_G71, [00000B7BE8E38C00][00000B7BE8F4A000 50] Android_Mali_G72, [00000B7BE8E37540][00000B7BE8F4C800 50] Android_Mali_G72_Vulkan, [00000B7BE8E386C0][00000B7BE8F32800 50] Android_Mali_G76, [00000B7BE8E3FDC0][00000B7BE8F50000 50] Android_Mali_G76_Vulkan, [00000B7BE8E301C0][00000B7BE8F55000 50] Android_Mali_G77, [00000B7BE8E339C0][00000B7BE8F57800 50] Android_Mali_G77_Vulkan, [00000B7BE8E36C80][00000B7BE8F5A000 50] Android_Mali_G78, [00000B7BE8E35080][00000B7BE8F5C800 50] Android_Mali_G78_Vulkan, [00000B7BE8E3EE00][00000B7BE8F42800 50] Android_Mali_G710, [00000B7BE8E35400][00000B7BE8F60000 50] Android_Mali_G710_Vulkan, [00000B7BE8E35CC0][00000B7BE8F65000 50] Android_Xclipse_920, [00000B7BE8E33800][00000B7BE8F67800 50] Android_Xclipse_920_Vulkan, [00000B7BE8E30000][00000B7BE8F6A000 50] Android_Vulkan_SM5, [00000B7BE8E3C400][00000B7BE8F6C800 50] Android_PowerVR_G6xxx, [00000B7BE8E3A640][00000B7BE8F52800 50] Android_PowerVR_GT7xxx, [00000B7BE8E32680][00000B7BE8F70000 50] Android_PowerVR_GE8xxx, [00000B7BE8E32BC0][00000B7BE8F75000 50] Android_PowerVR_GM9xxx, [00000B7BE8E3CB00][00000B7BE8F77800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B7BE8E3C940][00000B7BE8F7A000 50] Android_TegraK1, [00000B7BE894FDC0][00000B7BE8F7C800 50] Android_Unknown_Vulkan, [00000B7BE8E34440][00000B7BE8F62800 50] Oculus_Quest, [00000B7BE894AF00][00000B7BE8F80000 50] Oculus_Quest2, [00000B7BE8E3F180][00000B7BE8F85000 50] HoloLens, 
+[2023.05.03-08.33.43:435][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.03-08.33.43:442][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.05.03-08.33.43:442][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.05.03-08.33.43:442][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.03-08.33.43:442][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.03-08.33.43:442][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.03-08.33.43:566][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.03-08.33.44:388][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.03-08.33.44:388][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.03-08.33.44:388][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.03-08.33.44:388][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.03-08.33.44:388][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.03-08.33.44:479][  0]LogNetVersion: Group6JellyGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 20268195)
+[2023.05.03-08.33.44:749][  0]LogSlate: Border
+[2023.05.03-08.33.44:749][  0]LogSlate: BreadcrumbButton
+[2023.05.03-08.33.44:749][  0]LogSlate: Default
+[2023.05.03-08.33.44:749][  0]LogSlate: Icons.Save
+[2023.05.03-08.33.44:749][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.03-08.33.44:749][  0]LogSlate: ListView
+[2023.05.03-08.33.44:749][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.03-08.33.44:749][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.03-08.33.44:749][  0]LogSlate: TableView.DarkRow
+[2023.05.03-08.33.44:749][  0]LogSlate: TableView.Row
+[2023.05.03-08.33.44:749][  0]LogSlate: TreeView
+[2023.05.03-08.33.45:438][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.45:487][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.45:487][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.45:649][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.03-08.33.45:649][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.05.03-08.33.45:649][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.03-08.33.49:239][  0]LogPython: Using Python 3.9.7
+[2023.05.03-08.33.50:745][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5A97C930456E5A5FB898D7A886B8F661 | Instance: 2BABC426421EB7DA18F2FF91ACCD1197 (C-03074-13144).
+[2023.05.03-08.33.51:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.03-08.33.51:213][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.03-08.33.52:692][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-08.33.52:701][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-08.33.52:703][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] The property associated with  IsCrouching  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C'
+[2023.05.03-08.33.52:767][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing2" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Changing2
+[2023.05.03-08.33.52:767][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Changing
+[2023.05.03-08.33.52:767][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing2" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Get Changing2
+[2023.05.03-08.33.52:767][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing2" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Changing2
+[2023.05.03-08.33.52:767][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Changing
+[2023.05.03-08.33.52:768][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Changing" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Get Changing
+[2023.05.03-08.33.52:768][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "IsCrouching" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Get IsCrouching
+[2023.05.03-08.33.52:769][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing2  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:769][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  IsCrouching  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:769][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:769][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:769][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing2  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:770][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing2  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.52:770][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Changing  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.05.03-08.33.53:833][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.53:982][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.54:022][  0]SourceControl: Source control is disabled
+[2023.05.03-08.33.54:181][  0]LogUProjectInfo: Found projects:
+[2023.05.03-08.33.57:501][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.03-08.33.58:184][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.03-08.33.58:418][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.03-08.33.58:418][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.03-08.33.59:209][  0]LogCollectionManager: Loaded 0 collections in 0.002978 seconds
+[2023.05.03-08.33.59:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Collections/' took 0.00s
+[2023.05.03-08.33.59:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Developers/2001151/Collections/' took 0.00s
+[2023.05.03-08.33.59:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Collections/' took 0.00s
+[2023.05.03-08.34.00:811][  0]LogEngine: Initializing Engine...
+[2023.05.03-08.34.00:843][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.03-08.34.00:871][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.03-08.34.01:366][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.03-08.34.01:367][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-08.34.01:428][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.34.01:508][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.03-08.34.01:510][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.03-08.34.01:610][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.03-08.34.01:612][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.03-08.34.01:612][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.03-08.34.01:613][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.03-08.34.01:613][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-08.34.01:613][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-08.34.01:613][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-08.34.01:614][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-08.34.01:614][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-08.34.01:614][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-08.34.01:707][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-08.34.02:249][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2023.05.03-08.34.02:250][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-08.34.02:260][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-08.34.02:260][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-08.34.02:262][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.03-08.34.02:262][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.03-08.34.02:264][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.03-08.34.02:264][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.03-08.34.02:264][  0]LogInit: FAudioDevice initialized.
+[2023.05.03-08.34.02:265][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.03-08.34.02:265][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.03-08.34.02:265][  0]LogInit: Texture streaming: Enabled
+[2023.05.03-08.34.02:391][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.03-08.34.02:427][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.03-08.34.02:506][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.03-08.34.02:644][  0]LogInit: Transaction tracking system initialized
+[2023.05.03-08.34.02:851][  0]BlueprintLog: New page: Editor Load
+[2023.05.03-08.34.03:686][  0]LocalizationService: Localization service is disabled
+[2023.05.03-08.34.03:845][  0]TimingProfiler: Initialize
+[2023.05.03-08.34.03:845][  0]TimingProfiler: OnSessionChanged
+[2023.05.03-08.34.03:845][  0]LoadingProfiler: Initialize
+[2023.05.03-08.34.03:846][  0]LoadingProfiler: OnSessionChanged
+[2023.05.03-08.34.03:846][  0]NetworkingProfiler: Initialize
+[2023.05.03-08.34.03:846][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.03-08.34.03:846][  0]MemoryProfiler: Initialize
+[2023.05.03-08.34.03:846][  0]MemoryProfiler: OnSessionChanged
+[2023.05.03-08.34.05:677][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/' took 0.06s
+[2023.05.03-08.34.05:677][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.03-08.34.06:484][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.03-08.34.06:487][  0]SourceControl: Source control is disabled
+[2023.05.03-08.34.06:487][  0]LogUnrealEdMisc: Loading editor; pre map load, took 41.688
+[2023.05.03-08.34.06:488][  0]LightingResults: New page: Lighting Build
+[2023.05.03-08.34.06:497][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-08.34.06:498][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-08.34.06:498][  0]MapCheck: New page: Map Check
+[2023.05.03-08.34.06:498][  0]LightingResults: New page: Lighting Build
+[2023.05.03-08.34.06:506][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-08.34.06:512][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.03-08.34.06:561][  0]LogBlueprint: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\TestUI.uasset: [Compiler] Could not find a variable named "PlayerHealth" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get PlayerHealth
+[2023.05.03-08.34.06:564][  0]LogBlueprint: Error: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\ThirdPerson\Blueprints\TestUI.uasset: [Compiler] The property associated with  Player Health  could not be found in '/Game/ThirdPerson/Blueprints/TestUI.TestUI_C'
+[2023.05.03-08.34.06:702][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.03-08.34.06:710][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.34.06:711][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.03-08.34.06:712][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.03-08.34.06:712][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.03-08.34.06:730][  0]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 391F93D42000D071A8F67B95A27018FCA5D75054), compiling. 
+[2023.05.03-08.34.06:902][  0]LogStaticMesh: Display: Building static mesh floor_tile_1_large...
+[2023.05.03-08.34.06:902][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/floor/floor_tile_1_large.floor_tile_1_large
+[2023.05.03-08.34.06:902][  0]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 404BF335432FBF785D08F23913C07587B684D1C8), compiling. 
+[2023.05.03-08.34.06:949][  0]LogStaticMesh: Display: Building static mesh roof_claw...
+[2023.05.03-08.34.06:949][  0]LogStaticMesh: Display: Building static mesh tube_medium...
+[2023.05.03-08.34.06:949][  0]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 85C0A6FDFE4D5F1308F905217861F5BC0FD4F879), compiling. 
+[2023.05.03-08.34.06:977][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/tube_medium.tube_medium
+[2023.05.03-08.34.06:977][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/roof_claw.roof_claw
+[2023.05.03-08.34.06:977][  0]LogMaterial: Display: Missing cached shadermap for lambert3 in PCD3D_SM5, Default, SM5 (DDC key hash: E57B4CD5B2934EE3F1607ED1F15E868BA29CBF99), compiling. 
+[2023.05.03-08.34.07:014][  0]LogStaticMesh: Display: Building static mesh tube_short...
+[2023.05.03-08.34.07:065][  0]LogStaticMesh: Display: Building static mesh slime_containment_tall...
+[2023.05.03-08.34.07:065][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/tube_short.tube_short
+[2023.05.03-08.34.07:065][  0]LogStaticMesh: Display: Building static mesh Box_283BA542...
+[2023.05.03-08.34.07:065][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_283BA542.Box_283BA542
+[2023.05.03-08.34.07:382][  0]LogStaticMesh: Display: Building static mesh wall_tile_1...
+[2023.05.03-08.34.07:382][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/floor/wall_tile_1.wall_tile_1
+[2023.05.03-08.34.07:382][  0]LogStaticMesh: Built static mesh [0.16s] /Game/Assets/slime_containment_tall.slime_containment_tall
+[2023.05.03-08.34.07:543][  0]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: 16C4D986E1E339E70EFA1EF8F04380CD5CA1BDC6), compiling. 
+[2023.05.03-08.34.07:990][  0]LogStaticMesh: Display: Building static mesh tube_tall...
+[2023.05.03-08.34.07:990][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/tube_tall.tube_tall
+[2023.05.03-08.34.07:990][  0]LogStaticMesh: Display: Building static mesh jelly_container_case...
+[2023.05.03-08.34.07:990][  0]LogMaterial: Display: Missing cached shadermap for 20230501_212728082_iOS_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 48E1B775731A4014C76ABC0969DF7747CE0704B7), compiling. 
+[2023.05.03-08.34.08:110][  0]LogStaticMesh: Display: Building static mesh Box_FA2F91F4...
+[2023.05.03-08.34.08:110][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_FA2F91F4.Box_FA2F91F4
+[2023.05.03-08.34.08:110][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/jelly_container_case.jelly_container_case
+[2023.05.03-08.34.08:317][  0]LogTexture: Display: Building textures: /Game/Assets/posters/20230501_212728082_iOS.20230501_212728082_iOS (BGRA8, 2121X3000 X1X1) (Required Memory Estimate: 121.364594 MB), EncodeSpeed: Fast
+[2023.05.03-08.34.08:317][  0]LogStaticMesh: Display: Building static mesh jelly_barrel...
+[2023.05.03-08.34.08:317][  0]LogStaticMesh: Display: Building static mesh Box_884DBB81...
+[2023.05.03-08.34.08:317][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_884DBB81.Box_884DBB81
+[2023.05.03-08.34.08:317][  0]LogStaticMesh: Display: Building static mesh cable_with_spool_on_floor...
+[2023.05.03-08.34.08:317][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/jelly_barrel.jelly_barrel
+[2023.05.03-08.34.08:317][  0]LogMaterial: Display: Missing cached shadermap for flickering in PCD3D_SM5, Default, SM5 (DDC key hash: A732BE2620704F8762B6960CB8E1B18653181E6B), compiling. 
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Built static mesh [0.23s] /Game/Assets/cable_with_spool_on_floor.cable_with_spool_on_floor
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Display: Building static mesh Lab_control_interface_large...
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Display: Building static mesh lab_control_interface_small...
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/lab_control_interface_small.lab_control_interface_small
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Lab_control_interface_large.Lab_control_interface_large
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Display: Building static mesh Pipe_bumps_long_corner...
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Pipe_bumps_long_corner.Pipe_bumps_long_corner
+[2023.05.03-08.34.09:049][  0]LogStaticMesh: Display: Building static mesh cctv_1...
+[2023.05.03-08.34.09:049][  0]LogMaterial: Display: Missing cached shadermap for 20230501_212715836_iOS_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 19604A067BCD89A22B64417ADC731A04F2480F7A), compiling. 
+[2023.05.03-08.34.09:138][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/cctv_1.cctv_1
+[2023.05.03-08.34.09:138][  0]LogMaterial: Display: Missing cached shadermap for 20230501_134122626_iOS_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3624986720F09637599BB746C0473D5A94BF96EE), compiling. 
+[2023.05.03-08.34.09:675][  0]LogStaticMesh: Display: Building static mesh Box_C2A4B95A...
+[2023.05.03-08.34.09:675][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Box_C2A4B95A.Box_C2A4B95A
+[2023.05.03-08.34.09:675][  0]LogTexture: Display: Building textures: /Game/Assets/posters/20230501_212715836_iOS.20230501_212715836_iOS (BGRA8, 2121X3000 X1X1) (Required Memory Estimate: 121.364594 MB), EncodeSpeed: Fast
+[2023.05.03-08.34.09:675][  0]LogTexture: Display: Building textures: /Game/Assets/posters/20230501_134122626_iOS.20230501_134122626_iOS (TFO_AutoDXT, 2480X3508 X1X1) (Required Memory Estimate: 165.936279 MB), EncodeSpeed: Fast
+[2023.05.03-08.34.09:797][  0]LogMaterial: Display: Missing cached shadermap for 20230501_212721112_iOS_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AC9EAECA6B362087F5E7B8D8F78571120A17EFC7), compiling. 
+[2023.05.03-08.34.09:844][  0]LogWorldPartition: Display: WorldPartition initialize took 3.13 sec
+[2023.05.03-08.34.09:889][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-08.34.09:914][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.03-08.34.09:914][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-08.34.09:915][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.086ms to complete.
+[2023.05.03-08.34.09:915][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 3.428
+[2023.05.03-08.34.09:957][  0]LogUnrealEdMisc: Total Editor Startup Time, took 45.157
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: ================================================
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Total job queries 203, among them cache hits 0 (0.00%)
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Shaders Compiled: 203
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Jobs assigned 20, completed 0 (0.00%)
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.20 s
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 2.22 jobs/batch
+[2023.05.03-08.34.09:957][  0]LogShaderCompilers: Display: ================================================
+[2023.05.03-08.34.10:162][  0]LogTexture: Display: Building textures: /Game/Assets/posters/20230501_212721112_iOS.20230501_212721112_iOS (BGRA8, 1768X2501 X1X1) (Required Memory Estimate: 84.338531 MB), EncodeSpeed: Fast
+[2023.05.03-08.34.10:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-08.34.10:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-08.34.10:183][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-08.34.10:194][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-08.34.10:251][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:251][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:263][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:263][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:270][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:270][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:278][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:278][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:285][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:285][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:291][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:292][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:305][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:313][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.03-08.34.10:313][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.03-08.34.10:313][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.03-08.34.11:322][  0]LogSlate: Took 0.113325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.03-08.34.11:358][  0]LogSlate: Took 0.030076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.03-08.34.11:365][  0]LogSlate: Took 0.005666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.03-08.34.11:374][  0]LogSlate: Took 0.006572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.03-08.34.11:382][  0]LogSlate: Took 0.005956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.03-08.34.11:414][  0]LogViewport: Scene viewport resized to 2038x820, mode Windowed.
+[2023.05.03-08.34.11:524][  0]LogSlate: Took 0.004264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.03-08.34.12:463][  0]LogStall: Startup...
+[2023.05.03-08.34.12:467][  0]LogStall: Startup complete.
+[2023.05.03-08.34.12:559][  0]LogLoad: (Engine Initialization) Total time: 47.76 seconds
+[2023.05.03-08.34.12:559][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.03-08.34.12:834][  0]LogAssetRegistry: Asset discovery search completed in 30.5954 seconds
+[2023.05.03-08.34.12:864][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2023.05.03-08.34.12:870][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.03-08.34.14:643][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.03-08.34.29:015][741]LogSlate: Took 0.001535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.03-08.34.31:711][741]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7DDF63CD8350C69B9383F3A44BE2D3A6B9CC1F26), compiling. 
+[2023.05.03-08.34.31:772][741]LogSkeletalMesh: Building Skeletal Mesh charaacter...
+[2023.05.03-08.34.31:772][741]LogSlate: Window 'Pick Skeletal Mesh' being destroyed
+[2023.05.03-08.34.31:784][741]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.05.03-08.34.31:800][741]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.05.03-08.34.31:817][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.05.03-08.34.32:116][744]LogContentBrowser: Attempting asset rename: NewIKRig -> NewIKRig
+[2023.05.03-08.34.32:135][744]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (charaacter) ...
+[2023.05.03-08.34.33:554][744]LogSkeletalMesh: Built Skeletal Mesh [1.79s] /Game/Assets/Characters/charaacter.charaacter
+[2023.05.03-08.34.33:563][744]LogContentBrowser: End creating deferred item NewIKRig
+[2023.05.03-08.34.35:727][865]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-08.34.35:728][865]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-08.34.36:448][925]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-08.34.36:448][925]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-08.34.46:623][539]LogContentBrowser: Attempting asset rename: NewIKRig -> SlimeRig
+[2023.05.03-08.34.46:734][539]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.013953 seconds
+[2023.05.03-08.34.46:748][539]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.34.46:749][539]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigCEFE6D7349FA16154896D0BCB73B3951.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.34.46:786][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.05.03-08.34.46:803][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.05.03-08.34.46:817][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.03-08.34.46:824][539]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.34.46:824][539]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.35.38:317][393]LogDerivedDataCache: C:/Users/2001151/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.201 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.03-08.45.03:211][277]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.45.03:212][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.45.03:302][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.45.03:302][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.45.03:644][277]LogViewport: Scene viewport resized to 706x736, mode Windowed.
+[2023.05.03-08.45.25:933][652]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequins/Animations/Manny.Manny
+[2023.05.03-08.45.25:933][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.45.25:967][652]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2023.05.03-08.45.26:013][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.45.26:019][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.45.26:296][652]LogViewport: Scene viewport resized to 706x736, mode Windowed.
+[2023.05.03-08.45.31:304][892]LogViewport: Scene viewport resized to 1091x1226, mode Windowed.
+[2023.05.03-08.45.33:033][964]LogViewport: Scene viewport resized to 1091x1226, mode Windowed.
+[2023.05.03-08.47.30:540][ 76]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.47.30:544][ 76]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig490928444F076022D29C2EB882D7ACC6.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.47.30:564][ 76]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.47.30:565][ 76]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.49.02:666][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.49.02:670][ 54]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigB757435842D2661C4D6A268D6F8DAD13.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.49.02:692][ 54]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.49.02:692][ 54]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.49.46:716][349]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.49.46:720][349]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig513B6750460478781CB5EB909BADFF51.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.49.46:742][349]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.49.46:742][349]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.50.14:206][435]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.50.14:209][435]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigE2A5D64742267DFCFDB618B9C17DB8AC.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.50.14:225][435]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.50.14:225][435]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.50.54:125][452]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.50.54:128][452]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigB1B696EB42FA9E9D2E1FE588007E5316.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.50.54:148][452]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.50.54:148][452]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.52.28:821][439]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.52.28:824][439]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig8AEFEC7246BCA3C6C4FC63BF2E5805FB.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.52.28:843][439]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.52.28:843][439]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.54.04:353][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.03-08.54.04:356][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.05.03-08.54.04:357][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Characters/SlimeRig] ([1] browsable assets)...
+[2023.05.03-08.54.04:357][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/SlimeRig]
+[2023.05.03-08.54.04:373][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/SlimeRig_Auto1
+[2023.05.03-08.54.04:373][710]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig_Auto1E00A19194EF3968F6FB2F08FB62FAC56.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/SlimeRig_Auto1.uasset'
+[2023.05.03-08.54.04:375][710]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.05.03-08.54.27:367][967]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.54.27:369][967]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig154112B24059EF6ACBF529A8C6D2E493.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.54.27:393][967]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.54.27:393][967]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.54.47:230][ 29]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.54.47:232][ 29]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig805D48A149FF8BCEB724F192BBFCB814.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.54.47:256][ 29]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.54.47:256][ 29]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.54.58:071][479]LogLinker: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\Characters\Mannequins\X_Bot.uasset: Failed to load '/Game/Characters/Mannequins/Beta_HighLimbsGeoSG3': Can't find file.
+[2023.05.03-08.54.58:071][479]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Beta_HighLimbsGeoSG3'
+[2023.05.03-08.54.58:072][479]LogLinker: Warning: [AssetLog] C:\Users\2001151\OneDrive - Norwich University of the Arts\Year 2\Unit 2\Group-6-Jellly-Game\Group6JellyGame\Content\Characters\Mannequins\X_Bot.uasset: Failed to load '/Game/Characters/Mannequins/Beta_Joints_MAT1': Can't find file.
+[2023.05.03-08.54.58:072][479]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Beta_Joints_MAT1'
+[2023.05.03-08.54.58:266][479]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Characters/Mannequins/Animations/Retargeter.Retargeter
+[2023.05.03-08.54.58:267][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.54.58:298][479]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.05.03-08.54.58:366][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.54.58:368][479]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh X_Bot
+[2023.05.03-08.54.58:368][479]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'X_Bot'
+[2023.05.03-08.54.58:368][479]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, X_Bot and target, SKM_Quinn
+[2023.05.03-08.54.58:500][479]LogViewport: Scene viewport resized to 1019x1226, mode Windowed.
+[2023.05.03-08.54.58:560][479]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.03-08.55.03:582][719]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-08.55.03:582][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-08.55.24:582][201]LogSlate: Window 'Pick IK Rig To Copy Animation From' being destroyed
+[2023.05.03-08.55.24:590][201]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.05.03-08.55.24:595][201]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.05.03-08.55.24:605][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.05.03-08.55.37:873][333]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> MainPlayertarget
+[2023.05.03-08.55.37:874][333]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.05.03-08.55.39:209][439]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Characters/Mannequins/Animations/MainPlayertarget.MainPlayertarget
+[2023.05.03-08.55.39:210][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-08.55.39:237][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-08.55.39:356][439]LogViewport: Scene viewport resized to 1019x1226, mode Windowed.
+[2023.05.03-08.55.39:429][439]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.03-08.56.44:879][595]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/MainPlayertarget
+[2023.05.03-08.56.44:879][595]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MainPlayertargetCE7956A4462AB87EB273689D5BFB149F.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Characters/Mannequins/Animations/MainPlayertarget.uasset'
+[2023.05.03-08.56.44:900][595]AssetCheck: New page: Asset Save: MainPlayertarget
+[2023.05.03-08.56.44:900][595]LogContentValidation: Display: Validating IKRetargeter /Game/Characters/Mannequins/Animations/MainPlayertarget.MainPlayertarget
+[2023.05.03-08.57.18:469][554]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.57.18:472][554]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigFC7672FD48F61FCB0759DB80AF99050E.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.57.18:487][554]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.57.18:487][554]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.58.01:149][976]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.58.01:153][976]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRigB154AC534DE319DAF527C18AF1B25B0B.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.58.01:172][976]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.58.01:172][976]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.58.07:511][278]LogContentBrowser: Attempting asset rename: MM_Fall_Loop -> MM_Fall_Loop
+[2023.05.03-08.58.35:447][610]LogContentBrowser: Attempting asset rename: MM_Idle -> MM_Idle
+[2023.05.03-08.58.43:559][143]LogSavePackage: Moving output files for package: /Game/Assets/Characters/SlimeRig
+[2023.05.03-08.58.43:564][143]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/SlimeRig9A1785F341353ECC595E0DB9C07703BB.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/SlimeRig.uasset'
+[2023.05.03-08.58.43:597][143]AssetCheck: New page: Asset Save: SlimeRig
+[2023.05.03-08.58.43:597][143]LogContentValidation: Display: Validating IKRigDefinition /Game/Assets/Characters/SlimeRig.SlimeRig
+[2023.05.03-08.58.54:637][673]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/MainPlayertarget
+[2023.05.03-08.58.54:649][673]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MainPlayertarget3706031747E27862A007EF9C3986CC15.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Characters/Mannequins/Animations/MainPlayertarget.uasset'
+[2023.05.03-08.58.54:667][673]AssetCheck: New page: Asset Save: MainPlayertarget
+[2023.05.03-08.58.54:667][673]LogContentValidation: Display: Validating IKRetargeter /Game/Characters/Mannequins/Animations/MainPlayertarget.MainPlayertarget
+[2023.05.03-08.59.46:700][526]LogSlate: Window 'Select Export Path' being destroyed
+[2023.05.03-08.59.46:705][526]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2023.05.03-08.59.46:933][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-08.59.46:933][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-08.59.46:933][526]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-08.59.46:956][526]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Idle_Retargeted
+[2023.05.03-08.59.47:152][527]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-08.59.58:790][205]LogSavePackage: Moving output files for package: /Game/Characters/MM_Idle_Retargeted
+[2023.05.03-08.59.58:791][205]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MM_Idle_RetargetedD45ED75242FE94A15C905F84DB0E0513.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Characters/MM_Idle_Retargeted.uasset'
+[2023.05.03-08.59.58:835][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-08.59.58:847][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-08.59.58:857][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.03-08.59.58:870][205]AssetCheck: New page: Asset Save: MM_Idle_Retargeted
+[2023.05.03-08.59.58:870][205]LogContentValidation: Display: Validating AnimSequence /Game/Characters/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-09.00.20:525][669]LogSavePackage: Moving output files for package: /Game/Assets/Characters/MM_Idle_Retargeted
+[2023.05.03-09.00.20:525][669]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MM_Idle_RetargetedC70AA2B1471458CCF0C66A99F39FEB7E.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/MM_Idle_Retargeted.uasset'
+[2023.05.03-09.00.20:561][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.03-09.00.20:572][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.03-09.00.20:581][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.03-09.00.20:595][669]AssetCheck: New page: Asset Save: MM_Idle_Retargeted
+[2023.05.03-09.00.20:595][669]LogContentValidation: Display: Validating AnimSequence /Game/Assets/Characters/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-09.00.24:889][ 47]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.03-09.00.25:117][ 47]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.03-09.00.25:133][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.03-09.00.29:995][446]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.05.03-09.00.29:996][446]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.03-09.00.35:123][871]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Animations/MM_Idle_Retargeted
+[2023.05.03-09.00.35:123][871]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MM_Idle_Retargeted57F64268408838478C96F6B4985495FF.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Animations/MM_Idle_Retargeted.uasset'
+[2023.05.03-09.00.35:161][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.03-09.00.35:175][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.03-09.00.35:186][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.03-09.00.35:200][871]AssetCheck: New page: Asset Save: MM_Idle_Retargeted
+[2023.05.03-09.00.35:200][871]LogContentValidation: Display: Validating AnimSequence /Game/Assets/Characters/Animations/MM_Idle_Retargeted.MM_Idle_Retargeted
+[2023.05.03-09.00.51:710][372]LogSlate: Window 'Select Export Path' being destroyed
+[2023.05.03-09.00.51:715][372]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2023.05.03-09.00.51:826][372]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.05.03-09.00.51:826][372]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.05.03-09.00.51:826][372]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.00.51:830][372]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Jump_Retargeted
+[2023.05.03-09.00.51:991][373]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.05.03-09.01.14:776][123]LogSlate: Window 'Select Export Path' being destroyed
+[2023.05.03-09.01.14:781][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2023.05.03-09.01.14:781][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MOB1_Crouch_Idle_V2_IPC_Retargeted.MOB1_Crouch_Idle_V2_IPC_Retargeted
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MOB1_CrouchWalk_F_IPC_Retargeted.MOB1_CrouchWalk_F_IPC_Retargeted
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2023.05.03-09.01.14:782][123]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2023.05.03-09.01.15:672][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Land_Retargeted.MM_Land_Retargeted
+[2023.05.03-09.01.15:672][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Run_Fwd_Retargeted.MM_Run_Fwd_Retargeted
+[2023.05.03-09.01.15:672][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:686][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:698][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:708][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:717][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:731][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:735][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:748][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:754][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:760][123]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Land_Retargeted
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Run_Fwd_Retargeted
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_Fwd_Retargeted
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_InPlace_Retargeted
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MOB1_Crouch_Idle_V2_IPC_Retargeted_Retargeted
+[2023.05.03-09.01.15:769][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MOB1_CrouchWalk_F_IPC_Retargeted_Retargeted
+[2023.05.03-09.01.15:770][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MF_Idle_Retargeted
+[2023.05.03-09.01.15:770][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MF_Run_Fwd_Retargeted
+[2023.05.03-09.01.15:770][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MF_Walk_Fwd_Retargeted
+[2023.05.03-09.01.15:770][123]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Fall_Loop_Retargeted
+[2023.05.03-09.01.15:981][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Fall_Loop_Retargeted.MM_Fall_Loop_Retargeted
+[2023.05.03-09.01.15:981][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MF_Idle_Retargeted.MF_Idle_Retargeted
+[2023.05.03-09.01.16:050][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MOB1_CrouchWalk_F_IPC_Retargeted_Retargeted.MOB1_CrouchWalk_F_IPC_Retargeted_Retargeted
+[2023.05.03-09.01.16:050][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MOB1_Crouch_Idle_V2_IPC_Retargeted_Retargeted.MOB1_Crouch_Idle_V2_IPC_Retargeted_Retargeted
+[2023.05.03-09.01.16:320][125]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Walk_Fwd_Retargeted.MM_Walk_Fwd_Retargeted
+[2023.05.03-09.01.16:320][125]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Walk_InPlace_Retargeted.MM_Walk_InPlace_Retargeted
+[2023.05.03-09.01.16:407][127]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MF_Walk_Fwd_Retargeted.MF_Walk_Fwd_Retargeted
+[2023.05.03-09.01.16:407][127]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Run_Fwd_Retargeted.MM_Run_Fwd_Retargeted
+[2023.05.03-09.01.16:426][128]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MF_Run_Fwd_Retargeted.MF_Run_Fwd_Retargeted
+[2023.05.03-09.01.16:460][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Animations/MM_Land_Retargeted.MM_Land_Retargeted
+[2023.05.03-09.01.20:791][332]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/MainPlayertarget
+[2023.05.03-09.01.20:793][332]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/MainPlayertarget7E6A746F42836352000734BDE0553E49.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Characters/Mannequins/Animations/MainPlayertarget.uasset'
+[2023.05.03-09.01.20:807][332]AssetCheck: New page: Asset Save: MainPlayertarget
+[2023.05.03-09.01.20:807][332]LogContentValidation: Display: Validating IKRetargeter /Game/Characters/Mannequins/Animations/MainPlayertarget.MainPlayertarget
+[2023.05.03-09.01.32:829][150]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-09.01.32:829][150]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-09.01.33:970][264]LogContentBrowser: Deferred new asset file creation: ABP_Manny1
+[2023.05.03-09.01.33:992][264]LogContentBrowser: Creating deferred item: ABP_Manny1
+[2023.05.03-09.01.34:003][265]LogContentBrowser: Renaming the item being created (Deferred Item: ABP_Manny1).
+[2023.05.03-09.01.37:333][542]LogContentBrowser: Attempting asset rename: ABP_Manny1 -> ABP_Manny1
+[2023.05.03-09.01.37:350][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  Target  and  As Group 6Jelly Game Character : ABP Manny 1 Object Reference is not compatible with Group 6Jelly Game Character Object Reference.
+[2023.05.03-09.01.37:351][542]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-09.01.37:351][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  As Group 6Jelly Game Character  and  Target : Group 6Jelly Game Character Object Reference is not compatible with ABP Manny 1 Object Reference.
+[2023.05.03-09.01.37:361][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  Target  and  As Group 6Jelly Game Character : ABP Manny 1 Object Reference is not compatible with Group 6Jelly Game Character Object Reference.
+[2023.05.03-09.01.37:362][542]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-09.01.37:362][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  As Group 6Jelly Game Character  and  Target : Group 6Jelly Game Character Object Reference is not compatible with ABP Manny 1 Object Reference.
+[2023.05.03-09.01.37:385][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.03-09.01.37:395][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  Target  and  As Group 6Jelly Game Character : ABP Manny 1 Object Reference is not compatible with Group 6Jelly Game Character Object Reference.
+[2023.05.03-09.01.37:396][542]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-09.01.37:396][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  As Group 6Jelly Game Character  and  Target : Group 6Jelly Game Character Object Reference is not compatible with ABP Manny 1 Object Reference.
+[2023.05.03-09.01.37:406][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  Target  and  As Group 6Jelly Game Character : ABP Manny 1 Object Reference is not compatible with Group 6Jelly Game Character Object Reference.
+[2023.05.03-09.01.37:406][542]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Could not find a variable named "IsCrouching" in 'Group6JellyGameCharacter'.
+Make sure 'Group6JellyGameCharacter' has been compiled for  Get IsCrouching
+[2023.05.03-09.01.37:407][542]LogBlueprint: Error: [AssetLog] /Game/Characters/Mannequins/Animations/ABP_Manny1.ABP_Manny1 (no disk path found): [Compiler] Can't connect pins  As Group 6Jelly Game Character  and  Target : Group 6Jelly Game Character Object Reference is not compatible with ABP Manny 1 Object Reference.
+[2023.05.03-09.01.37:419][542]LogContentBrowser: End creating deferred item ABP_Manny1
+[2023.05.03-09.01.39:339][660]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-09.01.39:339][660]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.03-09.01.44:671][ 91]LogContentBrowser: Attempting asset rename: ABP_Manny1 -> ABP_Slime
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.SKEL_ABP_Slime_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.ABP_Slime_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.SKEL_ABP_Slime_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.SKEL_ABP_Slime_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.SKEL_ABP_Slime_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.ABP_Slime_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.ABP_Slime_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:694][ 91]LogMetaData: Removing '/Game/Characters/Mannequins/Animations/ABP_Slime.ABP_Slime_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny1.PackageMetaData'
+[2023.05.03-09.01.44:938][ 91]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Slime
+[2023.05.03-09.01.44:939][ 91]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/ABP_SlimeDBAD80D347D16D3E235C25A0CE5FF105.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Characters/Mannequins/Animations/ABP_Slime.uasset'
+[2023.05.03-09.01.44:978][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.03-09.01.44:990][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.03-09.01.45:000][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.05.03-09.01.45:004][ 91]AssetCheck: New page: Asset Save: ABP_Slime
+[2023.05.03-09.01.45:004][ 91]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Slime.ABP_Slime
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.SKEL_ABP_Slime_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.SKEL_ABP_Slime_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.SKEL_ABP_Slime_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:068][656]LogMetaData: Removing '/Game/Assets/Characters/Animations/ABP_Slime.SKEL_ABP_Slime_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Slime.PackageMetaData'
+[2023.05.03-09.01.53:260][656]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Animations/ABP_Slime
+[2023.05.03-09.01.53:260][656]LogSavePackage: Moving '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/ABP_Slime1ADDE9124380731AEE5EA29D0340DCCB.tmp' to '../../../../../../Users/2001151/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Animations/ABP_Slime.uasset'
+[2023.05.03-09.01.53:300][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.03-09.01.53:311][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.03-09.01.53:321][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.03-09.01.53:335][656]AssetCheck: New page: Asset Save: ABP_Slime
+[2023.05.03-09.01.53:335][656]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime
+[2023.05.03-09.01.55:079][785]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Characters/Animations/ABP_Slime.ABP_Slime
+[2023.05.03-09.01.55:080][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-09.01.55:212][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-09.01.55:221][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-09.01.57:007][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
