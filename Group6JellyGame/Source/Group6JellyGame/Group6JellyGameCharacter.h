@@ -67,7 +67,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
 	bool Init;
 
-	FVector currentScale = FVector(0);
+	FVector currentScale = FVector(1);
 
 protected:
 

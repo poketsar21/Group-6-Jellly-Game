@@ -93,7 +93,7 @@ void AGroup6JellyGameCharacter::BeginPlay()
 
 	currentScale = GetActorScale3D();
 
-	ScaleAnimation();
+	//ScaleAnimation();
 }
 
 void AGroup6JellyGameCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
