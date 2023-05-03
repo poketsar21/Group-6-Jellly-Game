@@ -14,8 +14,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define GROUP6JELLYGAME_Group6JellyGameCharacter_generated_h
 
 #define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_SPARSE_DATA
-#define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_RPC_WRAPPERS
-#define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execinitscale); \
+	DECLARE_FUNCTION(execScaleAnimation);
+
+
+#define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execinitscale); \
+	DECLARE_FUNCTION(execScaleAnimation);
+
+
 #define FID_Group6JellyGame_Source_Group6JellyGame_Group6JellyGameCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGroup6JellyGameCharacter(); \

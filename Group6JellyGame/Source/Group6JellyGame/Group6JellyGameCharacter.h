@@ -55,7 +55,23 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Size)
 	float Size;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = "Mechanics")
+	float minScale;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = "Mechanics")
+	float maxScale;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = "Mechanics")
+	float setScale;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = State)
+	bool Init;
+
+	FVector currentScale = FVector(0);
+
 protected:
+
+	virtual void BeginPlay() override;
 
 	/** Called for forwards/backward input */
 	void MoveForward(float Value);
@@ -86,6 +102,13 @@ protected:
 
 	/* called to change the players height for the vents*/
 	void ToggleCrouch();
+
+	/* called to change the players size*/
+	UFUNCTION(BlueprintCallable)
+	void ScaleAnimation();
+
+	UFUNCTION(BlueprintCallable)
+	void initscale();
 
 protected:
 	// APawn interface

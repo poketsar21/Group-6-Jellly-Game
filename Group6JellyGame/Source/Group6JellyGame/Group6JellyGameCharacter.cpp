@@ -18,13 +18,17 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	ViewToggle = false;
 
 	//scale control
-	FVector currentScale = GetActorScale3D();
+	
 	CrouchSize = 0.2;
 	NormalSize = 1;
 	PlayerHealth = 5;
 	Changing = true;
 	Changing2 = false;
 	Size = 0;
+	minScale = 1.0;
+	maxScale = 1.5;
+	setScale = 1.0;
+	Init = true;
 
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
@@ -75,12 +79,22 @@ AGroup6JellyGameCharacter::AGroup6JellyGameCharacter()
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
 
-	
+
+	ScaleAnimation();
 
 }
 
 //////////////////////////////////////////////////////////////////////////
 // Input
+
+void AGroup6JellyGameCharacter::BeginPlay()
+{
+	Super::BeginPlay();
+
+	currentScale = GetActorScale3D();
+
+	ScaleAnimation();
+}
 
 void AGroup6JellyGameCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
@@ -120,6 +134,12 @@ void AGroup6JellyGameCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVec
 	StopJumping();
 }
 
+void AGroup6JellyGameCharacter::initscale()
+{
+	FVector initScale = GetActorScale3D();
+}
+
+
 void AGroup6JellyGameCharacter::ChangeView()
 {
 	if (ViewToggle)
@@ -139,6 +159,8 @@ void AGroup6JellyGameCharacter::ChangeView()
 
 void AGroup6JellyGameCharacter::ToggleCrouch()
 {
+
+
 	if (IsCrouching) {
 		UnCrouch();
 		GetCapsuleComponent()->SetCapsuleSize(42.0f, 96.0f);
@@ -195,3 +217,49 @@ void AGroup6JellyGameCharacter::MoveRight(float Value)
 		AddMovementInput(Direction, Value);
 	}
 }
+
+void AGroup6JellyGameCharacter::ScaleAnimation()
+{
+	//if (Init) 
+	//{
+	//	currentScale = GetActorScale3D();
+	//	Init = false;
+	//}
+
+	if (Size == 1)
+	{
+		setScale = 1.1;
+	}
+	else if (Size == 2)
+	{
+		setScale = 1.2;
+	}
+	else if (Size > 2)
+	{
+		setScale = 1.4;
+	}
+
+	if (currentScale.X < maxScale)
+	{
+		if (currentScale.X * setScale > maxScale)
+		{
+			SetActorScale3D(FVector(maxScale, maxScale, maxScale));
+		}
+		else
+		{
+			SetActorScale3D(currentScale * setScale);
+		}
+	}
+	if (currentScale.X > minScale)
+	{
+		if (currentScale.X / setScale < minScale)
+		{
+			SetActorScale3D(FVector(minScale, minScale, minScale));
+		}
+		else
+		{
+			SetActorScale3D(currentScale / setScale);
+		}
+	}
+}
+
