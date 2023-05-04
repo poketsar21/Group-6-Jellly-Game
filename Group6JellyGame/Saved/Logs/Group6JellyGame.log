@@ -1215,3 +1215,892 @@ Recommended: 30.0.101.1340
 [2023.05.04-09.42.00:495][ 53]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/4VP9SZNMMTXXKNGKXN90NM5EC7D5EC4F3907CAB3A911BC5BC1E298.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7F/4VP9SZNMMTXXKNGKXN90NM.uasset'
 [2023.05.04-09.42.00:528][ 53]AssetCheck: New page: Asset Save: PointLight_UAID_00FFEC6BEB98547601_2003994574
 [2023.05.04-09.42.00:528][ 53]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB98547601_2003994574
+[2023.05.04-09.42.26:756][301]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984C7F01_1267414679 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/5S/EI0JY2A55PIKR3FUOD7Z1P.PackageMetaData in its package
+[2023.05.04-09.42.26:756][301]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984B7F01_2141260502 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/L6/V2X5FMNKX2ILGVSFDNJBGK.PackageMetaData in its package
+[2023.05.04-09.42.26:757][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.04-09.42.26:769][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.04-09.52.24:298][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.04-09.52.24:300][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2023.05.04-09.56.24:329][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/vent_corner.vent_corner
+[2023.05.04-09.56.24:329][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/vent_corner.vent_corner
+[2023.05.04-09.56.24:330][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/vent_corner.vent_corner as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1974533233
+[2023.05.04-09.56.25:953][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/vent_corner.vent_corner
+[2023.05.04-09.56.25:953][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/vent_corner.vent_corner
+[2023.05.04-09.56.25:954][302]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/vent_corner.vent_corner as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1143214856
+[2023.05.04-09.56.49:082][698]Cmd: DELETE
+[2023.05.04-09.56.49:082][698]Cmd: ACTOR DELETE
+[2023.05.04-09.56.49:088][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-09.56.49:139][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.04-09.56.49:140][698]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.05.04-09.56.57:314][838]Cmd: DUPLICATE
+[2023.05.04-09.56.57:314][838]Cmd: ACTOR DUPLICATE
+[2023.05.04-09.58.21:015][242]Cmd: DUPLICATE
+[2023.05.04-09.58.21:015][242]Cmd: ACTOR DUPLICATE
+[2023.05.04-09.58.27:995][350]Cmd: DUPLICATE
+[2023.05.04-09.58.27:995][350]Cmd: ACTOR DUPLICATE
+[2023.05.04-09.58.37:243][503]Cmd: DUPLICATE
+[2023.05.04-09.58.37:243][503]Cmd: ACTOR DUPLICATE
+[2023.05.04-09.59.00:220][897]Cmd: DELETE
+[2023.05.04-09.59.00:220][897]Cmd: ACTOR DELETE
+[2023.05.04-09.59.00:232][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-09.59.00:245][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.04-09.59.00:247][897]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.05.04-09.59.03:053][942]Cmd: DELETE
+[2023.05.04-09.59.03:053][942]Cmd: ACTOR DELETE
+[2023.05.04-09.59.03:060][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-09.59.03:074][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.04-09.59.03:076][942]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.05.04-09.59.04:204][961]Cmd: DELETE
+[2023.05.04-09.59.04:204][961]Cmd: ACTOR DELETE
+[2023.05.04-09.59.04:212][961]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-09.59.04:224][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.04-09.59.04:226][961]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.05.04-09.59.57:744][833]Cmd: DELETE
+[2023.05.04-09.59.57:744][833]Cmd: ACTOR DELETE
+[2023.05.04-09.59.57:756][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-09.59.57:769][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.04-09.59.57:771][833]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.05.04-10.00.22:621][218]Cmd: DUPLICATE
+[2023.05.04-10.00.22:621][218]Cmd: ACTOR DUPLICATE
+[2023.05.04-10.00.22:799][219]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.00.28:590][328]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.00.29:628][345]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.00.31:203][369]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.00.31:750][374]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.00.35:616][458]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.02.14:083][ 22]Cmd: DUPLICATE
+[2023.05.04-10.02.14:083][ 22]Cmd: ACTOR DUPLICATE
+[2023.05.04-10.02.43:338][511]Cmd: DELETE
+[2023.05.04-10.02.43:338][511]Cmd: ACTOR DELETE
+[2023.05.04-10.02.43:348][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.04-10.02.43:417][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.04-10.02.43:419][511]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2023.05.04-10.02.52:202][654]Cmd: DUPLICATE
+[2023.05.04-10.02.52:202][654]Cmd: ACTOR DUPLICATE
+[2023.05.04-10.03.20:480][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.04-10.03.20:590][182]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1491346862 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9P/T1O9MA75X7Z59XR3SXBYD9.PackageMetaData in its package
+[2023.05.04-10.03.20:591][182]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1143214856 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ID/3JG2LFJ2JDB8U935J24SEE.PackageMetaData in its package
+[2023.05.04-10.03.20:591][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.05.04-10.03.20:600][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.04-10.03.20:609][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.04-10.03.20:612][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JV/7844TQOTYWLWB792Z13G4F
+[2023.05.04-10.03.20:612][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7844TQOTYWLWB792Z13G4F2F4EBEAC42457AD8DC79CC88165EAC45.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JV/7844TQOTYWLWB792Z13G4F.uasset'
+[2023.05.04-10.03.20:615][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K4/XFWN1E2VGOPRU8092NZ7X9
+[2023.05.04-10.03.20:616][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XFWN1E2VGOPRU8092NZ7X9E9EB000547261EFB031EE18036AD1D22.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K4/XFWN1E2VGOPRU8092NZ7X9.uasset'
+[2023.05.04-10.03.20:619][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/U5/VL58VJ8MIY5G507EL2W4ZH
+[2023.05.04-10.03.20:619][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/VL58VJ8MIY5G507EL2W4ZH10DBE8034DA06EA3244A63B9B148339A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/U5/VL58VJ8MIY5G507EL2W4ZH.uasset'
+[2023.05.04-10.03.20:622][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HY/DTT2ZEIOLUATTMSSNAFCCS
+[2023.05.04-10.03.20:622][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/DTT2ZEIOLUATTMSSNAFCCS9DE2A5BC494E70030193259AF2D2A255.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HY/DTT2ZEIOLUATTMSSNAFCCS.uasset'
+[2023.05.04-10.03.20:625][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EU/QYBRUABQ5FFLXXMLMHRUIR
+[2023.05.04-10.03.20:625][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/QYBRUABQ5FFLXXMLMHRUIR5E8A308E4E994A02DD808EB05BB0B6E6.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EU/QYBRUABQ5FFLXXMLMHRUIR.uasset'
+[2023.05.04-10.03.20:627][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XV/XU6B8YSHRXJHZ71IU20V8H
+[2023.05.04-10.03.20:627][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XU6B8YSHRXJHZ71IU20V8H6E03FDBF4D67E49B5B6A7B8580EF92D2.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XV/XU6B8YSHRXJHZ71IU20V8H.uasset'
+[2023.05.04-10.03.20:629][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7C/PXY6PRUXYYRWTQPGFNMQVM
+[2023.05.04-10.03.20:629][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/PXY6PRUXYYRWTQPGFNMQVMD7F623C14E4C0E2E40ACDBB55182423A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7C/PXY6PRUXYYRWTQPGFNMQVM.uasset'
+[2023.05.04-10.03.20:631][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J8/JELVW76149UC4V2HB7HCOC
+[2023.05.04-10.03.20:631][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/JELVW76149UC4V2HB7HCOC4FDBD34E4589D22DA7F670B79A8E6402.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J8/JELVW76149UC4V2HB7HCOC.uasset'
+[2023.05.04-10.03.20:633][182]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O6/6SOU2MT18AFHJASKO0I4R4
+[2023.05.04-10.03.20:633][182]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/6SOU2MT18AFHJASKO0I4R4B9715AED4EB93DE7BD884B9A2F023A35.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O6/6SOU2MT18AFHJASKO0I4R4.uasset'
+[2023.05.04-10.03.20:661][182]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.04-10.03.20:661][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1274505860
+[2023.05.04-10.03.20:661][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1265258859
+[2023.05.04-10.03.20:661][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98837E01_1594483305
+[2023.05.04-10.03.20:661][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1258277858
+[2023.05.04-10.03.20:662][182]LogContentValidation: Display: Validating WindDetect_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WindDetect_C_UAID_089798A69A1FF17C01_1732862520
+[2023.05.04-10.03.20:662][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1379883861
+[2023.05.04-10.03.20:662][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1174575857
+[2023.05.04-10.03.20:662][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1529466863
+[2023.05.04-10.03.20:662][182]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984B7F01_2084153501
+[2023.05.04-10.03.20:674][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.04-10.03.21:489][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.04-10.03.21:508][196]LogWorldPartition: Display: GetPartitionedActors took 129 us
+[2023.05.04-10.03.21:512][196]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2023.05.04-10.03.21:513][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-10.03.21:516][196]PIE: New page: PIE session: ThirdPersonMap (4 May 2023, 12:03:21)
+[2023.05.04-10.03.21:521][196]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.04-10.03.21:521][196]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.04-10.03.21:521][196]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.03.21:560][196]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.04-10.03.21:560][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037775s)
+[2023.05.04-10.03.21:560][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.037935s)
+[2023.05.04-10.03.21:560][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.03.21:561][196]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.04-10.03.21:561][196]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-10.03.21:561][196]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.04-10.03.21:568][196]LogWorldPartition: Display: WorldPartition initialize took 7 ms
+[2023.05.04-10.03.21:568][196]LogPlayLevel: PIE: World Init took: (0.008618s)
+[2023.05.04-10.03.21:580][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.04-10.03.21:581][196]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-10.03.21:582][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-10.03.21:582][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-10.03.21:582][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-10.03.21:582][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-10.03.21:582][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-10.03.21:585][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-10.03.21:678][196]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.04-10.03.21:679][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-10.03.21:680][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-10.03.21:680][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-10.03.21:681][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.04-10.03.21:681][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.04-10.03.21:683][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.04-10.03.21:683][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.04-10.03.21:683][196]LogInit: FAudioDevice initialized.
+[2023.05.04-10.03.21:683][196]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.05.04-10.03.21:700][196]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.04-10.03.21:725][196]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.04-11.03.21
+[2023.05.04-10.03.21:726][196]LogWorld: Bringing up level for play took: 0.025630
+[2023.05.04-10.03.21:729][196]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.05.04-10.03.21:748][196]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-49.807 Y=-5861.333 Z=176.603
+[2023.05.04-10.03.21:748][196]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.03.21:749][196]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.04-10.03.21:749][196]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.04-10.03.21:749][196]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.04-10.03.21:750][196]PIE: Server logged in
+[2023.05.04-10.03.21:751][196]PIE: Play in editor total start time 0.25 seconds.
+[2023.05.04-10.03.33:612][340]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.04.06:941][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.04.06:941][887]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.04.06:943][887]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-10.04.06:946][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.04.07:045][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-10.04.07:049][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.04.07:068][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-10.04.07:069][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.04-10.04.07:072][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.04-10.04.07:094][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.04.07:110][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.04-10.04.07:177][888]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.05.04-10.04.11:512][947]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.04.12:618][964]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.04.12:752][966]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.04.13:836][979]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.04.15:366][  3]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-10.04.15:393][  3]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-10.04.15:394][  3]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-10.04.15:394][  3]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.04.15:394][  3]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.04-10.04.15:394][  3]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.04-10.04.15:394][  3]LogWorldPartition: Display: GetPartitionedActors took 337 us
+[2023.05.04-10.04.15:399][  3]LogWorldPartition: Display: GenerateStreaming took 4 ms
+[2023.05.04-10.04.15:399][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-10.04.15:399][  3]PIE: New page: PIE session: ThirdPersonMap (4 May 2023, 12:04:15)
+[2023.05.04-10.04.15:399][  3]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.04.15:451][  3]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.04-10.04.15:452][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052489s)
+[2023.05.04-10.04.15:452][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.052562s)
+[2023.05.04-10.04.15:452][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.04.15:452][  3]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.04-10.04.15:453][  3]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-10.04.15:453][  3]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.04-10.04.15:466][  3]LogWorldPartition: Display: WorldPartition initialize took 13 ms
+[2023.05.04-10.04.15:467][  3]LogPlayLevel: PIE: World Init took: (0.015579s)
+[2023.05.04-10.04.15:485][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.04-10.04.15:487][  3]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-10.04.15:487][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-10.04.15:487][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-10.04.15:487][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-10.04.15:487][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-10.04.15:487][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-10.04.15:491][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-10.04.15:621][  3]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.04-10.04.15:621][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-10.04.15:621][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-10.04.15:621][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-10.04.15:622][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.04-10.04.15:622][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.04-10.04.15:624][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.04-10.04.15:624][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.04-10.04.15:624][  3]LogInit: FAudioDevice initialized.
+[2023.05.04-10.04.15:624][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.05.04-10.04.15:643][  3]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.04-10.04.15:668][  3]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.04-11.04.15
+[2023.05.04-10.04.15:670][  3]LogWorld: Bringing up level for play took: 0.026602
+[2023.05.04-10.04.15:672][  3]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.05.04-10.04.15:675][  3]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-49.807 Y=-5861.333 Z=176.603
+[2023.05.04-10.04.15:675][  3]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.04.15:675][  3]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.04-10.04.15:676][  3]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.04-10.04.15:676][  3]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.04-10.04.15:677][  3]PIE: Server logged in
+[2023.05.04-10.04.15:678][  3]PIE: Play in editor total start time 0.295 seconds.
+[2023.05.04-10.04.31:289][235]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.04.51:218][567]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.05.06:166][817]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.05.09:276][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.05.09:276][870]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.05.09:278][870]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-10.05.09:282][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.05.09:369][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-10.05.09:374][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.05.09:392][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-10.05.09:395][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.04-10.05.09:402][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.04-10.05.09:425][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.05.09:437][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.04-10.05.09:485][871]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.05.04-10.05.47:901][451]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.05.48:709][464]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.05.49:666][479]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.05.50:807][497]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.05.51:176][503]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.05.51:778][510]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.55:360][459]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.56:190][469]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.57:119][484]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.57:309][487]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.57:687][493]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.58:005][498]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.58:131][500]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.06.59:554][522]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.00:066][530]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.00:491][534]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.37:502][ 87]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.37:759][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.37:895][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.38:160][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.38:418][101]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.38:610][104]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.39:003][110]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.39:508][118]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.40:633][133]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.07.55:144][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.04-10.07.55:231][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/L7/P0FR5QPMBIV3HHKVO6VAU6
+[2023.05.04-10.07.55:233][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/P0FR5QPMBIV3HHKVO6VAU6A04A07B74926BB146998FEBC15FAC45A.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/L7/P0FR5QPMBIV3HHKVO6VAU6.uasset'
+[2023.05.04-10.07.55:237][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1E/QYG9MHIPXQQAZVTOTTZURB
+[2023.05.04-10.07.55:240][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/QYG9MHIPXQQAZVTOTTZURB090E068742858571E309E081594F7AC8.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1E/QYG9MHIPXQQAZVTOTTZURB.uasset'
+[2023.05.04-10.07.55:246][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KG/2JE9VQFQFY7M0TXRP1JTZ1
+[2023.05.04-10.07.55:247][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/2JE9VQFQFY7M0TXRP1JTZ19873CFF0478B565CB555BA8D5DC83CEB.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KG/2JE9VQFQFY7M0TXRP1JTZ1.uasset'
+[2023.05.04-10.07.55:253][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FQ/0CI3JGN2TQV9KXC9FA0FLA
+[2023.05.04-10.07.55:255][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/0CI3JGN2TQV9KXC9FA0FLABCA6C7E4407745F3A77C4F876DAF37A5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FQ/0CI3JGN2TQV9KXC9FA0FLA.uasset'
+[2023.05.04-10.07.55:259][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J8/JELVW76149UC4V2HB7HCOC
+[2023.05.04-10.07.55:260][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/JELVW76149UC4V2HB7HCOC1E0960E547E60061B6AF3DBCEA8E7DE6.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J8/JELVW76149UC4V2HB7HCOC.uasset'
+[2023.05.04-10.07.55:264][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/II/BOHYQ0336Z4DU1W5119VKY
+[2023.05.04-10.07.55:265][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BOHYQ0336Z4DU1W5119VKY6A8AE40C42B6FB0C1F3A9F816E5CE2DD.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/II/BOHYQ0336Z4DU1W5119VKY.uasset'
+[2023.05.04-10.07.55:270][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6J/4XUSQSPVBAR0YA2U9QDYWN
+[2023.05.04-10.07.55:271][365]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/4XUSQSPVBAR0YA2U9QDYWN59565F694F1A9A3CE7BD3E9699898489.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6J/4XUSQSPVBAR0YA2U9QDYWN.uasset'
+[2023.05.04-10.07.55:298][365]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98527601_1762239200
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating breakables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.breakables_C_UAID_00FFEC6BEB981F7D01_1960609618
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984D7F01_1379883861
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98247201_1748168880
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984B7F01_1848497498
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984B7F01_1830961497
+[2023.05.04-10.07.55:299][365]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB984B7F01_1805164496
+[2023.05.04-10.08.02:477][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-10.08.02:505][481]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-10.08.02:505][481]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-10.08.02:505][481]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.08.02:506][481]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.04-10.08.02:506][481]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.04-10.08.02:506][481]LogWorldPartition: Display: GetPartitionedActors took 669 us
+[2023.05.04-10.08.02:510][481]LogWorldPartition: Display: GenerateStreaming took 4 ms
+[2023.05.04-10.08.02:510][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-10.08.02:510][481]PIE: New page: PIE session: ThirdPersonMap (4 May 2023, 12:08:02)
+[2023.05.04-10.08.02:510][481]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.08.02:571][481]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.04-10.08.02:572][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060916s)
+[2023.05.04-10.08.02:572][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.061067s)
+[2023.05.04-10.08.02:572][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.08.02:573][481]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.04-10.08.02:575][481]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-10.08.02:575][481]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.04-10.08.02:588][481]LogWorldPartition: Display: WorldPartition initialize took 13 ms
+[2023.05.04-10.08.02:589][481]LogPlayLevel: PIE: World Init took: (0.017599s)
+[2023.05.04-10.08.02:607][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.04-10.08.02:610][481]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.04-10.08.02:610][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-10.08.02:611][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-10.08.02:611][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-10.08.02:612][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-10.08.02:612][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-10.08.02:612][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-10.08.02:616][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-10.08.02:732][481]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.04-10.08.02:733][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-10.08.02:733][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-10.08.02:733][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-10.08.02:734][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.04-10.08.02:734][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.04-10.08.02:737][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.04-10.08.02:737][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.04-10.08.02:737][481]LogInit: FAudioDevice initialized.
+[2023.05.04-10.08.02:737][481]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.05.04-10.08.02:752][481]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.04-10.08.02:782][481]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.04-11.08.02
+[2023.05.04-10.08.02:784][481]LogWorld: Bringing up level for play took: 0.031873
+[2023.05.04-10.08.02:786][481]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.05.04-10.08.02:790][481]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-49.807 Y=-5861.333 Z=176.603
+[2023.05.04-10.08.02:790][481]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.08.02:790][481]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.04-10.08.02:791][481]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.04-10.08.02:791][481]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.04-10.08.02:792][481]PIE: Server logged in
+[2023.05.04-10.08.02:793][481]PIE: Play in editor total start time 0.301 seconds.
+[2023.05.04-10.08.26:277][831]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.08.50:565][237]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.08.56:277][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.08.56:277][335]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.08.56:279][335]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-10.08.56:282][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.08.56:373][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-10.08.56:377][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.08.56:396][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.08.56:397][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.04-10.08.56:400][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.04-10.08.56:440][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.04-10.08.56:503][336]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.05.04-10.09.07:329][500]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.04-10.09.11:063][547]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.04-10.09.42:018][  1]LogViewport: Scene viewport resized to 1562x801, mode Windowed.
+[2023.05.04-10.09.42:253][  3]LogViewport: Scene viewport resized to 1433x801, mode Windowed.
+[2023.05.04-10.09.42:488][  5]LogViewport: Scene viewport resized to 1349x801, mode Windowed.
+[2023.05.04-10.09.42:756][  7]LogViewport: Scene viewport resized to 1230x801, mode Windowed.
+[2023.05.04-10.09.42:965][  9]LogViewport: Scene viewport resized to 1181x801, mode Windowed.
+[2023.05.04-10.09.43:141][ 11]LogViewport: Scene viewport resized to 1133x801, mode Windowed.
+[2023.05.04-10.09.43:326][ 13]LogViewport: Scene viewport resized to 1094x801, mode Windowed.
+[2023.05.04-10.10.03:939][187]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.05.04-10.10.17:499][363]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.05.04-10.10.17:518][363]LogActorComponent: UnregisterComponent: (/Game/Assets/Vent_straight4_Blueprint.Default__Vent_straight4_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.05.04-10.10.17:542][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.04-10.10.17:557][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Vent_straight4_Blueprint.Vent_straight4_Blueprint
+[2023.05.04-10.10.17:559][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.10.19:143][363]LogViewport: Scene viewport resized to 808x280, mode Windowed.
+[2023.05.04-10.10.20:814][386]LogViewport: Scene viewport resized to 1345x671, mode Windowed.
+[2023.05.04-10.10.44:636][721]LogViewport: Scene viewport resized to 1343x671, mode Windowed.
+[2023.05.04-10.10.44:785][723]LogViewport: Scene viewport resized to 1313x671, mode Windowed.
+[2023.05.04-10.10.44:934][725]LogViewport: Scene viewport resized to 1222x671, mode Windowed.
+[2023.05.04-10.10.45:086][727]LogViewport: Scene viewport resized to 1178x671, mode Windowed.
+[2023.05.04-10.10.45:247][729]LogViewport: Scene viewport resized to 1130x671, mode Windowed.
+[2023.05.04-10.10.45:522][733]LogViewport: Scene viewport resized to 1108x671, mode Windowed.
+[2023.05.04-10.10.45:676][735]LogViewport: Scene viewport resized to 1100x671, mode Windowed.
+[2023.05.04-10.10.45:820][737]LogViewport: Scene viewport resized to 1080x671, mode Windowed.
+[2023.05.04-10.10.45:969][739]LogViewport: Scene viewport resized to 1056x671, mode Windowed.
+[2023.05.04-10.10.46:275][743]LogViewport: Scene viewport resized to 1035x671, mode Windowed.
+[2023.05.04-10.10.46:397][744]LogViewport: Scene viewport resized to 1021x671, mode Windowed.
+[2023.05.04-10.11.32:355][419]LogSlate: Took 0.007776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.04-10.11.46:786][627]BlueprintLog: New page: Compile Vent_straight4_Blueprint
+[2023.05.04-10.11.46:908][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.04-10.11.47:585][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Vent_straight4_Blueprint" FILE="../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight4_Blueprint.uasset" SILENT=true
+[2023.05.04-10.11.47:598][633]LogSavePackage: Moving output files for package: /Game/Assets/Vent_straight4_Blueprint
+[2023.05.04-10.11.47:598][633]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Vent_straight4_Blueprint94091D4F4792D997B45EDF8248D34603.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight4_Blueprint.uasset'
+[2023.05.04-10.11.47:618][633]AssetCheck: New page: Asset Save: Vent_straight4_Blueprint
+[2023.05.04-10.11.47:618][633]LogContentValidation: Display: Validating Blueprint /Game/Assets/Vent_straight4_Blueprint.Vent_straight4_Blueprint
+[2023.05.04-10.11.52:670][719]LogViewport: Scene viewport resized to 1092x801, mode Windowed.
+[2023.05.04-10.11.52:813][721]LogViewport: Scene viewport resized to 1150x801, mode Windowed.
+[2023.05.04-10.11.52:934][722]LogViewport: Scene viewport resized to 1267x801, mode Windowed.
+[2023.05.04-10.11.53:093][724]LogViewport: Scene viewport resized to 1439x801, mode Windowed.
+[2023.05.04-10.11.53:282][726]LogViewport: Scene viewport resized to 1561x801, mode Windowed.
+[2023.05.04-10.11.53:395][727]LogViewport: Scene viewport resized to 1633x801, mode Windowed.
+[2023.05.04-10.11.53:613][728]LogViewport: Scene viewport resized to 1654x801, mode Windowed.
+[2023.05.04-10.12.04:270][850]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.04:953][858]Cmd: TRANSACTION UNDO
+[2023.05.04-10.12.04:954][858]LogEditorTransaction: Undo Move Elements
+[2023.05.04-10.12.10:149][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.18:799][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.22:774][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.36:189][249]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.37:576][269]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.04-10.12.39:059][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.04-10.12.39:091][289]LogWorldPartition: Display: GetPartitionedActors took 205 us
+[2023.05.04-10.12.39:094][289]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2023.05.04-10.12.39:094][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-10.12.39:094][289]PIE: New page: PIE session: ThirdPersonMap (4 May 2023, 12:12:39)
+[2023.05.04-10.12.39:096][289]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.12.39:151][289]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.04-10.12.39:152][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056560s)
+[2023.05.04-10.12.39:152][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.056726s)
+[2023.05.04-10.12.39:153][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.12.39:154][289]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.04-10.12.39:156][289]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-10.12.39:156][289]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.04-10.12.39:168][289]LogWorldPartition: Display: WorldPartition initialize took 12 ms
+[2023.05.04-10.12.39:168][289]LogPlayLevel: PIE: World Init took: (0.016053s)
+[2023.05.04-10.12.39:214][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.04-10.12.39:216][289]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-10.12.39:216][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-10.12.39:216][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-10.12.39:217][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-10.12.39:217][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-10.12.39:217][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-10.12.39:220][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-10.12.39:324][289]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.04-10.12.39:324][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-10.12.39:324][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-10.12.39:324][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-10.12.39:324][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.04-10.12.39:324][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.04-10.12.39:327][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.04-10.12.39:327][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.04-10.12.39:327][289]LogInit: FAudioDevice initialized.
+[2023.05.04-10.12.39:327][289]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2023.05.04-10.12.39:338][289]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.04-10.12.39:369][289]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.04-11.12.39
+[2023.05.04-10.12.39:371][289]LogWorld: Bringing up level for play took: 0.032186
+[2023.05.04-10.12.39:373][289]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.05.04-10.12.39:377][289]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2253.759 Y=-5492.579 Z=591.635
+[2023.05.04-10.12.39:377][289]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.12.39:377][289]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.04-10.12.39:378][289]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.04-10.12.39:378][289]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.04-10.12.39:379][289]PIE: Server logged in
+[2023.05.04-10.12.39:380][289]PIE: Play in editor total start time 0.299 seconds.
+[2023.05.04-10.12.45:222][358]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.12.55:156][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.12.55:156][519]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.12.55:157][519]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-10.12.55:160][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.12.55:216][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-10.12.55:223][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.12.55:279][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.12.55:280][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.04-10.12.55:283][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.04-10.12.55:314][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.04-10.12.55:363][520]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.04-10.13.14:807][815]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Vent_straight.Vent_straight
+[2023.05.04-10.13.14:880][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.13.15:371][815]LogViewport: Scene viewport resized to 1400x801, mode Windowed.
+[2023.05.04-10.13.26:360][932]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.04-10.13.38:732][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Vent_straight" FILE="../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight.uasset" SILENT=true
+[2023.05.04-10.13.38:750][ 62]LogSavePackage: Moving output files for package: /Game/Assets/Vent_straight
+[2023.05.04-10.13.38:751][ 62]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Vent_straight02C48412486F662CE0EFB883E9AB1EAF.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight.uasset'
+[2023.05.04-10.13.38:772][ 62]AssetCheck: New page: Asset Save: Vent_straight
+[2023.05.04-10.13.38:772][ 62]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Vent_straight.Vent_straight
+[2023.05.04-10.13.57:280][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Vent_straight" FILE="../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight.uasset" SILENT=true
+[2023.05.04-10.13.57:291][260]LogSavePackage: Moving output files for package: /Game/Assets/Vent_straight
+[2023.05.04-10.13.57:292][260]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Vent_straightAB1DB06A4C77172CF4F8F3A813432907.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Vent_straight.uasset'
+[2023.05.04-10.13.57:311][260]AssetCheck: New page: Asset Save: Vent_straight
+[2023.05.04-10.13.57:311][260]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Vent_straight.Vent_straight
+[2023.05.04-10.14.31:087][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-10.14.31:119][620]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-10.14.31:120][620]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-10.14.31:120][620]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.14.31:120][620]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.04-10.14.31:120][620]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.04-10.14.31:120][620]LogWorldPartition: Display: GetPartitionedActors took 219 us
+[2023.05.04-10.14.31:124][620]LogWorldPartition: Display: GenerateStreaming took 4 ms
+[2023.05.04-10.14.31:124][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-10.14.31:124][620]PIE: New page: PIE session: ThirdPersonMap (4 May 2023, 12:14:31)
+[2023.05.04-10.14.31:124][620]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.14.31:190][620]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.04-10.14.31:190][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065926s)
+[2023.05.04-10.14.31:190][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.066009s)
+[2023.05.04-10.14.31:191][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-10.14.31:191][620]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.04-10.14.31:192][620]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-10.14.31:193][620]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.04-10.14.31:209][620]LogWorldPartition: Display: WorldPartition initialize took 16 ms
+[2023.05.04-10.14.31:210][620]LogPlayLevel: PIE: World Init took: (0.019322s)
+[2023.05.04-10.14.31:275][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.05.04-10.14.31:276][620]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-10.14.31:276][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-10.14.31:276][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-10.14.31:277][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-10.14.31:277][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-10.14.31:277][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-10.14.31:281][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-10.14.31:433][620]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.04-10.14.31:434][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-10.14.31:434][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-10.14.31:434][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-10.14.31:437][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.04-10.14.31:437][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.04-10.14.31:439][620]LogInit: FAudioDevice initialized.
+[2023.05.04-10.14.31:439][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.04-10.14.31:439][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.04-10.14.31:439][620]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2023.05.04-10.14.31:454][620]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.04-10.14.31:487][620]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.04-11.14.31
+[2023.05.04-10.14.31:489][620]LogWorld: Bringing up level for play took: 0.034570
+[2023.05.04-10.14.31:492][620]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.04-10.14.31:494][620]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2253.759 Y=-5492.579 Z=591.635
+[2023.05.04-10.14.31:494][620]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.04-10.14.31:496][620]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.04-10.14.31:496][620]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1960609618)
+[2023.05.04-10.14.31:496][620]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB98F57C01_1794923258)
+[2023.05.04-10.14.31:497][620]PIE: Server logged in
+[2023.05.04-10.14.31:498][620]PIE: Play in editor total start time 0.395 seconds.
+[2023.05.04-10.14.37:510][700]LogCharacter: BP_ThirdPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2023.05.04-10.14.42:536][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.14.42:537][781]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.04-10.14.42:538][781]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-10.14.42:540][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.14.42:590][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-10.14.42:597][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-10.14.42:650][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-10.14.42:653][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.04-10.14.42:656][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.04-10.14.42:691][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.04-10.14.42:745][782]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.05.04-10.14.52:897][892]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/StaticMeshActor.h 
+[2023.05.04-10.14.53:190][892]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/StaticMeshActor.h : 42
+[2023.05.04-10.14.53:190][892]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:199][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:200][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:201][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:202][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:204][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:205][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:206][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:207][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:208][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:209][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:233][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:272][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:282][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:283][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:283][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:284][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:305][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:325][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:327][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:341][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:439][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:439][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:441][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:441][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:474][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:475][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:476][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:477][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:478][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:479][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:480][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:481][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:482][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:483][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:509][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:532][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:541][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:541][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:541][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:541][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:561][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:572][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:573][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:582][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:631][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:631][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:632][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.14.53:632][892]LogVSAccessor: Warning: Couldn't access module table
+[2023.05.04-10.15.12:310][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.04-10.15.12:316][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/BCOJ9FUNNFQA98AQVG8SHQ_Auto1
+[2023.05.04-10.15.12:316][948]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BCOJ9FUNNFQA98AQVG8SHQ_Auto166CE4C1943642050410E36BB4692D495.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/BCOJ9FUNNFQA98AQVG8SHQ_Auto1.uasset'
+[2023.05.04-10.15.12:319][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3F/BDBIIMXXYCO5JSO2QQ03OC_Auto1
+[2023.05.04-10.15.12:319][948]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BDBIIMXXYCO5JSO2QQ03OC_Auto1068799924C9A12868235279490615AF2.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3F/BDBIIMXXYCO5JSO2QQ03OC_Auto1.uasset'
+[2023.05.04-10.15.12:320][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2023.05.04-10.15.12:320][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.05.04-10.16.32:291][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.05.04-10.16.32:456][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.04-10.16.32:492][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.04-10.16.32:524][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.04-10.16.32:528][763]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/BCOJ9FUNNFQA98AQVG8SHQ
+[2023.05.04-10.16.32:530][763]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BCOJ9FUNNFQA98AQVG8SHQ1629173544A678239C37AFB711C8BEAB.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/BCOJ9FUNNFQA98AQVG8SHQ.uasset'
+[2023.05.04-10.16.32:533][763]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3F/BDBIIMXXYCO5JSO2QQ03OC
+[2023.05.04-10.16.32:533][763]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/BDBIIMXXYCO5JSO2QQ03OC7676DDD44E711F86D940E8926091FA69.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3F/BDBIIMXXYCO5JSO2QQ03OC.uasset'
+[2023.05.04-10.16.32:558][763]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.04-10.16.32:558][763]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_UAID_00FFEC6BEB986A6F01_1198119036
+[2023.05.04-10.16.32:558][763]LogContentValidation: Display: Validating Vent_straight4_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Vent_straight4_Blueprint_C_UAID_00FFEC6BEB984D7F01_1974804864
