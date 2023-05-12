@@ -78,6 +78,12 @@
     <ClInclude Include="..\..\Source\Group6JellyGame\MyGroup6JellyGameCharacter.h">
       <Filter>Source\Group6JellyGame</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Group6JellyGame\Robby.cpp">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group6JellyGame\Robby.h">
+      <Filter>Source\Group6JellyGame</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Group6JellyGame\Vent.cpp">
       <Filter>Source\Group6JellyGame</Filter>
     </ClCompile>
