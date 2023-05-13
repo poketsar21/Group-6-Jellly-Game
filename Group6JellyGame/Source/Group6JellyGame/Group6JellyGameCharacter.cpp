@@ -226,7 +226,11 @@ void AGroup6JellyGameCharacter::ScaleAnimation()
 	//	Init = false;
 	//}
 
-	if (Size == 1)
+	if (Size == 0)
+	{
+		setScale = 1;
+	}
+	else if (Size == 1)
 	{
 		setScale = 1.1;
 	}
