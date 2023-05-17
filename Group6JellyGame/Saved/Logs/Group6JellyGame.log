@@ -2908,3 +2908,80 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.05.17-00.03.52:805][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.05.17-00.03.52:820][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
 [2023.05.17-00.03.52:880][919]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.17-00.04.30:562][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.17-00.04.30:565][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.051
+[2023.05.17-00.04.30:566][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/collectables/blobie] ([1] browsable assets)...
+[2023.05.17-00.04.30:643][820]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/collectables/blobie.blobie]
+[2023.05.17-00.04.30:643][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/collectables/blobie]
+[2023.05.17-00.04.30:653][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/collectables/blobie_Auto1
+[2023.05.17-00.04.30:653][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/blobie_Auto1380204B744F35C4344C6B0BBA84519E0.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/collectables/blobie_Auto1.uasset'
+[2023.05.17-00.04.30:655][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor] ([1] browsable assets)...
+[2023.05.17-00.04.30:657][820]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor.Robot_FOR_TEXTURING_lambert1_BaseColor]
+[2023.05.17-00.04.30:658][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor]
+[2023.05.17-00.04.30:703][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor_Auto1
+[2023.05.17-00.04.30:704][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_Bas403C6A0545BDA145D6CA579C5C7CE52F.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor_Auto1.uasset'
+[2023.05.17-00.04.30:705][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal] ([1] browsable assets)...
+[2023.05.17-00.04.30:710][820]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal.Robot_FOR_TEXTURING_lambert1_Normal]
+[2023.05.17-00.04.30:710][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal]
+[2023.05.17-00.04.30:728][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal_Auto1
+[2023.05.17-00.04.30:729][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_Nor89E060EC4FBC796F507862808704E3A8.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal_Auto1.uasset'
+[2023.05.17-00.04.30:730][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.05.17-00.04.30:732][820]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic.Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic]
+[2023.05.17-00.04.30:732][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic]
+[2023.05.17-00.04.30:784][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic_Auto1
+[2023.05.17-00.04.30:785][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_OccBC918DF746D44847F08CE3B60067CC11.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.05.17-00.04.30:786][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/RobotFINAL] ([1] browsable assets)...
+[2023.05.17-00.04.30:821][820]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Assets/Characters/RobotFINAL.RobotFINAL]
+[2023.05.17-00.04.30:821][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/RobotFINAL]
+[2023.05.17-00.04.30:946][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/RobotFINAL_Auto1
+[2023.05.17-00.04.30:946][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINAL_Auto1BBE381474AB8C9B1B711DEBF837F80E2.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/RobotFINAL_Auto1.uasset'
+[2023.05.17-00.04.30:948][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/RobotFINAL_Skeleton] ([1] browsable assets)...
+[2023.05.17-00.04.30:999][820]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Assets/Characters/RobotFINAL_Skeleton.RobotFINAL_Skeleton]
+[2023.05.17-00.04.30:999][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/RobotFINAL_Skeleton]
+[2023.05.17-00.04.31:009][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/RobotFINAL_Skeleton_Auto1
+[2023.05.17-00.04.31:009][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINAL_Skeleton_Auto1743994714B0CC3F57FC089ACA692BB36.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/RobotFINAL_Skeleton_Auto1.uasset'
+[2023.05.17-00.04.31:010][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/RobotFINAL_PhysicsAsset] ([1] browsable assets)...
+[2023.05.17-00.04.31:046][820]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Assets/Characters/RobotFINAL_PhysicsAsset.RobotFINAL_PhysicsAsset]
+[2023.05.17-00.04.31:046][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/RobotFINAL_PhysicsAsset]
+[2023.05.17-00.04.31:060][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/RobotFINAL_PhysicsAsset_Auto1
+[2023.05.17-00.04.31:060][820]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINAL_PhysicsAsset_Auto18129002B42A31DA2FB6F07A66568591D.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/Characters/RobotFINAL_PhysicsAsset_Auto1.uasset'
+[2023.05.17-00.04.31:061][820]LogFileHelpers: Auto-saving content packages took 0.495
+[2023.05.17-00.05.06:186][ 78]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor.Robot_FOR_TEXTURING_lambert1_BaseColor
+[2023.05.17-00.05.06:319][ 78]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.05.17-00.05.06:899][ 78]LogViewport: Scene viewport resized to 1003x586, mode Windowed.
+[2023.05.17-00.05.08:378][123]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor
+[2023.05.17-00.05.08:378][123]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_Bas17D778B54AF3C077B9D4FFB7E45166DE.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor.uasset'
+[2023.05.17-00.05.08:396][123]AssetCheck: New page: Asset Save: Robot_FOR_TEXTURING_lambert1_BaseColor
+[2023.05.17-00.05.08:396][123]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_BaseColor.Robot_FOR_TEXTURING_lambert1_BaseColor
+[2023.05.17-00.05.10:590][225]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal.Robot_FOR_TEXTURING_lambert1_Normal
+[2023.05.17-00.05.10:590][225]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.05.17-00.05.10:730][225]LogViewport: Scene viewport resized to 1003x586, mode Windowed.
+[2023.05.17-00.05.11:996][260]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal
+[2023.05.17-00.05.11:996][260]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_NorEAD0D6E74107BDD7E6DEA39DABF0F0D9.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal.uasset'
+[2023.05.17-00.05.12:011][260]AssetCheck: New page: Asset Save: Robot_FOR_TEXTURING_lambert1_Normal
+[2023.05.17-00.05.12:011][260]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_Normal.Robot_FOR_TEXTURING_lambert1_Normal
+[2023.05.17-00.05.13:843][351]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic.Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic
+[2023.05.17-00.05.13:843][351]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.05.17-00.05.13:981][351]LogViewport: Scene viewport resized to 1003x586, mode Windowed.
+[2023.05.17-00.05.15:720][412]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic
+[2023.05.17-00.05.15:720][412]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Robot_FOR_TEXTURING_lambert1_OccC38F1D7842E920C69658108B3A9ED6E1.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.05.17-00.05.15:736][412]AssetCheck: New page: Asset Save: Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic
+[2023.05.17-00.05.15:736][412]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic.Robot_FOR_TEXTURING_lambert1_OcclusionRoughnessMetallic
+[2023.05.17-00.05.24:880][793]LogViewport: Scene viewport resized to 805x554, mode Windowed.
+[2023.05.17-00.05.28:382][904]LogSavePackage: Moving output files for package: /Game/Assets/Characters/RobotFINAL
+[2023.05.17-00.05.28:382][904]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINALFEB0019F496C40222150BC9CE18791E5.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/RobotFINAL.uasset'
+[2023.05.17-00.05.28:397][904]AssetCheck: New page: Asset Save: RobotFINAL
+[2023.05.17-00.05.28:397][904]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Characters/RobotFINAL.RobotFINAL
+[2023.05.17-00.05.30:396][985]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Characters/RobotFINAL_PhysicsAsset.RobotFINAL_PhysicsAsset
+[2023.05.17-00.05.30:397][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.05.30:441][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.05.17-00.05.30:855][985]LogViewport: Scene viewport resized to 805x554, mode Windowed.
+[2023.05.17-00.05.31:713][ 14]LogSavePackage: Moving output files for package: /Game/Assets/Characters/RobotFINAL_PhysicsAsset
+[2023.05.17-00.05.31:713][ 14]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINAL_PhysicsAsset5758A29F4C2406060BE4EAAEDC570B63.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/RobotFINAL_PhysicsAsset.uasset'
+[2023.05.17-00.05.31:729][ 14]AssetCheck: New page: Asset Save: RobotFINAL_PhysicsAsset
+[2023.05.17-00.05.31:729][ 14]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Characters/RobotFINAL_PhysicsAsset.RobotFINAL_PhysicsAsset
+[2023.05.17-00.05.33:532][ 80]LogViewport: Scene viewport resized to 776x554, mode Windowed.
+[2023.05.17-00.05.34:413][106]LogSavePackage: Moving output files for package: /Game/Assets/Characters/RobotFINAL_Skeleton
+[2023.05.17-00.05.34:413][106]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobotFINAL_SkeletonB9A6FB2048A26CD5F8C0568410B13C26.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/RobotFINAL_Skeleton.uasset'
+[2023.05.17-00.05.34:428][106]AssetCheck: New page: Asset Save: RobotFINAL_Skeleton
+[2023.05.17-00.05.34:428][106]LogContentValidation: Display: Validating Skeleton /Game/Assets/Characters/RobotFINAL_Skeleton.RobotFINAL_Skeleton
