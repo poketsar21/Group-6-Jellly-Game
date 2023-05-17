@@ -3217,3 +3217,439 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.05.17-00.09.04:856][393]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobbyF07360AD49FEC29B95C54F9A2E26AB5B.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/Robby.uasset'
 [2023.05.17-00.09.04:873][393]AssetCheck: New page: Asset Save: Robby
 [2023.05.17-00.09.04:873][393]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Robby.Robby
+[2023.05.17-00.11.04:676][869]LogSlate: Window 'lambert1' being destroyed
+[2023.05.17-00.11.04:678][869]LogSlate: Window 'lambert1' being destroyed
+[2023.05.17-00.11.04:680][869]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.04:680][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.04:854][869]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.04:854][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.04:874][869]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.04:874][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:032][869]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:032][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:122][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.17-00.11.05:122][869]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:122][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:209][869]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:209][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:401][869]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:401][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:651][869]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:651][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.05:700][869]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.05:700][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.08:827][ 12]LogViewport: Scene viewport resized to 406x255, mode Windowed.
+[2023.05.17-00.11.08:911][ 12]LogViewport: Scene viewport resized to 483x255, mode Windowed.
+[2023.05.17-00.11.08:995][ 12]LogViewport: Scene viewport resized to 721x255, mode Windowed.
+[2023.05.17-00.11.09:078][ 12]LogViewport: Scene viewport resized to 827x255, mode Windowed.
+[2023.05.17-00.11.15:746][256]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/jrhod/Downloads/OneDrive_2023-05-16/CharacterFinal.fbx)
+[2023.05.17-00.11.15:799][256]LogFbx: Loading FBX Scene from ../../../../../../Users/jrhod/Downloads/OneDrive_2023-05-16/CharacterFinal.fbx
+[2023.05.17-00.11.16:130][256]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.17-00.11.23:293][256]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.17-00.11.23:322][256]LogFbx: Valid bind pose for Pose (skinCluster2) - polySurface267
+[2023.05.17-00.11.23:322][256]LogFbx: Valid bind pose for Pose (skinCluster3) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster4) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster5) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster6) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster7) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster8) - polySurface267
+[2023.05.17-00.11.23:323][256]LogFbx: Valid bind pose for Pose (skinCluster9) - polySurface267
+[2023.05.17-00.11.23:324][256]LogFbx: Valid bind pose for Pose (skinCluster10) - polySurface267
+[2023.05.17-00.11.23:325][256]LogFbx: Triangulating skeletal mesh polySurface267
+[2023.05.17-00.11.23:342][256]LogFbx: Triangulating skeletal mesh polySurface268
+[2023.05.17-00.11.23:558][256]LogFbx: Triangulating skeletal mesh polySurface269
+[2023.05.17-00.11.28:537][256]LogFbx: Triangulating skeletal mesh polySurface270
+[2023.05.17-00.11.28:618][256]LogFbx: Triangulating skeletal mesh polySurface271
+[2023.05.17-00.11.28:768][256]LogFbx: Triangulating skeletal mesh polySurface272
+[2023.05.17-00.11.29:628][256]LogFbx: Triangulating skeletal mesh polySurface273
+[2023.05.17-00.11.29:740][256]LogFbx: Triangulating skeletal mesh polySurface274
+[2023.05.17-00.11.29:838][256]LogFbx: Triangulating skeletal mesh pCube23
+[2023.05.17-00.11.30:128][256]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2023.05.17-00.11.36:305][256]LogSkeletalMesh: Display: /Game/Assets/Characters/CharacterFinal.CharacterFinal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.05.17-00.11.38:789][256]LogSkeletalMesh: Section 0: Material=0, 308078 triangles
+[2023.05.17-00.11.38:874][256]LogSkeletalMesh: Building Skeletal Mesh CharacterFinal...
+[2023.05.17-00.11.38:874][256]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (CharacterFinal) ...
+[2023.05.17-00.11.44:274][256]LogSkeletalMesh: Display: /Game/Assets/Characters/CharacterFinal.CharacterFinal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.05.17-00.11.46:902][256]LogSkeletalMesh: Built Skeletal Mesh [7.97s] /Game/Assets/Characters/CharacterFinal.CharacterFinal
+[2023.05.17-00.11.46:903][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.11.46:941][256]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.11.46:941][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.11.46:986][256]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (CharacterFinal) ...
+[2023.05.17-00.11.47:297][260]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (CharacterFinal) ...
+[2023.05.17-00.11.49:262][357]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Characters/CharacterFinal_Skeleton.CharacterFinal_Skeleton
+[2023.05.17-00.11.49:264][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.11.49:299][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.17-00.11.49:545][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.11.49:643][357]LogViewport: Scene viewport resized to 606x386, mode Windowed.
+[2023.05.17-00.12.04:332][975]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6X/2UEP2PPRKPZ7G5HOS5VQ94
+[2023.05.17-00.12.04:335][975]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/2UEP2PPRKPZ7G5HOS5VQ9493421F224C57F76C368251AB3F5621D7.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6X/2UEP2PPRKPZ7G5HOS5VQ94.uasset'
+[2023.05.17-00.12.04:355][975]AssetCheck: New page: Asset Save: Robby_C_UAID_00D861BFA15F418301_1672086935
+[2023.05.17-00.12.04:355][975]LogContentValidation: Display: Validating Robby_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Robby_C_UAID_00D861BFA15F418301_1672086935
+[2023.05.17-00.12.06:296][ 46]LogSavePackage: Moving output files for package: /Game/Assets/Characters/CharacterFinal_Skeleton
+[2023.05.17-00.12.06:296][ 46]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/CharacterFinal_Skeleton0C29FDED451FC1C2945EC994E56B976C.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/CharacterFinal_Skeleton.uasset'
+[2023.05.17-00.12.06:311][ 46]AssetCheck: New page: Asset Save: CharacterFinal_Skeleton
+[2023.05.17-00.12.06:311][ 46]LogContentValidation: Display: Validating Skeleton /Game/Assets/Characters/CharacterFinal_Skeleton.CharacterFinal_Skeleton
+[2023.05.17-00.12.08:110][115]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/CharacterFinal.CharacterFinal
+[2023.05.17-00.12.08:111][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.12.08:153][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.17-00.12.08:469][115]LogViewport: Scene viewport resized to 629x386, mode Windowed.
+[2023.05.17-00.12.10:045][141]LogSavePackage: Moving output files for package: /Game/Assets/Characters/CharacterFinal
+[2023.05.17-00.12.10:046][141]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/CharacterFinalD1EF374544084273EB568CAA0327495C.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/CharacterFinal.uasset'
+[2023.05.17-00.12.10:061][141]AssetCheck: New page: Asset Save: CharacterFinal
+[2023.05.17-00.12.10:061][141]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Characters/CharacterFinal.CharacterFinal
+[2023.05.17-00.12.11:821][215]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Characters/CharacterFinal_PhysicsAsset.CharacterFinal_PhysicsAsset
+[2023.05.17-00.12.11:822][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.12.11:921][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.05.17-00.12.12:276][215]LogViewport: Scene viewport resized to 629x386, mode Windowed.
+[2023.05.17-00.12.14:277][280]LogSavePackage: Moving output files for package: /Game/Assets/Characters/CharacterFinal_PhysicsAsset
+[2023.05.17-00.12.14:277][280]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/CharacterFinal_PhysicsAsset4943B68D47C8A4314218BAB8524553FC.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/CharacterFinal_PhysicsAsset.uasset'
+[2023.05.17-00.12.14:293][280]AssetCheck: New page: Asset Save: CharacterFinal_PhysicsAsset
+[2023.05.17-00.12.14:293][280]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Characters/CharacterFinal_PhysicsAsset.CharacterFinal_PhysicsAsset
+[2023.05.17-00.12.16:302][343]LogSlate: Window 'CharacterFinal_PhysicsAsset' being destroyed
+[2023.05.17-00.12.16:307][343]LogSlate: Window 'CharacterFinal_PhysicsAsset' being destroyed
+[2023.05.17-00.12.16:308][343]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.12.16:308][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.12.16:443][343]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.12.16:443][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.12.16:461][343]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.12.16:461][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.12.16:590][343]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.12.16:590][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.12.18:903][451]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Characters/Robbby.Robbby
+[2023.05.17-00.12.18:905][451]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B71D3551FEC4CCBC5AE63E56B5E484E8172E035), compiling. 
+[2023.05.17-00.12.18:944][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.12.19:140][451]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AC32A7F5C2E894C074DB8FE802DD0DE010F80795), compiling. 
+[2023.05.17-00.12.19:147][451]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BA70B101A995E10AF9558E90A410BBB293EA1EC1), compiling. 
+[2023.05.17-00.12.19:150][451]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C8872A796C201FE3460C6776AD8AB1F110853309), compiling. 
+[2023.05.17-00.12.19:152][451]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 56B9125FA336F6E970F782D53919BCBDA3A4273D), compiling. 
+[2023.05.17-00.12.19:154][451]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 08B1F91DB61735DC0CDCF606B2B9B74F4DEEF572), compiling. 
+[2023.05.17-00.12.19:192][451]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.12.19:192][451]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.12.19:192][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.12.19:192][451]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.12.19:201][451]LogViewport: Scene viewport resized to 205x209, mode Windowed.
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: ================================================
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Total job queries 376, among them cache hits 116 (30.85%)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Tracking 184 distinct input hashes that result in 85 distinct outputs (46.20%)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Shaders Compiled: 242
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Jobs assigned 188, completed 184 (97.87%)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Average time worker was idle: 68.76 s
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Time job spent in pending queue: average 1.71 s, longest 11.93 s
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Job execution time: average 4.98 s, max 11.69 s
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Job life time (pending + execution): average 6.73 s, max 15.97
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.61 s
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 1.83 jobs/batch
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Average processing rate: 4.32 jobs/sec
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Effective parallelization: 4.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.54 sec, max 1.55 sec, min 1.53 sec)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.51 sec, max 1.56 sec, min 1.45 sec)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 1.44 sec, max 1.45 sec, min 1.43 sec)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 1.41 sec, max 1.49 sec, min 1.33 sec)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 1.40 sec, max 1.57 sec, min 1.22 sec)
+[2023.05.17-00.12.19:407][457]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.30% of total time (compiled   16 times, average 1.07 sec, max 1.76 sec, min 0.76 sec)
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.61% of total time (compiled   16 times, average 0.98 sec, max 1.42 sec, min 0.63 sec)
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.36% of total time (compiled   12 times, average 1.10 sec, max 1.34 sec, min 0.84 sec)
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.08% of total time (compiled    9 times, average 1.40 sec, max 1.57 sec, min 1.22 sec)
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.69% of total time (compiled    9 times, average 1.31 sec, max 1.66 sec, min 1.06 sec)
+[2023.05.17-00.12.19:408][457]LogShaderCompilers: Display: ================================================
+[2023.05.17-00.12.20:061][472]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.17-00.12.20:061][472]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.12.20:061][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.12.20:061][472]MaterialEditorStats: Shader Count: 1
+[2023.05.17-00.12.20:482][485]LogMaterialEditor: Saving and Compiling material Robbby
+[2023.05.17-00.12.20:549][485]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Robbby
+[2023.05.17-00.12.20:551][485]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/RobbbyF0F5754541F5089E1E0178A7109E74B7.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/Robbby.uasset'
+[2023.05.17-00.12.20:568][485]AssetCheck: New page: Asset Save: Robbby
+[2023.05.17-00.12.20:568][485]LogContentValidation: Display: Validating Material /Game/Assets/Characters/Robbby.Robbby
+[2023.05.17-00.12.20:584][486]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.17-00.12.20:584][486]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.12.20:584][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.12.20:584][486]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.12.27:978][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.17-00.12.27:978][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.12.30:466][871]LogViewport: Scene viewport resized to 522x247, mode Windowed.
+[2023.05.17-00.12.34:474][  4]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.12.39:846][308]LogAnimation: Warning: AnimBP ABP_PSlime_C is incompatible with skeleton CharacterFinal_Skeleton, removing AnimBP from actor.
+[2023.05.17-00.12.39:850][308]LogAnimation: Warning: AnimBP ABP_PSlime_C is incompatible with skeleton CharacterFinal_Skeleton, removing AnimBP from actor.
+[2023.05.17-00.12.39:853][308]LogAnimation: Warning: AnimBP ABP_PSlime_C is incompatible with skeleton CharacterFinal_Skeleton, removing AnimBP from actor.
+[2023.05.17-00.12.39:858][308]LogAnimation: Warning: AnimBP ABP_PSlime_C is incompatible with skeleton CharacterFinal_Skeleton, removing AnimBP from actor.
+[2023.05.17-00.13.17:591][605]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.17-00.13.17:743][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.17-00.13.18:322][621]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.17-00.13.18:324][621]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/BP_ThirdPersonCharacter19CCA0C641C526FCF1C9358A0B055840.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.17-00.13.18:340][621]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.17-00.13.18:340][621]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.17-00.13.21:275][749]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.17-00.13.21:310][749]LogWorldPartition: Display: GetPartitionedActors took 177 us
+[2023.05.17-00.13.21:314][749]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2023.05.17-00.13.21:314][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-00.13.21:315][749]PIE: New page: PIE session: ThirdPersonMap (17 May 2023, 02:13:21)
+[2023.05.17-00.13.21:315][749]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.17-00.13.21:370][749]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.17-00.13.21:370][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055141s)
+[2023.05.17-00.13.21:370][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.055217s)
+[2023.05.17-00.13.21:370][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.13.21:370][749]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.17-00.13.21:371][749]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.17-00.13.21:371][749]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.17-00.13.21:385][749]LogWorldPartition: Display: WorldPartition initialize took 14 ms
+[2023.05.17-00.13.21:386][749]LogPlayLevel: PIE: World Init took: (0.015730s)
+[2023.05.17-00.13.21:457][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.17-00.13.21:468][749]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.17-00.13.21:468][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-00.13.21:468][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-00.13.21:468][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-00.13.21:469][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-00.13.21:469][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-00.13.21:469][749]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-00.13.21:469][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-00.13.21:469][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-00.13.21:469][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-00.13.21:469][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-00.13.21:469][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-00.13.21:472][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-00.13.21:510][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-00.13.21:510][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-00.13.21:510][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-00.13.21:510][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-00.13.21:511][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.17-00.13.21:511][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.17-00.13.21:513][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.17-00.13.21:513][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.17-00.13.21:513][749]LogInit: FAudioDevice initialized.
+[2023.05.17-00.13.21:513][749]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2023.05.17-00.13.21:576][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-00.13.21:576][749]LogLoad: Game class is 'Group6JellyGameGameMode'
+[2023.05.17-00.13.21:612][749]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.05.17-01.13.21
+[2023.05.17-00.13.21:615][749]LogWorld: Bringing up level for play took: 0.039245
+[2023.05.17-00.13.21:618][749]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.17-00.13.21:619][749]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1159.323 Y=-5611.924 Z=228.352
+[2023.05.17-00.13.21:619][749]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.17-00.13.21:619][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E40C8101_1311677500)
+[2023.05.17-00.13.21:619][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_00FFEC6BEB981F7D01_1946831617)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4B28101_2143185769)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4B28101_2106933766)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4B28101_2114612767)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4B28101_2131195768)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E40C8101_1295255499)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4F68201_1483234748)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4B28101_2041621765)
+[2023.05.17-00.13.21:620][749]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (breakables_C_UAID_2C3B70D214E4F68201_1825882749)
+[2023.05.17-00.13.21:624][749]PIE: Server logged in
+[2023.05.17-00.13.21:626][749]PIE: Play in editor total start time 0.334 seconds.
+[2023.05.17-00.13.21:663][749]LogViewport: Scene viewport resized to 1354x688, mode Windowed.
+[2023.05.17-00.13.33:573][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-00.13.33:573][140]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.17-00.13.33:573][140]LogSlate: Window 'Group6JellyGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.17-00.13.33:602][140]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-00.13.33:605][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.13.33:618][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-00.13.33:625][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-00.13.33:664][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.17-00.13.33:665][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.17-00.13.33:680][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.17-00.13.33:770][141]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.17-00.14.43:750][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.17-00.14.43:754][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2023.05.17-00.14.43:755][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tubes/smoltoob2] ([1] browsable assets)...
+[2023.05.17-00.14.43:830][640]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/tubes/smoltoob2.smoltoob2]
+[2023.05.17-00.14.43:830][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tubes/smoltoob2]
+[2023.05.17-00.14.43:840][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/tubes/smoltoob2_Auto2
+[2023.05.17-00.14.43:840][640]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/smoltoob2_Auto21608CE104F67A06DED869991A2AE58E5.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/tubes/smoltoob2_Auto2.uasset'
+[2023.05.17-00.14.43:842][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/posters/NewMaterial] ([1] browsable assets)...
+[2023.05.17-00.14.43:873][640]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/posters/NewMaterial.NewMaterial]
+[2023.05.17-00.14.43:873][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/posters/NewMaterial]
+[2023.05.17-00.14.43:882][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/posters/NewMaterial_Auto2
+[2023.05.17-00.14.43:883][640]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/NewMaterial_Auto2F63491A54E8325E28EEEC490FFEFDDAC.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/Autosaves/Game/Assets/posters/NewMaterial_Auto2.uasset'
+[2023.05.17-00.14.43:884][640]LogFileHelpers: Auto-saving content packages took 0.128
+[2023.05.17-00.15.19:765][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jrhod/Downloads/OneDrive_2_17-05-2023/AGFNAN_initialShadingGroup_BaseColor.png)
+[2023.05.17-00.15.19:858][152]LogTexture: Display: Building textures: /Game/Assets/Characters/AGFNAN_initialShadingGroup_BaseColor.AGFNAN_initialShadingGroup_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.05.17-00.15.19:858][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jrhod/Downloads/OneDrive_2_17-05-2023/AGFNAN_initialShadingGroup_Normal.png)
+[2023.05.17-00.15.19:971][152]LogTexture: Display: Building textures: /Game/Assets/Characters/AGFNAN_initialShadingGroup_Normal.AGFNAN_initialShadingGroup_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.05.17-00.15.20:012][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jrhod/Downloads/OneDrive_2_17-05-2023/AGFNAN_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2023.05.17-00.15.20:107][152]LogTexture: Display: Building textures: /Game/Assets/Characters/AGFNAN_initialShadingGroup_OcclusionRoughnessMetallic.AGFNAN_initialShadingGroup_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.05.17-00.15.27:710][872]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.17-00.15.27:717][872]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.17-00.15.27:729][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.17-00.15.31:752][ 32]LogContentBrowser: Attempting asset rename: NewMaterial -> playermat
+[2023.05.17-00.15.31:754][ 32]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.17-00.15.33:375][121]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Characters/playermat.playermat
+[2023.05.17-00.15.33:377][121]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7674251E596F527A1FEB1CB79B8A6D1C095240), compiling. 
+[2023.05.17-00.15.33:397][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-00.15.33:540][121]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 715B0ED8294533D5AE87090C7F5ED4FF770CECEA), compiling. 
+[2023.05.17-00.15.33:547][121]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: B014D4710B742089E15A6E794E73F862A95A195A), compiling. 
+[2023.05.17-00.15.33:589][121]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.33:589][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.17-00.15.33:590][121]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.33:598][121]LogViewport: Scene viewport resized to 205x209, mode Windowed.
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: ================================================
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Total job queries 398, among them cache hits 122 (30.65%)
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Tracking 189 distinct input hashes that result in 85 distinct outputs (44.97%)
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Shaders Compiled: 254
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Jobs assigned 192, completed 189 (98.44%)
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Average time worker was idle: 73.79 s
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Time job spent in pending queue: average 1.68 s, longest 11.93 s
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Job execution time: average 4.87 s, max 11.69 s
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Job life time (pending + execution): average 6.58 s, max 15.97
+[2023.05.17-00.15.34:363][141]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.58 s
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: Jobs were issued in 107 batches (only local compilation was used), average 1.79 jobs/batch
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: Average processing rate: 4.24 jobs/sec
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: Effective parallelization: 4.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.54 sec, max 1.55 sec, min 1.53 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.51 sec, max 1.56 sec, min 1.45 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 1.44 sec, max 1.45 sec, min 1.43 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 1.41 sec, max 1.49 sec, min 1.33 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 1.40 sec, max 1.57 sec, min 1.22 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.59% of total time (compiled   17 times, average 1.06 sec, max 1.76 sec, min 0.76 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.90% of total time (compiled   17 times, average 0.98 sec, max 1.42 sec, min 0.63 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.68% of total time (compiled   13 times, average 1.08 sec, max 1.34 sec, min 0.84 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.99% of total time (compiled    9 times, average 1.40 sec, max 1.57 sec, min 1.22 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.60% of total time (compiled    9 times, average 1.31 sec, max 1.66 sec, min 1.06 sec)
+[2023.05.17-00.15.34:364][141]LogShaderCompilers: Display: ================================================
+[2023.05.17-00.15.34:869][154]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.17-00.15.34:869][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.17-00.15.34:869][154]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.15.39:077][287]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 8D316838743A4E6755C1304FBBB41564E6E54BE6), compiling. 
+[2023.05.17-00.15.39:080][287]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AE6DAD83CCBD7D0675E55516F0C03815D2641751), compiling. 
+[2023.05.17-00.15.39:082][287]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C9B8E4AB22B6749C1969CD1CCB84B4928D7C4146), compiling. 
+[2023.05.17-00.15.39:086][287]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.39:086][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.17-00.15.39:086][287]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.39:193][290]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.17-00.15.39:193][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.17-00.15.39:193][290]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.15.41:200][413]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 8384C514055ED033FA02BE379C90E680C4270E94), compiling. 
+[2023.05.17-00.15.41:202][413]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C29CA3FBEEE52732AFF46F0BEF3662E45A7D24B), compiling. 
+[2023.05.17-00.15.41:207][413]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.41:207][413]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.17-00.15.41:207][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.41:207][413]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.41:799][427]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.17-00.15.41:799][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.17-00.15.41:799][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.41:799][427]MaterialEditorStats: Shader Count: 1
+[2023.05.17-00.15.42:288][439]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.17-00.15.42:288][439]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.17-00.15.42:289][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.42:289][439]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.15.42:912][480]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 7250206D8464E3DFBA751F808EA16B215578BBA7), compiling. 
+[2023.05.17-00.15.42:915][480]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3942EC61BF0624E806C7E9E2699112B9AE6BC42C), compiling. 
+[2023.05.17-00.15.42:917][480]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D7A73129F51D6135A3048B37DB243D26C9EC36C9), compiling. 
+[2023.05.17-00.15.42:919][480]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FC88873B6F0422CF91D09BD14887F22D1484A21D), compiling. 
+[2023.05.17-00.15.42:923][480]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.42:923][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.17-00.15.42:923][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.42:923][480]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.43:096][483]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.17-00.15.43:096][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.17-00.15.43:096][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.43:096][483]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.15.45:616][654]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 45DD51B3936D484DABB9B9F70F9725553FA2BC32), compiling. 
+[2023.05.17-00.15.45:619][654]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B16E465A3B003083E84FA8C3BF374F3FEB884B31), compiling. 
+[2023.05.17-00.15.45:624][654]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.45:624][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.17-00.15.45:624][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.45:624][654]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.46:252][670]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.17-00.15.46:252][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.17-00.15.46:252][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.46:252][670]MaterialEditorStats: Shader Count: 1
+[2023.05.17-00.15.47:268][756]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.17-00.15.47:268][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.17-00.15.47:268][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.47:268][756]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.15.52:388][  6]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 80997405AFBA0C5FDA251758659131A0A1093A01), compiling. 
+[2023.05.17-00.15.59:622][259]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: C2E3E0E548F705696CA0DA344272B398BFDBBED2), compiling. 
+[2023.05.17-00.15.59:625][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BC83F37E60CDB9992C21552AFFE513CF8328E1D4), compiling. 
+[2023.05.17-00.15.59:627][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F98904E5F6159AF3AFE927A75CA8F7535C05B9E), compiling. 
+[2023.05.17-00.15.59:629][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B6143D15D7C0B0BE2ED8D79FCD5AE1CBC51B117D), compiling. 
+[2023.05.17-00.15.59:631][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 05F98F769B48AB586D153AD5BA1D5632AD7D7D27), compiling. 
+[2023.05.17-00.15.59:635][259]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.15.59:635][259]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.17-00.15.59:635][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.59:635][259]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.15.59:746][262]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.17-00.15.59:746][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.17-00.15.59:746][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.15.59:746][262]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.16.02:265][399]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: DA8ECFB88BB358E65071195CDBDC530E6FF4474F), compiling. 
+[2023.05.17-00.16.02:268][399]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EFAB24AEA08306FD45956A4BE1E3F0E8248C153F), compiling. 
+[2023.05.17-00.16.02:272][399]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.16.02:272][399]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.02:272][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.02:272][399]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.16.03:078][416]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.17-00.16.03:078][416]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.03:078][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.03:078][416]MaterialEditorStats: Shader Count: 1
+[2023.05.17-00.16.03:477][427]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.17-00.16.03:477][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.03:477][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.03:477][427]MaterialEditorStats: Shader Count: 4
+[2023.05.17-00.16.03:867][442]LogMaterialEditor: Saving and Compiling material playermat
+[2023.05.17-00.16.04:557][442]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: B409E0B708B9425EF7C0CDA91AC7CEF492F4977F), compiling. 
+[2023.05.17-00.16.04:576][442]LogMaterial: Display: Missing cached shadermap for playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 66554153CF220AA62E0E2A2DDE7D0FFCA670A6D4), compiling. 
+[2023.05.17-00.16.04:647][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.17-00.16.05:644][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.17-00.16.07:789][442]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.17-00.16.08:020][442]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003014s (0.266269s overbudget)
+[2023.05.17-00.16.08:085][442]LogSavePackage: Moving output files for package: /Game/Assets/Characters/playermat
+[2023.05.17-00.16.08:085][442]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/playermat7C08810D4FD5C93EE9FF4E912C056657.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/Assets/Characters/playermat.uasset'
+[2023.05.17-00.16.08:100][442]AssetCheck: New page: Asset Save: playermat
+[2023.05.17-00.16.08:100][442]LogContentValidation: Display: Validating Material /Game/Assets/Characters/playermat.playermat
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: Base pass shader: 132 instructions
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.08:102][442]MaterialEditorStats: Shader Count: 16
+[2023.05.17-00.16.15:521][675]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.20:920][ 66]LogMaterial: Display: Material /Game/Assets/Characters/playermat.playermat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.17-00.16.20:921][ 66]LogMaterial: Display: Material /Engine/Transient.playermat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.17-00.16.20:924][ 66]LogMaterial: Display: Missing cached shadermap for Preview:playermat in PCD3D_SM5, Default, SM5 (DDC key hash: 6C217DF4ACFBB4975D17793500AEB97A279EA656), compiling. 
+[2023.05.17-00.16.20:961][ 66]LogMaterial: Display: Missing cached shadermap for playermat in PCD3D_SM5, Default, SM5 (DDC key hash: E363AB38603FB2EB65FC264246B33A3A304AC1D7), compiling. 
+[2023.05.17-00.16.21:019][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-00.16.21:019][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.21:019][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.21:019][ 66]MaterialEditorStats: Shader Count: 0
+[2023.05.17-00.16.21:077][ 66]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.21:095][ 67]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.17-00.16.21:095][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.21:095][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.21:095][ 67]MaterialEditorStats: Shader Count: 16
+[2023.05.17-00.16.22:553][ 90]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.22:808][ 95]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.22:923][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.23:710][109]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.23:777][110]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.23:830][111]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.23:887][112]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.24:069][118]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Base pass shader: 132 instructions
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Base pass vertex shader: 173 instructions
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-00.16.24:090][119]MaterialEditorStats: Shader Count: 32
+[2023.05.17-00.16.30:335][337]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.17-00.16.30:425][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.17-00.16.30:993][358]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.17-00.16.30:995][358]LogSavePackage: Moving '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Saved/BP_ThirdPersonCharacterD16DCE214B8598128A4E5AAD8FA561F5.tmp' to '../../../../../../Users/jrhod/OneDrive - Norwich University of the Arts/Year 2/Unit 2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.17-00.16.31:010][358]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.17-00.16.31:010][358]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
