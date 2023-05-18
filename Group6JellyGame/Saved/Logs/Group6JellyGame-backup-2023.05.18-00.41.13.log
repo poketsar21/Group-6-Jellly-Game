@@ -1,0 +1,1112 @@
+﻿Log file open, 05/18/23 01:15:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9956)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Group6JellyGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\GitHub\GameJam2\Group-6-Jellly-Game\Group6JellyGame\Group6JellyGame.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1702] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-1255U"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="32079f9244a2b256939e4bb754e44d73"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.275533
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C89F007B4A73A6A3B3225DABEA036CB8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1702] (), CPU: 12th Gen Intel(R) Core(TM) i7-1255U, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.18-00.15.10:516][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.18-00.15.10:518][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.18-00.15.10:530][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.18-00.15.10:530][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.18-00.15.10:590][  0]LogD3D12RHI: Found D3D12 adapter 0: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.18-00.15.10:590][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8047MB of shared system memory, 1 output[s]
+[2023.05.18-00.15.10:603][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.18-00.15.10:603][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8047MB of shared system memory, 0 output[s]
+[2023.05.18-00.15.10:603][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.18-00.15.10:603][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.18-00.15.10:603][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.18-00.15.10:603][  0]LogHAL: Display: Platform has ~ 16 GB [16876888064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.18-00.15.10:603][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.18-00.15.10:603][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.18-00.15.10:603][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.18-00.15.10:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.18-00.15.10:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.18-00.15.10:603][  0]LogInit: Computer: SOFASHUB
+[2023.05.18-00.15.10:603][  0]LogInit: User: sophi
+[2023.05.18-00.15.10:603][  0]LogInit: CPU Page size=4096, Cores=10
+[2023.05.18-00.15.10:603][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.18-00.15.10:603][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.18-00.15.10:603][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.18-00.15.10:603][  0]LogMemory: Process Physical Memory: 263.85 MB used, 269.62 MB peak
+[2023.05.18-00.15.10:603][  0]LogMemory: Process Virtual Memory: 222.19 MB used, 222.19 MB peak
+[2023.05.18-00.15.10:603][  0]LogMemory: Physical Memory: 7727.02 MB used,  8368.04 MB free, 16095.05 MB total
+[2023.05.18-00.15.10:603][  0]LogMemory: Virtual Memory: 11140.96 MB used,  9818.10 MB free, 20959.05 MB total
+[2023.05.18-00.15.10:603][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.18-00.15.10:609][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.18-00.15.10:623][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.18-00.15.10:624][  0]LogInit: Using OS detected language (en-GB).
+[2023.05.18-00.15.10:624][  0]LogInit: Using OS detected locale (en-GB).
+[2023.05.18-00.15.10:628][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.05.18-00.15.10:752][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.18-00.15.10:767][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.18-00.15.10:767][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.05.18-00.15.10:767][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.05.18-00.15.10:767][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.05.18-00.15.10:784][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.18-00.15.10:784][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.18-00.15.10:893][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.18-00.15.10:893][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.18-00.15.10:946][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2023.05.18-00.15.10:956][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.18-00.15.10:960][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.18-00.15.10:965][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.18-00.15.10:971][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.18-00.15.10:971][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.18-00.15.11:016][  0]LogD3D12RHI:     GPU DeviceId: 0x46a8 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.18-00.15.11:016][  0]LogWindows: Attached monitors:
+[2023.05.18-00.15.11:016][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1008), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.18-00.15.11:016][  0]LogWindows: Found 1 attached monitors.
+[2023.05.18-00.15.11:016][  0]LogWindows: EnumDisplayDevices:
+[2023.05.18-00.15.11:016][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.18-00.15.11:016][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.18-00.15.11:016][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.18-00.15.11:017][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.18-00.15.11:017][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.18-00.15.11:017][  0]LogD3D12RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2023.05.18-00.15.11:017][  0]LogD3D12RHI:   Driver Version: 31.0.101.4091 (internal:31.0.101.4091, unified:101.4091)
+[2023.05.18-00.15.11:017][  0]LogD3D12RHI:      Driver Date: 1-24-2023
+[2023.05.18-00.15.11:017][  0]LogRHI: Texture pool is 4655 MB (70% of 6650 MB)
+[2023.05.18-00.15.11:017][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.18-00.15.11:017][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2023.05.18-00.16.09:523][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the Intel graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://downloadcenter.intel.com/product/80939/Graphics
+
+Intel(R) Iris(R) Xe Graphics
+Installed: 31.0.101.4091
+Recommended: 30.0.101.1340
+[2023.05.18-00.16.09:530][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyReport_0.log" -log="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyLog_0.log" -project="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject"  -platform=all'
+[2023.05.18-00.16.09:530][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyReport_0.log" -log="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/TurnkeyLog_0.log" -project="C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Group6JellyGame.uproject"  -platform=all" ]
+[2023.05.18-00.16.09:556][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.18-00.16.09:564][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.18-00.16.09:564][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.18-00.16.09:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.18-00.16.09:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.18-00.16.09:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.18-00.16.09:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.18-00.16.09:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.18-00.16.09:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.18-00.16.09:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.18-00.16.09:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.18-00.16.09:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.18-00.16.09:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.18-00.16.09:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.18-00.16.09:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.18-00.16.09:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.18-00.16.09:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.18-00.16.09:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.18-00.16.09:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.18-00.16.09:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.18-00.16.09:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.18-00.16.09:610][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.18-00.16.09:617][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.18-00.16.09:619][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.18-00.16.09:620][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.18-00.16.09:620][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.18-00.16.09:620][  0]LogTargetPlatformManager:   PCM
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager:   BINKA
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager:   OGG
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.18-00.16.09:623][  0]LogTargetPlatformManager:   OPUS
+[2023.05.18-00.16.09:661][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.18-00.16.09:667][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.18-00.16.09:670][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.18-00.16.09:670][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.18-00.16.09:670][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.18-00.16.09:670][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.18-00.16.09:670][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.18-00.16.09:670][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.18-00.16.09:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.18-00.16.09:673][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.18-00.16.09:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.18-00.16.09:673][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.18-00.16.09:689][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.18-00.16.09:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.18-00.16.09:689][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.18-00.16.09:696][  0]LogDerivedDataCache: Speed tests for C:/Users/sophi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.18-00.16.09:696][  0]LogDerivedDataCache: Display: Performance to C:/Users/sophi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=965.01MBs, RandomWriteSpeed=180.60MBs. Assigned SpeedClass 'Local'
+[2023.05.18-00.16.09:697][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sophi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.18-00.16.09:697][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.18-00.16.09:697][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.18-00.16.09:703][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.18-00.16.09:704][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.18-00.16.09:704][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Intermediate/Shaders/WorkingDirectory/21164/).
+[2023.05.18-00.16.09:704][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sophi/AppData/Local/Temp/UnrealShaderWorkingDir/AAA3BE74410B2ABF8C4238B59B600C96/'.
+[2023.05.18-00.16.09:704][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.18-00.16.09:704][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.05.18-00.16.10:828][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.18-00.16.10:828][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.18-00.16.10:828][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.18-00.16.10:861][  0]LogAssetRegistry: FAssetRegistry took 0.0100 seconds to start up
+[2023.05.18-00.16.10:869][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.18-00.16.11:015][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.18-00.16.11:016][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.18-00.16.11:214][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.18-00.16.11:214][  0]LogDeviceProfileManager: Active device profile: [0000058296A294C0][000005828F020000 50] WindowsEditor
+[2023.05.18-00.16.11:214][  0]LogDeviceProfileManager: Profiles: [0000058296A28F80][000005827E7B0000 50] Windows, [0000058296A294C0][000005828F020000 50] WindowsEditor, [0000058296A27700][0000058296DF0000 50] WindowsServer, [0000058296A25780][0000058296DF5000 50] WindowsClient, [0000058296A25940][0000058296DF7800 50] IOS, [0000058296A28A40][0000058296DFA000 50] iPadAir2, [0000058296A28880][000005828F022800 50] IPadPro, [0000058296A25080][0000058296DFC800 50] iPadAir3, [0000058296A27FC0][0000058296E00000 50] iPadAir4, [0000058296A29680][0000058296E05000 50] iPadMini4, [0000058296A25400][0000058296E07800 50] iPadMini5, [0000058296A278C0][0000058296E0A000 50] iPadMini6, [0000058296A2CB00][0000058296E60000 50] iPhone6S, [0000058296A2CE80][0000058296E62800 50] iPhone7, [0000058296A2D200][0000058296E65000 50] iPodTouch7, [0000058296A26580][0000058296E6A000 50] iPhone6SPlus, [0000058296A2C780][0000058296E6C800 50] iPhone7Plus, [0000058296A24EC0][0000058296DF2800 50] iPhoneSE, [0000058296A25240][0000058296E0C800 50] iPhone8, [0000058296A2C5C0][0000058296E67800 50] iPhone8Plus, [0000058296A271C0][0000058296E40000 50] iPhoneX, [0000058296A25E80][0000058296E45000 50] iPhoneXS, [0000058296A2C080][0000058296E47800 50] iPhoneXSMax, [0000058296A29A00][0000058296E4A000 50] iPhoneXR, [0000058296A25CC0][0000058296E4C800 50] iPhone11, [0000058296A26900][0000058296E02800 50] iPhone11Pro, [0000058296A28340][0000058296E50000 50] iPhone11ProMax, [0000058296A2CCC0][0000058296E55000 50] iPhoneSE2, [0000058296A2D3C0][0000058296E57800 50] iPhone12Mini, [0000058296A27C40][0000058296E5A000 50] iPhone12, [0000058296A2DAC0][0000058296E5C800 50] iPhone12Pro, [0000058296A2AF00][0000058296E42800 50] iPhone12ProMax, [0000058296A27A80][0000058296E10000 50] iPhone13Mini, [0000058296A2A640][0000058296E15000 50] iPhone13, [0000058296A27E00][0000058296E17800 50] iPhone13Pro, [0000058296A2BEC0][0000058296E1A000 50] iPhone13ProMax, [0000058296A28500][0000058296E1C800 50] iPadPro105, [0000058296A29D80][0000058296E52800 50] iPadPro129, [0000058296A28DC0][0000058296E20000 50] iPadPro97, [0000058296A2BB40][0000058296E25000 50] iPadPro2_129, [0000058296A2D900][0000058296E27800 50] iPad5, [0000058296A263C0][0000058296E2A000 50] iPad6, [0000058296A255C0][0000058296E2C800 50] iPad7, [0000058296A2B980][0000058296E12800 50] iPad8, [0000058296A2A9C0][0000058296E80000 50] iPad9, [0000058296A24440][0000058296E85000 50] iPadPro11, [0000058296A2B7C0][0000058296E87800 50] iPadPro2_11, [0000058296A2D580][0000058296E8A000 50] iPadPro3_11, [0000058296A2BD00][0000058296E8C800 50] iPadPro3_129, [0000058296A2D740][0000058296E22800 50] iPadPro4_129, [0000058296A2C240][0000058296E90000 50] iPadPro5_129, [0000058296A2C940][0000058296E95000 50] AppleTV, [0000058296A2AD40][0000058296E97800 50] AppleTV4K, [0000058296A28C00][0000058296E9A000 50] TVOS, [0000058296A2EA80][0000058296E82800 50] Mac, [0000058296A2EE00][0000058296E9C800 50] MacEditor, [0000058296A2E540][0000058296EA0000 50] MacClient, [0000058296A286C0][0000058296EA5000 50] MacServer, [0000058296A2FDC0][0000058296EAA000 50] Linux, [0000058295E1FDC0][0000058296EA7800 50] LinuxEditor, [0000058296A2EFC0][0000058296EAC800 50] LinuxArm64Editor, [0000058296A2A800][0000058296E92800 50] LinuxArm64, [0000058296A26E40][0000058296EB0000 50] LinuxClient, [0000058296A23F00][0000058296EB5000 50] LinuxArm64Client, [0000058296A2E700][0000058296EB7800 50] LinuxServer, [0000058296A2B440][0000058296EBA000 50] LinuxArm64Server, [0000058296A26200][0000058296EBC800 50] Android, [0000058296A2DE40][0000058296EA2800 50] Android_Preview_OpenGL, [0000058296A29F40][0000058296EC0000 50] Android_Preview_Vulkan, [0000058296A2AB80][0000058296EC5000 50] Android_Low, [0000058296A2D040][0000058296EC7800 50] Android_Mid, [0000058296A26740][0000058296ECA000 50] Android_High, [0000058296A2F880][0000058296ECC800 50] Android_Default, [0000058296A2E000][0000058296EB2800 50] Android_Adreno4xx, [0000058296A2B600][0000058296ED0000 50] Android_Adreno5xx_Low, [0000058296A2E8C0][0000058296ED5000 50] Android_Adreno5xx, [0000058296A29840][0000058296ED7800 50] Android_Adreno6xx, [0000058296A24600][0000058296EDA000 50] Android_Adreno6xx_Vulkan, [0000058296A27380][0000058296EDC800 50] Android_Adreno7xx, [0000058296A2F180][0000058296EC2800 50] Android_Adreno7xx_Vulkan, [0000058296A2F500][0000058296EE0000 50] Android_Mali_T6xx, [0000058296A25B00][0000058296EE5000 50] Android_Mali_T7xx, [0000058296A29BC0][0000058296EE7800 50] Android_Mali_T8xx, [0000058296A2C400][0000058296EEA000 50] Android_Mali_G71, [0000058296A29300][0000058296EEC800 50] Android_Mali_G72, [0000058296A2DC80][0000058296ED2800 50] Android_Mali_G72_Vulkan, [0000058296F00380][0000058296EF0000 50] Android_Mali_G76, [0000058296F02300][0000058296EF5000 50] Android_Mali_G76_Vulkan, [0000058296F02140][0000058296EF7800 50] Android_Mali_G77, [0000058296F01F80][0000058296EFA000 50] Android_Mali_G77_Vulkan, [0000058296F01DC0][0000058296EFC800 50] Android_Mali_G78, [0000058296F01C00][0000058296EE2800 50] Android_Mali_G78_Vulkan, [0000058296F02F40][0000058296F10000 50] Android_Mali_G710, [0000058296F03100][0000058296F15000 50] Android_Mali_G710_Vulkan, [0000058296F00A80][0000058296F17800 50] Android_Xclipse_920, [0000058296F01A40][0000058296F1A000 50] Android_Xclipse_920_Vulkan, [0000058296F01880][0000058296F1C800 50] Android_Vulkan_SM5, [0000058296F02D80][0000058296EF2800 50] Android_PowerVR_G6xxx, [0000058296F03B80][0000058296F20000 50] Android_PowerVR_GT7xxx, [0000058296F032C0][0000058296F25000 50] Android_PowerVR_GE8xxx, [0000058296F03F00][0000058296F27800 50] Android_PowerVR_GM9xxx, [0000058296F040C0][0000058296F2A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000058296F008C0][0000058296F2C800 50] Android_TegraK1, [0000058296F01180][0000058296F12800 50] Android_Unknown_Vulkan, [0000058296F04600][0000058296F30000 50] Oculus_Quest, [0000058296F039C0][0000058296F35000 50] Oculus_Quest2, [0000058296F02680][0000058296F37800 50] HoloLens, 
+[2023.05.18-00.16.11:214][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.18-00.16.11:217][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.05.18-00.16.11:217][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.05.18-00.16.11:217][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.18-00.16.11:217][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.18-00.16.11:217][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.18-00.16.11:232][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.18-00.16.11:374][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.18-00.16.11:374][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.18-00.16.11:374][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.18-00.16.11:374][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.18-00.16.11:374][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.18-00.16.11:386][  0]LogNetVersion: Group6JellyGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 20268195)
+[2023.05.18-00.16.11:482][  0]LogSlate: Border
+[2023.05.18-00.16.11:482][  0]LogSlate: BreadcrumbButton
+[2023.05.18-00.16.11:482][  0]LogSlate: Default
+[2023.05.18-00.16.11:482][  0]LogSlate: Icons.Save
+[2023.05.18-00.16.11:482][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.18-00.16.11:482][  0]LogSlate: ListView
+[2023.05.18-00.16.11:482][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.18-00.16.11:482][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.18-00.16.11:482][  0]LogSlate: TableView.DarkRow
+[2023.05.18-00.16.11:482][  0]LogSlate: TableView.Row
+[2023.05.18-00.16.11:482][  0]LogSlate: TreeView
+[2023.05.18-00.16.11:633][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.11:655][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.11:655][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.11:745][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.18-00.16.11:745][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.18-00.16.11:745][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.18-00.16.12:047][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A30A982046084BC67AA9A0A22DCC2A44 | Instance: DA74B1E347F574FAF90C079C3D6F5247 (SOFASHUB-21164).
+[2023.05.18-00.16.12:080][  0]LogPython: Using Python 3.9.7
+[2023.05.18-00.16.12:597][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.18-00.16.12:604][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.18-00.16.13:034][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.13:047][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.13:072][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.13:097][  0]LogUProjectInfo: Found projects:
+[2023.05.18-00.16.13:435][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.18-00.16.13:551][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.18-00.16.13:574][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.18-00.16.13:574][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.18-00.16.13:762][  0]LogCollectionManager: Loaded 0 collections in 0.001441 seconds
+[2023.05.18-00.16.13:875][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Collections/' took 0.00s
+[2023.05.18-00.16.13:875][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Developers/sophi/Collections/' took 0.00s
+[2023.05.18-00.16.13:875][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/Collections/' took 0.00s
+[2023.05.18-00.16.14:187][  0]LogEngine: Initializing Engine...
+[2023.05.18-00.16.14:198][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.18-00.16.14:198][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.18-00.16.14:390][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.18-00.16.14:391][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.18-00.16.14:400][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.18-00.16.14:425][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.18-00.16.14:425][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.18-00.16.14:444][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.18-00.16.14:445][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.18-00.16.14:445][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.18-00.16.14:451][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.18-00.16.15:535][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.05.18-00.16.15:535][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.18-00.16.15:538][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.18-00.16.15:538][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.18-00.16.15:538][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.18-00.16.15:538][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.18-00.16.15:540][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.18-00.16.15:540][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.18-00.16.15:540][  0]LogInit: FAudioDevice initialized.
+[2023.05.18-00.16.15:540][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.18-00.16.15:540][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.18-00.16.15:540][  0]LogInit: Texture streaming: Enabled
+[2023.05.18-00.16.15:572][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.18-00.16.15:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.18-00.16.15:580][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1B90FEE3-4849-D127-2EA6-1389D1FF08CC}
+[2023.05.18-00.16.15:599][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.18-00.16.15:636][  0]LogInit: Transaction tracking system initialized
+[2023.05.18-00.16.15:694][  0]BlueprintLog: New page: Editor Load
+[2023.05.18-00.16.15:844][  0]LocalizationService: Localization service is disabled
+[2023.05.18-00.16.15:885][  0]TimingProfiler: Initialize
+[2023.05.18-00.16.15:885][  0]TimingProfiler: OnSessionChanged
+[2023.05.18-00.16.15:885][  0]LoadingProfiler: Initialize
+[2023.05.18-00.16.15:885][  0]LoadingProfiler: OnSessionChanged
+[2023.05.18-00.16.15:885][  0]NetworkingProfiler: Initialize
+[2023.05.18-00.16.15:885][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.18-00.16.15:885][  0]MemoryProfiler: Initialize
+[2023.05.18-00.16.15:885][  0]MemoryProfiler: OnSessionChanged
+[2023.05.18-00.16.16:444][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/' took 0.06s
+[2023.05.18-00.16.16:444][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.18-00.16.16:508][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.18-00.16.16:510][  0]SourceControl: Source control is disabled
+[2023.05.18-00.16.16:510][  0]LogUnrealEdMisc: Loading editor; pre map load, took 67.300
+[2023.05.18-00.16.16:510][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.18-00.16.16:510][  0]LightingResults: New page: Lighting Build
+[2023.05.18-00.16.16:516][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.18-00.16.16:516][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.18-00.16.16:516][  0]MapCheck: New page: Map Check
+[2023.05.18-00.16.16:516][  0]LightingResults: New page: Lighting Build
+[2023.05.18-00.16.16:523][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.18-00.16.16:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.18-00.16.16:538][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2023.05.18-00.16.16:538][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.18-00.16.16:538][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.18-00.16.16:538][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2023.05.18-00.16.16:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.18-00.16.16:547][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.18-00.16.16:547][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.18-00.16.16:548][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2023.05.18-00.16.16:548][  0]LogFileHelpers: Loading map 'MainMenuMap' took 0.037
+[2023.05.18-00.16.16:558][  0]LogUnrealEdMisc: Total Editor Startup Time, took 67.347
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: ================================================
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.18-00.16.16:558][  0]LogShaderCompilers: Display: ================================================
+[2023.05.18-00.16.16:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.18-00.16.16:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.18-00.16.16:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.18-00.16.16:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.18-00.16.16:747][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:747][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:747][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:747][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:748][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:748][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:748][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:748][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:749][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.18-00.16.16:750][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.18-00.16.16:751][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.18-00.16.16:862][  0]LogStall: Startup...
+[2023.05.18-00.16.16:865][  0]LogStall: Startup complete.
+[2023.05.18-00.16.16:874][  0]LogLoad: (Engine Initialization) Total time: 67.66 seconds
+[2023.05.18-00.16.16:875][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.18-00.16.16:910][  0]LogAssetRegistry: Asset discovery search completed in 6.0498 seconds
+[2023.05.18-00.16.16:917][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.18-00.16.16:944][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.18-00.16.16:967][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.18-00.16.16:969][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.18-00.16.16:992][  0]LogViewport: Scene viewport resized to 1513x792, mode Windowed.
+[2023.05.18-00.16.53:014][428]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.18-00.16.55:005][627]Cmd: MAP LOAD FILE="../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.18-00.16.55:005][627]LightingResults: New page: Lighting Build
+[2023.05.18-00.16.55:006][627]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.05.18-00.16.55:007][627]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.18-00.16.55:007][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.18-00.16.55:007][627]MapCheck: New page: Map Check
+[2023.05.18-00.16.55:007][627]LightingResults: New page: Lighting Build
+[2023.05.18-00.16.55:014][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.18-00.16.55:015][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.18-00.16.55:059][627]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/door/computer.computer_C or WidgetBlueprintGeneratedClass /Game/widgets/computer.computer_C
+[2023.05.18-00.16.55:059][627]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/door/computer.computer_C or WidgetBlueprintGeneratedClass /Game/widgets/computer.computer_C
+[2023.05.18-00.16.55:066][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.18-00.16.55:071][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.18-00.16.55:071][627]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.18-00.16.55:072][627]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.18-00.16.55:072][627]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.18-00.16.55:853][627]LogLinker: Warning: [AssetLog] C:\GitHub\GameJam2\Group-6-Jellly-Game\Group6JellyGame\Content\Assets\TV\TV.uasset: Failed to load '/Game/Assets/TV/lambert1': Can't find file.
+[2023.05.18-00.16.55:853][627]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/TV/lambert1'
+[2023.05.18-00.16.55:892][627]LogWorldPartition: Display: WorldPartition initialize took 819 ms
+[2023.05.18-00.16.55:918][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.18-00.16.55:932][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.18-00.16.55:940][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.18-00.16.55:940][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.835ms to complete.
+[2023.05.18-00.16.55:940][627]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.936
+[2023.05.18-00.16.58:305][708]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.17.29:942][161]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.17.30:938][173]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.17.37:688][261]Cmd: DUPLICATE
+[2023.05.18-00.17.37:688][261]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.18.13:578][699]LogDerivedDataCache: C:/Users/sophi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.880 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.18-00.18.21:620][849]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.24:895][948]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.27:896][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.27:952][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.29:892][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.30:746][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.31:467][ 89]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.31:947][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.33:568][155]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.37:560][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.18-00.18.37:600][291]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004196 seconds
+[2023.05.18-00.18.37:602][291]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG
+[2023.05.18-00.18.37:602][291]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7JD6VIW8ATMEWP7NUHDKWGAC984F2D4432CB1BAF36C2BC65FAF156.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG.uasset'
+[2023.05.18-00.18.37:606][291]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VV/SCBF1M5H537GNG1N9EKXDG
+[2023.05.18-00.18.37:606][291]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/SCBF1M5H537GNG1N9EKXDG8A0BF3EA4A50640CCF3C08A220A6D97C.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VV/SCBF1M5H537GNG1N9EKXDG.uasset'
+[2023.05.18-00.18.37:634][291]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.18.37:634][291]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1341398367
+[2023.05.18-00.18.37:636][291]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1269850023
+[2023.05.18-00.18.41:544][342]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.41:674][344]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.43:258][364]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.45:295][445]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.18.47:201][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.18-00.18.47:246][593]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VV/SCBF1M5H537GNG1N9EKXDG
+[2023.05.18-00.18.47:246][593]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/SCBF1M5H537GNG1N9EKXDGCD66165E484EF430A0E20EB3D9CD3DF8.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VV/SCBF1M5H537GNG1N9EKXDG.uasset'
+[2023.05.18-00.18.47:270][593]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2C3B70D214E4938301_1341398367
+[2023.05.18-00.18.47:270][593]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1341398367
+[2023.05.18-00.18.59:782][806]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.00:804][817]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.04:039][899]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.12:778][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.12:930][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.13:082][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.14:986][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.15:030][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.15:840][102]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.20:247][202]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.23:674][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.18-00.19.23:739][317]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW
+[2023.05.18-00.19.23:739][317]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/LELXSF4K1B1EF2C1Q8QPXW01CB9713412B9119B85FEABE0AAEDB41.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW.uasset'
+[2023.05.18-00.19.23:768][317]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2C3B70D214E4918301_1214139022
+[2023.05.18-00.19.23:768][317]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1214139022
+[2023.05.18-00.19.54:403][766]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.56:852][797]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.57:343][803]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.57:676][807]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.58:002][811]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.58:901][822]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.19.59:349][825]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.02:197][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.18-00.20.02:269][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3C/XGGOU21SPLO8CC7MGX4XZM
+[2023.05.18-00.20.02:271][966]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XGGOU21SPLO8CC7MGX4XZME69376B44E3B6585578A12921A260145.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3C/XGGOU21SPLO8CC7MGX4XZM.uasset'
+[2023.05.18-00.20.02:274][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW
+[2023.05.18-00.20.02:275][966]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/LELXSF4K1B1EF2C1Q8QPXW2A297AA44743615FDA2D7AA5DD83EAC2.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW.uasset'
+[2023.05.18-00.20.02:297][966]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.20.02:297][966]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1156879698
+[2023.05.18-00.20.02:297][966]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1214139022
+[2023.05.18-00.20.08:418][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.12:424][125]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.13:633][140]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.13:869][143]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.16:146][210]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.20:277][316]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.20:333][318]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.21:088][328]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.21:393][332]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.21:800][337]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.22:043][340]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.22:456][345]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.22:976][349]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.25:298][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.18-00.20.25:370][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG
+[2023.05.18-00.20.25:371][458]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7JD6VIW8ATMEWP7NUHDKWG65CEEA5B4047D8BB1148438ECE499E7C.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG.uasset'
+[2023.05.18-00.20.25:397][458]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2C3B70D214E4918301_1269850023
+[2023.05.18-00.20.25:397][458]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1269850023
+[2023.05.18-00.20.33:452][601]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.36:813][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.18-00.20.36:887][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG
+[2023.05.18-00.20.36:888][732]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7JD6VIW8ATMEWP7NUHDKWG35084FB44FC4E1352DEAC5B07E1A9B2D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/48/7JD6VIW8ATMEWP7NUHDKWG.uasset'
+[2023.05.18-00.20.36:911][732]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2C3B70D214E4918301_1269850023
+[2023.05.18-00.20.36:911][732]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1269850023
+[2023.05.18-00.20.58:102][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.59:085][ 66]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.20.59:414][ 70]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.00:093][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.01:353][ 93]Cmd: TRANSACTION UNDO
+[2023.05.18-00.21.01:353][ 93]LogEditorTransaction: Undo Move Elements
+[2023.05.18-00.21.02:316][160]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.05:026][246]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.06:413][265]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.08:293][329]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.09:557][348]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.10:434][358]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.15:039][458]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.20:738][582]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.29:713][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.18-00.21.29:785][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW
+[2023.05.18-00.21.29:785][800]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/LELXSF4K1B1EF2C1Q8QPXWE8F0F3424260FD77BF4377BC8D9D9E1B.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SB/LELXSF4K1B1EF2C1Q8QPXW.uasset'
+[2023.05.18-00.21.29:809][800]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2C3B70D214E4918301_1214139022
+[2023.05.18-00.21.29:809][800]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4918301_1214139022
+[2023.05.18-00.21.32:168][832]Cmd: DUPLICATE
+[2023.05.18-00.21.32:168][832]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.21.32:356][833]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.35:093][924]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.37:509][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.40:006][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.41:325][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.41:387][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.42:748][128]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.43:887][143]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.45:534][163]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.45:862][167]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.46:192][171]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.47:008][181]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.47:372][183]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.49:883][271]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.50:355][275]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.52:934][351]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.53:910][364]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.54:152][367]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.21.56:438][438]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.02:190][563]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.04:236][590]Cmd: DUPLICATE
+[2023.05.18-00.22.04:237][590]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.22.04:423][591]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.06:965][677]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.07:702][687]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.07:847][689]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.08:483][697]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.09:393][706]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.13:467][759]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.18:436][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.18-00.22.18:474][  2]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/T4/LVMLBL0FF72R13PARZEI6P
+[2023.05.18-00.22.18:474][  2]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/LVMLBL0FF72R13PARZEI6P86C17B554B9B0D07602844B8C6D9739D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/T4/LVMLBL0FF72R13PARZEI6P.uasset'
+[2023.05.18-00.22.18:477][  2]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KI/IZ86WJIHK87EWCZENKY64H
+[2023.05.18-00.22.18:477][  2]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/IZ86WJIHK87EWCZENKY64H79AAD27C401F35013655758C5407DFAA.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KI/IZ86WJIHK87EWCZENKY64H.uasset'
+[2023.05.18-00.22.18:502][  2]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.22.18:502][  2]LogContentValidation: Display: Validating breakables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.breakables_C_UAID_2C3B70D214E4938301_1575876368
+[2023.05.18-00.22.18:502][  2]LogContentValidation: Display: Validating breakables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.breakables_C_UAID_2C3B70D214E4938301_1607944369
+[2023.05.18-00.22.18:503][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.48:623][385]Cmd: DUPLICATE
+[2023.05.18-00.22.48:623][385]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.22.48:866][386]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.51:308][476]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.52:550][490]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.52:842][494]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.53:135][498]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.53:687][505]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.22.54:524][513]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.02:339][668]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.03:107][676]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.07:431][732]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.07:905][738]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.08:308][742]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.23.11:491][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.18-00.23.11:565][894]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KI/IZ86WJIHK87EWCZENKY64H
+[2023.05.18-00.23.11:566][894]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/IZ86WJIHK87EWCZENKY64H7B9A026442AEB232A0E1628EB641D5ED.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KI/IZ86WJIHK87EWCZENKY64H.uasset'
+[2023.05.18-00.23.11:570][894]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8S/XATMA5C57XT8ISJNT3S16X
+[2023.05.18-00.23.11:570][894]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/XATMA5C57XT8ISJNT3S16X3F5822E742D6BAE9BFCAB8BABD8D7EAF.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8S/XATMA5C57XT8ISJNT3S16X.uasset'
+[2023.05.18-00.23.11:592][894]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.23.11:592][894]LogContentValidation: Display: Validating breakables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.breakables_C_UAID_2C3B70D214E4938301_1607944369
+[2023.05.18-00.23.11:592][894]LogContentValidation: Display: Validating breakables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.breakables_C_UAID_2C3B70D214E4938301_1652330370
+[2023.05.18-00.25.15:039][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.18-00.25.15:113][591]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P7/OKRHUN21VUEN4C30DOWYW2
+[2023.05.18-00.25.15:114][591]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/OKRHUN21VUEN4C30DOWYW2B1ABC34841C2CB81A07813A73F066E8F.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P7/OKRHUN21VUEN4C30DOWYW2.uasset'
+[2023.05.18-00.25.15:138][591]AssetCheck: New page: Asset Save: PointLight_UAID_00FFEC6BEB988B7E01_1146815696
+[2023.05.18-00.25.15:139][591]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1146815696
+[2023.05.18-00.25.16:518][615]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.18-00.25.16:531][615]LogSlate: Took 0.000536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.18-00.25.24:010][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/collectable/Collectable.Collectable_C
+[2023.05.18-00.25.24:010][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/collectable/Collectable.Collectable_C
+[2023.05.18-00.25.24:012][800]LogActorFactory: Actor Factory spawned Blueprint /Game/collectable/Collectable.Collectable as actor: Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_0
+[2023.05.18-00.25.24:013][800]LogActorFactory: Actor Factory spawned Blueprint /Game/collectable/Collectable.Collectable as actor: Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_0
+[2023.05.18-00.25.26:790][868]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/collectable/Collectable.Collectable_C
+[2023.05.18-00.25.26:790][868]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/collectable/Collectable.Collectable_C
+[2023.05.18-00.25.26:794][868]LogActorFactory: Actor Factory spawned Blueprint /Game/collectable/Collectable.Collectable as actor: Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_UAID_2C3B70D214E4938301_1810496371
+[2023.05.18-00.25.26:797][868]LogActorFactory: Actor Factory spawned Blueprint /Game/collectable/Collectable.Collectable as actor: Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_UAID_2C3B70D214E4938301_1810496371
+[2023.05.18-00.25.26:822][869]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.29:551][955]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.32:637][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.32:822][  8]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.33:517][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.33:708][ 22]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.33:835][ 24]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.34:151][ 29]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.35:550][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.36:520][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.37:488][ 81]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.37:617][ 83]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.38:263][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.25.40:850][133]Cmd: DUPLICATE
+[2023.05.18-00.25.40:850][133]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.26.09:245][544]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.18-00.26.12:099][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.05.18-00.26.12:176][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZS/6JB88C56B07J447CRZ9NV0
+[2023.05.18-00.26.12:176][657]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/6JB88C56B07J447CRZ9NV07EAF8AEB42CEED5334D8F3BE13086982.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZS/6JB88C56B07J447CRZ9NV0.uasset'
+[2023.05.18-00.26.12:179][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WT/68A7Q2EWRNVCSYKQJ8S2G0
+[2023.05.18-00.26.12:179][657]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/68A7Q2EWRNVCSYKQJ8S2G09E1C313547C59F0FC124BC8BAE409FD7.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WT/68A7Q2EWRNVCSYKQJ8S2G0.uasset'
+[2023.05.18-00.26.12:204][657]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.26.12:204][657]LogContentValidation: Display: Validating Collectable_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Collectable_C_UAID_2C3B70D214E4938301_1810496371
+[2023.05.18-00.26.12:204][657]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_2C3B70D214E4938301_1824557372
+[2023.05.18-00.26.32:975][924]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.18-00.26.34:200][941]Cmd: DUPLICATE
+[2023.05.18-00.26.34:200][941]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.26.52:926][173]Cmd: TRANSACTION UNDO
+[2023.05.18-00.26.52:926][173]LogEditorTransaction: Undo Move Elements
+[2023.05.18-00.26.57:053][281]Cmd: TRANSACTION UNDO
+[2023.05.18-00.26.57:053][281]LogEditorTransaction: Undo Move Elements
+[2023.05.18-00.27.34:384][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.18-00.27.34:432][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QJ/7O3NRO6URHYBOM0IHFOSLP
+[2023.05.18-00.27.34:433][868]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7O3NRO6URHYBOM0IHFOSLP27CE466640EA33EBA7DD0DB4E417538F.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QJ/7O3NRO6URHYBOM0IHFOSLP.uasset'
+[2023.05.18-00.27.34:438][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GY/7U0OBN2UIXQ2HKX58SMIP1
+[2023.05.18-00.27.34:438][868]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/7U0OBN2UIXQ2HKX58SMIP1CBF4D3A8446C774B8420B89139C991E5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GY/7U0OBN2UIXQ2HKX58SMIP1.uasset'
+[2023.05.18-00.27.34:442][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC
+[2023.05.18-00.27.34:443][868]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WKQXC5V6SDBJQ2D12F1UDC44C1602E4E4D560722BDCCB9360CE8C0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC.uasset'
+[2023.05.18-00.27.34:445][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IQ/KST9YQJJY0M40V2L3A4FYJ
+[2023.05.18-00.27.34:446][868]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/KST9YQJJY0M40V2L3A4FYJ06E11FDC48726C5E9B72BF98FD4C092C.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IQ/KST9YQJJY0M40V2L3A4FYJ.uasset'
+[2023.05.18-00.27.34:449][868]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/V9/ZSVCIMQAG0HV7FAVHHCYKY
+[2023.05.18-00.27.34:449][868]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/ZSVCIMQAG0HV7FAVHHCYKY994D5D8943B84261EF82D59F89DBAC8E.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/V9/ZSVCIMQAG0HV7FAVHHCYKY.uasset'
+[2023.05.18-00.27.34:476][868]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.27.34:476][868]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_2C3B70D214E47B8301_1210967143
+[2023.05.18-00.27.34:476][868]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_2C3B70D214E47B8301_1460077145
+[2023.05.18-00.27.34:476][868]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_2C3B70D214E4938301_1877908373
+[2023.05.18-00.27.34:476][868]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1153009697
+[2023.05.18-00.27.34:476][868]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1134071695
+[2023.05.18-00.27.36:636][995]LogViewport: Scene viewport resized to 1033x792, mode Windowed.
+[2023.05.18-00.27.40:620][ 49]LogStaticMesh: Display: Building static mesh Cylinder_E730C37B...
+[2023.05.18-00.27.40:621][ 49]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/sophi/Cylinder_E730C37B.Cylinder_E730C37B
+[2023.05.18-00.27.40:709][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.42:951][149]LogViewport: Scene viewport resized to 1513x792, mode Windowed.
+[2023.05.18-00.27.47:958][210]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.48:100][212]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.48:839][220]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.51:105][275]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.52:133][288]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.52:820][294]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.54:114][311]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.54:837][320]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.58:316][363]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.27.59:023][370]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.01:037][396]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.02:837][474]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.05:867][565]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.06:833][575]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.11:426][687]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.12:445][700]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.12:876][704]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.18:187][768]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.18:696][774]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.18:866][776]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.19:118][779]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.19:534][784]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.20:291][791]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.26:294][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.05.18-00.28.26:357][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YS/B7BJP5FK5TL7WKNIOMG8V1
+[2023.05.18-00.28.26:357][940]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/B7BJP5FK5TL7WKNIOMG8V1962F86AF42CFB4275082DF89F0BD2457.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YS/B7BJP5FK5TL7WKNIOMG8V1.uasset'
+[2023.05.18-00.28.26:399][940]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/sophi/Cylinder_E730C37B
+[2023.05.18-00.28.26:399][940]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/Cylinder_E730C37B6A19A86F4523C7825A4089A9E4D035A9.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/ThirdPerson/Maps/_GENERATED/sophi/Cylinder_E730C37B.uasset'
+[2023.05.18-00.28.26:423][940]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.28.26:423][940]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1944196374
+[2023.05.18-00.28.26:423][940]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/Maps/_GENERATED/sophi/Cylinder_E730C37B.Cylinder_E730C37B
+[2023.05.18-00.28.27:995][962]Cmd: DUPLICATE
+[2023.05.18-00.28.27:995][962]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.28.28:208][963]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.32:201][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.33:725][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.34:063][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.34:889][ 96]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.35:802][107]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.36:288][111]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.56:663][426]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.57:602][436]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.28.57:917][438]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.00:484][530]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.01:028][535]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.02:346][555]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.02:962][561]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.08:273][629]Cmd: DUPLICATE
+[2023.05.18-00.29.08:273][629]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.29.08:481][630]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.11:016][714]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.12:268][731]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.13:312][743]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.18:742][868]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.19:365][877]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.19:502][879]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.20:582][891]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.29.24:331][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.18-00.29.24:407][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC
+[2023.05.18-00.29.24:408][ 46]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/WKQXC5V6SDBJQ2D12F1UDC5ED1390E4498618334D778836454B3E5.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TR/WKQXC5V6SDBJQ2D12F1UDC.uasset'
+[2023.05.18-00.29.24:410][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0T/W1DTW7QR3SEEYTGANR87II
+[2023.05.18-00.29.24:410][ 46]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/W1DTW7QR3SEEYTGANR87II40DB3234462810338EA74184C44AF87D.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0T/W1DTW7QR3SEEYTGANR87II.uasset'
+[2023.05.18-00.29.24:412][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AU/2LAPO6V4QTHXE9D8NYEO1I
+[2023.05.18-00.29.24:412][ 46]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/2LAPO6V4QTHXE9D8NYEO1I281338C24BBCA97584961A840898C6D0.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AU/2LAPO6V4QTHXE9D8NYEO1I.uasset'
+[2023.05.18-00.29.24:437][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.29.24:437][ 46]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_2031980376
+[2023.05.18-00.29.24:437][ 46]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1991703375
+[2023.05.18-00.29.24:437][ 46]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_00FFEC6BEB988B7E01_1153009697
+[2023.05.18-00.36.32:744][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.18-00.36.32:783][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0T/W1DTW7QR3SEEYTGANR87II
+[2023.05.18-00.36.32:783][208]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/W1DTW7QR3SEEYTGANR87IIAD6EE5044A661357EFFC2AACDA997789.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0T/W1DTW7QR3SEEYTGANR87II.uasset'
+[2023.05.18-00.36.32:786][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YS/B7BJP5FK5TL7WKNIOMG8V1
+[2023.05.18-00.36.32:787][208]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/B7BJP5FK5TL7WKNIOMG8V18A4BE39847524303308CECBAECA1077C.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YS/B7BJP5FK5TL7WKNIOMG8V1.uasset'
+[2023.05.18-00.36.32:790][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AU/2LAPO6V4QTHXE9D8NYEO1I
+[2023.05.18-00.36.32:791][208]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/2LAPO6V4QTHXE9D8NYEO1ID2DA77A44D3C591470868EA176C2844F.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AU/2LAPO6V4QTHXE9D8NYEO1I.uasset'
+[2023.05.18-00.36.32:815][208]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.18-00.36.32:815][208]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1944196374
+[2023.05.18-00.36.32:815][208]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_2031980376
+[2023.05.18-00.36.32:815][208]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2C3B70D214E4938301_1991703375
+[2023.05.18-00.37.01:172][613]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.03:879][645]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.04:410][649]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.07:875][695]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:008][697]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:172][699]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:412][702]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:577][704]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:741][706]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.08:908][708]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.09:149][711]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.09:546][716]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.10:509][727]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.14:676][834]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.16:564][858]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.16:883][862]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.17:126][865]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.17:611][871]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.17:932][875]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.18:458][879]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.19:763][898]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.21:149][968]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.21:196][970]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.22:321][985]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.22:924][990]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.29:931][134]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.30:983][149]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.31:738][159]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.32:413][168]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.33:039][174]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.34:269][192]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.36:941][279]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.36:987][281]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.37:642][288]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.05.18-00.37.48:827][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.18-00.37.48:881][548]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3I/UHJ4ITMOF8VHRYOZNXS3R7
+[2023.05.18-00.37.48:882][548]LogSavePackage: Moving '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Saved/UHJ4ITMOF8VHRYOZNXS3R7AF21F7484D086A491BF25EA474222E49.tmp' to '../../../../../../GitHub/GameJam2/Group-6-Jellly-Game/Group6JellyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3I/UHJ4ITMOF8VHRYOZNXS3R7.uasset'
+[2023.05.18-00.37.48:912][548]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_00FFEC6BEB98817E01_1753153943
+[2023.05.18-00.37.48:912][548]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FFEC6BEB98817E01_1753153943
+[2023.05.18-00.39.01:824][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.18-00.40.44:389][732]Cmd: DUPLICATE
+[2023.05.18-00.40.44:389][732]Cmd: ACTOR DUPLICATE
+[2023.05.18-00.41.09:590][990]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.05.18-00.41.09:590][990]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2023.05.18-00.41.09:590][990]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - End: Frame 24986 - Scene - ShadowDepths - Cubemap ThirdPersonMap.PointLight44 1024^2 - WholeScene MovablePrimitives 1024x1024 - CopyCachedShadowMap
+[2023.05.18-00.41.09:593][990]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2023.05.18-00.41.09:603][990]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.05.18-00.41.09:603][990]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2023.05.18-00.41.09:614][990]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2023.05.18-00.41.09:614][990]LogD3D12RHI: Error: DRED: No PageFault data.
+[2023.05.18-00.41.09:614][990]LogD3D12RHI: Error: Memory Info from frame ID 25068:
+[2023.05.18-00.41.09:614][990]LogD3D12RHI: Error: 	Budget:	7389.15 MB
+[2023.05.18-00.41.09:614][990]LogD3D12RHI: Error: 	Used:	2645.76 MB
+[2023.05.18-00.41.12:631][990]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+
+
+
+[2023.05.18-00.41.13:497][990]LogRHI: Error: Breadcrumbs 'RHIThread'
+
+[2023.05.18-00.41.13:497][990]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.05.18-00.41.13:497][990]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.05.18-00.41.13:497][990]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.18-00.41.13:497][990]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.05.18-00.41.13:497][990]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.05.18-00.41.13:497][990]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.05.18-00.41.13:498][990]Log file closed, 05/18/23 01:41:13
